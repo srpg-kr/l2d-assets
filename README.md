@@ -1,8 +1,3 @@
-Here’s a suggested `README.md` you can use for your `l2d-assets` repository. It explains the purpose of the repo clearly while including **strong copyright disclaimers** to establish *non-ownership, non-commercial intent,* and *fair use justification*. (This is not legal advice, but a common approach used in fan-hosted asset repositories.)
-
----
-
-```markdown
 # l2d-assets
 
 ## Purpose
