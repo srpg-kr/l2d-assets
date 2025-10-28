@@ -10,9 +10,9 @@
     "Pose": null,
     "DisplayInfo": "11901_F_b.cdi3.json",
     "Motions": {
-      "full_2": [
+      "full_1": [
         {
-          "File": "motions/full_2.motion3.json"
+          "File": "motions/full_1.motion3.json"
         }
       ]
     },

@@ -15,6 +15,16 @@
         {
           "File": "motions/idle.motion3.json"
         }
+      ],
+      "presents_a": [
+        {
+          "File": "motions/presents_a.motion3.json"
+        }
+      ],
+      "ultra": [
+        {
+          "File": "motions/ultra.motion3.json"
+        }
       ]
     },
     "Expressions": []
