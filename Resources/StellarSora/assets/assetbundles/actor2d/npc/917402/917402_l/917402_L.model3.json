@@ -11,6 +11,31 @@
     "Pose": null,
     "DisplayInfo": "917402_L.cdi3.json",
     "Motions": {
+      "chat_a": [
+        {
+          "File": "motions/chat_a.motion3.json"
+        }
+      ],
+      "chat_b": [
+        {
+          "File": "motions/chat_b.motion3.json"
+        }
+      ],
+      "chat_c": [
+        {
+          "File": "motions/chat_c.motion3.json"
+        }
+      ],
+      "chat_d": [
+        {
+          "File": "motions/chat_d.motion3.json"
+        }
+      ],
+      "chat_e": [
+        {
+          "File": "motions/chat_e.motion3.json"
+        }
+      ],
       "idle": [
         {
           "File": "motions/idle.motion3.json"

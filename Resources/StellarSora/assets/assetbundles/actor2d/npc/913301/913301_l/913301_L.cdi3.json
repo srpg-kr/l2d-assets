@@ -2,134 +2,9 @@
   "Version": 3,
   "Parameters": [
     {
-      "Id": "Param",
-      "GroupId": "",
-      "Name": "泡泡消失"
-    },
-    {
-      "Id": "Param10",
-      "GroupId": "",
-      "Name": "泡泡上下3"
-    },
-    {
-      "Id": "Param11",
-      "GroupId": "",
-      "Name": "泡泡上下4"
-    },
-    {
-      "Id": "Param12",
-      "GroupId": "",
-      "Name": "胸x"
-    },
-    {
-      "Id": "Param13",
-      "GroupId": "",
-      "Name": "胸y"
-    },
-    {
-      "Id": "Param14",
-      "GroupId": "",
-      "Name": "扣子开"
-    },
-    {
-      "Id": "Param15",
-      "GroupId": "",
-      "Name": "左腿"
-    },
-    {
-      "Id": "Param16",
-      "GroupId": "",
-      "Name": "左脚"
-    },
-    {
-      "Id": "Param17",
-      "GroupId": "",
-      "Name": "右腿"
-    },
-    {
-      "Id": "Param18",
-      "GroupId": "",
-      "Name": "右脚"
-    },
-    {
-      "Id": "Param19",
-      "GroupId": "",
-      "Name": "拖鞋"
-    },
-    {
-      "Id": "Param2",
-      "GroupId": "",
-      "Name": "泡泡上下"
-    },
-    {
       "Id": "Param20",
       "GroupId": "",
       "Name": "脚趾"
-    },
-    {
-      "Id": "Param21",
-      "GroupId": "",
-      "Name": "右臂"
-    },
-    {
-      "Id": "Param22",
-      "GroupId": "",
-      "Name": "右腕"
-    },
-    {
-      "Id": "Param23",
-      "GroupId": "",
-      "Name": "右手"
-    },
-    {
-      "Id": "Param24",
-      "GroupId": "",
-      "Name": "右腕长短"
-    },
-    {
-      "Id": "Param25",
-      "GroupId": "",
-      "Name": "瓶子"
-    },
-    {
-      "Id": "Param26",
-      "GroupId": "",
-      "Name": "胸物理"
-    },
-    {
-      "Id": "Param3",
-      "GroupId": "",
-      "Name": "泡泡2"
-    },
-    {
-      "Id": "Param4",
-      "GroupId": "",
-      "Name": "泡泡3"
-    },
-    {
-      "Id": "Param5",
-      "GroupId": "",
-      "Name": "泡泡4"
-    },
-    {
-      "Id": "Param6",
-      "GroupId": "",
-      "Name": "泡泡消失2"
-    },
-    {
-      "Id": "Param7",
-      "GroupId": "",
-      "Name": "泡泡消失3"
-    },
-    {
-      "Id": "Param8",
-      "GroupId": "",
-      "Name": "泡泡消失4"
-    },
-    {
-      "Id": "Param9",
-      "GroupId": "",
-      "Name": "泡泡上下2"
     },
     {
       "Id": "ParamAll",
@@ -152,6 +27,16 @@
       "Name": "角度 Z"
     },
     {
+      "Id": "ParamAngleZ2",
+      "GroupId": "",
+      "Name": "角度 Z2"
+    },
+    {
+      "Id": "ParamArmR",
+      "GroupId": "",
+      "Name": "右臂"
+    },
+    {
       "Id": "ParamBodyAngleX",
       "GroupId": "",
       "Name": "身体旋转　X"
@@ -165,6 +50,16 @@
       "Id": "ParamBodyAngleZ",
       "GroupId": "",
       "Name": "身体旋转　Z"
+    },
+    {
+      "Id": "ParamBottle",
+      "GroupId": "",
+      "Name": "瓶子"
+    },
+    {
+      "Id": "ParamBottle2",
+      "GroupId": "",
+      "Name": "瓶子2"
     },
     {
       "Id": "ParamBreath",
@@ -192,9 +87,69 @@
       "Name": "右眉　変形"
     },
     {
-      "Id": "ParamBubble",
+      "Id": "ParamBubble1",
       "GroupId": "",
       "Name": "泡泡"
+    },
+    {
+      "Id": "ParamBubble10",
+      "GroupId": "",
+      "Name": "泡泡4"
+    },
+    {
+      "Id": "ParamBubble11",
+      "GroupId": "",
+      "Name": "泡泡消失4"
+    },
+    {
+      "Id": "ParamBubble12",
+      "GroupId": "",
+      "Name": "泡泡上下4"
+    },
+    {
+      "Id": "ParamBubble2",
+      "GroupId": "",
+      "Name": "泡泡消失"
+    },
+    {
+      "Id": "ParamBubble3",
+      "GroupId": "",
+      "Name": "泡泡上下"
+    },
+    {
+      "Id": "ParamBubble4",
+      "GroupId": "",
+      "Name": "泡泡2"
+    },
+    {
+      "Id": "ParamBubble5",
+      "GroupId": "",
+      "Name": "泡泡消失2"
+    },
+    {
+      "Id": "ParamBubble6",
+      "GroupId": "",
+      "Name": "泡泡上下2"
+    },
+    {
+      "Id": "ParamBubble7",
+      "GroupId": "",
+      "Name": "泡泡3"
+    },
+    {
+      "Id": "ParamBubble8",
+      "GroupId": "",
+      "Name": "泡泡消失3"
+    },
+    {
+      "Id": "ParamBubble9",
+      "GroupId": "",
+      "Name": "泡泡上下3"
+    },
+    {
+      "Id": "ParamButton",
+      "GroupId": "",
+      "Name": "扣子开"
     },
     {
       "Id": "ParamCheek",
@@ -237,9 +192,34 @@
       "Name": "右眼　微笑"
     },
     {
+      "Id": "ParamFootL",
+      "GroupId": "",
+      "Name": "左脚"
+    },
+    {
+      "Id": "ParamFootR",
+      "GroupId": "",
+      "Name": "右脚"
+    },
+    {
+      "Id": "ParamHandR",
+      "GroupId": "",
+      "Name": "右手"
+    },
+    {
       "Id": "ParamHi",
       "GroupId": "",
       "Name": "高光"
+    },
+    {
+      "Id": "ParamLegL",
+      "GroupId": "",
+      "Name": "左腿"
+    },
+    {
+      "Id": "ParamLegR",
+      "GroupId": "",
+      "Name": "右腿"
     },
     {
       "Id": "ParamMouthForm",
@@ -252,9 +232,54 @@
       "Name": "嘴　张开和闭合"
     },
     {
+      "Id": "ParamOppai",
+      "GroupId": "",
+      "Name": "胸物理"
+    },
+    {
+      "Id": "ParamOppaiX",
+      "GroupId": "",
+      "Name": "左胸x"
+    },
+    {
+      "Id": "ParamOppaiX2",
+      "GroupId": "",
+      "Name": "右胸x"
+    },
+    {
+      "Id": "ParamOppaiY",
+      "GroupId": "",
+      "Name": "胸y"
+    },
+    {
       "Id": "ParamSaliva",
       "GroupId": "",
       "Name": "口水"
+    },
+    {
+      "Id": "ParamShoes",
+      "GroupId": "",
+      "Name": "拖鞋"
+    },
+    {
+      "Id": "ParamShoulderL",
+      "GroupId": "",
+      "Name": "左肩"
+    },
+    {
+      "Id": "ParamShoulderR",
+      "GroupId": "",
+      "Name": "右肩"
+    },
+    {
+      "Id": "ParamWristR",
+      "GroupId": "",
+      "Name": "右腕长短"
+    },
+    {
+      "Id": "ParamWristR2",
+      "GroupId": "",
+      "Name": "右腕"
     },
     {
       "Id": "Param_Angle_Rotation100",
@@ -590,6 +615,10 @@
       "Name": "backhair_2(蒙皮)"
     },
     {
+      "Id": "bg",
+      "Name": "背景"
+    },
+    {
       "Id": "bowshadow_1_Skinning",
       "Name": "bow_3(蒙皮)"
     },
@@ -619,7 +648,7 @@
     },
     {
       "Id": "fronthair_1_Skinning",
-      "Name": "背景"
+      "Name": "bg"
     },
     {
       "Id": "fronthair_2_Skinning",
@@ -647,7 +676,7 @@
     },
     {
       "Id": "hairshadow_1_Skinning",
-      "Name": "fronthair_8(蒙皮)"
+      "Name": "sidehair_1(蒙皮)"
     },
     {
       "Id": "hairshadow_2_Skinning",
@@ -708,6 +737,10 @@
     {
       "Id": "Part9",
       "Name": "腿"
+    },
+    {
+      "Id": "sidehair_1_Skinning",
+      "Name": "fronthair_8(蒙皮)"
     }
   ]
 }

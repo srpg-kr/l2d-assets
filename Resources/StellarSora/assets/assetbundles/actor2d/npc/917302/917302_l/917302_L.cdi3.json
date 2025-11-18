@@ -147,9 +147,39 @@
       "Name": "右手指5伸缩"
     },
     {
+      "Id": "Param36",
+      "GroupId": "",
+      "Name": "右眉上下"
+    },
+    {
+      "Id": "Param37",
+      "GroupId": "",
+      "Name": "左眉角度"
+    },
+    {
+      "Id": "Param38",
+      "GroupId": "",
+      "Name": "左眉变形"
+    },
+    {
+      "Id": "Param39",
+      "GroupId": "",
+      "Name": "眼泪"
+    },
+    {
       "Id": "Param4",
       "GroupId": "",
       "Name": "身体上下"
+    },
+    {
+      "Id": "Param40",
+      "GroupId": "",
+      "Name": "高光"
+    },
+    {
+      "Id": "Param41",
+      "GroupId": "",
+      "Name": "眼珠大小"
     },
     {
       "Id": "Param5",

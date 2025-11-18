@@ -2,7 +2,7 @@
   "Version": 3,
   "Meta": {
     "PhysicsSettingCount": 31,
-    "TotalInputCount": 93,
+    "TotalInputCount": 95,
     "TotalOutputCount": 138,
     "VertexCount": 170,
     "Fps": 60,
@@ -993,7 +993,7 @@
             "Target": "Parameter",
             "Id": "ParamAngleX"
           },
-          "Weight": 80,
+          "Weight": 70,
           "Type": "X",
           "Reflect": false
         },
@@ -1014,6 +1014,15 @@
           "Weight": 50,
           "Type": "Angle",
           "Reflect": false
+        },
+        {
+          "Source": {
+            "Target": "Parameter",
+            "Id": "ParamAngleY"
+          },
+          "Weight": 30,
+          "Type": "X",
+          "Reflect": false
         }
       ],
       "Output": [
@@ -1023,7 +1032,7 @@
             "Id": "Param_Angle_Rotation139"
           },
           "VertexIndex": 1,
-          "Scale": 20,
+          "Scale": 50,
           "Weight": 100,
           "Type": "Angle",
           "Reflect": false
@@ -1043,12 +1052,12 @@
         {
           "Position": {
             "X": 0,
-            "Y": 15
+            "Y": 5
           },
-          "Mobility": 0.95,
-          "Delay": 0.8,
+          "Mobility": 0.8,
+          "Delay": 0.9,
           "Acceleration": 1.5,
-          "Radius": 15
+          "Radius": 5
         }
       ],
       "Normalization": {
@@ -1072,7 +1081,7 @@
             "Target": "Parameter",
             "Id": "ParamAngleX"
           },
-          "Weight": 100,
+          "Weight": 70,
           "Type": "X",
           "Reflect": false
         },
@@ -1090,9 +1099,18 @@
             "Target": "Parameter",
             "Id": "ParamAngleY"
           },
+          "Weight": 30,
+          "Type": "X",
+          "Reflect": true
+        },
+        {
+          "Source": {
+            "Target": "Parameter",
+            "Id": "ParamAll"
+          },
           "Weight": 50,
           "Type": "Angle",
-          "Reflect": true
+          "Reflect": false
         }
       ],
       "Output": [
@@ -1102,7 +1120,7 @@
             "Id": "Param_Angle_Rotation140"
           },
           "VertexIndex": 1,
-          "Scale": 20,
+          "Scale": 50,
           "Weight": 100,
           "Type": "Angle",
           "Reflect": false
@@ -1122,12 +1140,12 @@
         {
           "Position": {
             "X": 0,
-            "Y": 15
+            "Y": 5
           },
-          "Mobility": 0.95,
-          "Delay": 0.8,
+          "Mobility": 0.8,
+          "Delay": 0.9,
           "Acceleration": 1.5,
-          "Radius": 15
+          "Radius": 5
         }
       ],
       "Normalization": {

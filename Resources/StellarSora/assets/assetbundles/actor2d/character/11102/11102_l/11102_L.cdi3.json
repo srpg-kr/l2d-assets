@@ -700,27 +700,27 @@
     },
     {
       "Id": "back_hair_1_Skinning",
-      "Name": "skirt_4(蒙皮)"
+      "Name": "skirt_3(蒙皮)"
     },
     {
       "Id": "back_hair_2_Skinning",
-      "Name": "back_hair_1(蒙皮)"
+      "Name": "skirt_4(蒙皮)"
     },
     {
       "Id": "back_hair_39_Skinning",
-      "Name": "back_hair_3(蒙皮)"
-    },
-    {
-      "Id": "back_hair_3_Skinning",
       "Name": "hat_1(蒙皮)"
     },
     {
+      "Id": "back_hair_3_Skinning",
+      "Name": "back_hair_2(蒙皮)"
+    },
+    {
       "Id": "back_hair_4_Skinning",
-      "Name": "back_hair_7(蒙皮)"
+      "Name": "back_hair_3(蒙皮)"
     },
     {
       "Id": "back_hair_5_Skinning",
-      "Name": "back_hair_4(蒙皮)"
+      "Name": "back_hair_7(蒙皮)"
     },
     {
       "Id": "Bangs",
@@ -740,11 +740,11 @@
     },
     {
       "Id": "hat_1_Skinning",
-      "Name": "back_hair_2(蒙皮)"
+      "Name": "back_hair_1(蒙皮)"
     },
     {
       "Id": "hat_2_Skinning",
-      "Name": "back_hair_5(蒙皮)"
+      "Name": "back_hair_4(蒙皮)"
     },
     {
       "Id": "LEyes",
@@ -760,35 +760,35 @@
     },
     {
       "Id": "L_cloak_Skinning",
-      "Name": "R_cloak(蒙皮)"
+      "Name": "stone(蒙皮)"
     },
     {
       "Id": "L_front_wrist_Skinning",
-      "Name": "hat_2(蒙皮)"
+      "Name": "back_hair_5(蒙皮)"
     },
     {
       "Id": "L_side_hair_1_Skinning",
-      "Name": "R_wrist(蒙皮)"
+      "Name": "[ 参考图 ]"
     },
     {
       "Id": "L_side_hair_2_Skinning",
-      "Name": "L_side_hair_1(蒙皮)"
+      "Name": "R_wrist(蒙皮)"
     },
     {
       "Id": "L_side_hair_3_Skinning",
-      "Name": "L_side_hair_2(蒙皮)"
+      "Name": "L_side_hair_1(蒙皮)"
     },
     {
       "Id": "L_side_hair_3_Skinning2",
-      "Name": "L_wrist(蒙皮)"
-    },
-    {
-      "Id": "L_wrist_Skinning",
       "Name": "L_front_wrist(蒙皮)"
     },
     {
+      "Id": "L_wrist_Skinning",
+      "Name": "hat_2(蒙皮)"
+    },
+    {
       "Id": "necklace_Skinning",
-      "Name": "R_side_hair_3(蒙皮)"
+      "Name": "R_side_hair_2(蒙皮)"
     },
     {
       "Id": "Papers",
@@ -808,23 +808,23 @@
     },
     {
       "Id": "R_cloak_Skinning",
-      "Name": "stone(蒙皮)"
+      "Name": "tie_2(蒙皮)"
     },
     {
       "Id": "R_side_hair_1_Skinning",
-      "Name": "L_side_hair_3(蒙皮)"
+      "Name": "L_side_hair_2(蒙皮)"
     },
     {
       "Id": "R_side_hair_2_Skinning",
-      "Name": "R_side_hair_1(蒙皮)"
-    },
-    {
-      "Id": "R_side_hair_2_Skinning2",
       "Name": "L_side_hair_3(蒙皮)"
     },
     {
+      "Id": "R_side_hair_2_Skinning2",
+      "Name": "L_wrist(蒙皮)"
+    },
+    {
       "Id": "R_side_hair_3_Skinning",
-      "Name": "R_side_hair_2(蒙皮)"
+      "Name": "R_side_hair_1(蒙皮)"
     },
     {
       "Id": "R_wrist_Skinning",
@@ -832,11 +832,11 @@
     },
     {
       "Id": "shadow_1_Skinning",
-      "Name": "string_2(蒙皮)"
+      "Name": "string_1(蒙皮)"
     },
     {
       "Id": "shadow_2_Skinning",
-      "Name": "shadow_1(蒙皮)"
+      "Name": "string_2(蒙皮)"
     },
     {
       "Id": "Skirts",
@@ -844,23 +844,23 @@
     },
     {
       "Id": "skirt_1_Skinning",
-      "Name": "shadow_2(蒙皮)"
+      "Name": "shadow_1(蒙皮)"
     },
     {
       "Id": "skirt_2_Skinning",
-      "Name": "skirt_1(蒙皮)"
+      "Name": "shadow_2(蒙皮)"
     },
     {
       "Id": "skirt_3_Skinning",
-      "Name": "skirt_2(蒙皮)"
+      "Name": "skirt_1(蒙皮)"
     },
     {
       "Id": "skirt_4_Skinning",
-      "Name": "skirt_3(蒙皮)"
+      "Name": "skirt_2(蒙皮)"
     },
     {
       "Id": "stone_Skinning",
-      "Name": "tie_2(蒙皮)"
+      "Name": "tie_1(蒙皮)"
     },
     {
       "Id": "Strings",
@@ -868,19 +868,19 @@
     },
     {
       "Id": "string_1_Skinning",
-      "Name": "L_cloak(蒙皮)"
+      "Name": "R_cloak(蒙皮)"
     },
     {
       "Id": "string_2_Skinning",
-      "Name": "string_1(蒙皮)"
+      "Name": "L_cloak(蒙皮)"
     },
     {
       "Id": "tie_1_Skinning",
-      "Name": "necklace(蒙皮)"
+      "Name": "R_side_hair_3(蒙皮)"
     },
     {
       "Id": "tie_2_Skinning",
-      "Name": "tie_1(蒙皮)"
+      "Name": "necklace(蒙皮)"
     }
   ]
 }

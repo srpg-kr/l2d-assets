@@ -57,7 +57,7 @@
       "Target": "Parameter",
       "Id": "ParamAll3",
       "FadeInTime": -1.0,
-      "FadeOutTime": 10.0,
+      "FadeOutTime": 6.0,
       "Segments": [
         0,
         -10,

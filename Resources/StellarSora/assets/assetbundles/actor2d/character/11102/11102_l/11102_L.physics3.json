@@ -1,10 +1,10 @@
 {
   "Version": 3,
   "Meta": {
-    "PhysicsSettingCount": 24,
-    "TotalInputCount": 62,
+    "PhysicsSettingCount": 23,
+    "TotalInputCount": 61,
     "TotalOutputCount": 97,
-    "VertexCount": 129,
+    "VertexCount": 124,
     "Fps": 60,
     "EffectiveForces": {
       "Gravity": {
@@ -108,10 +108,6 @@
       {
         "Id": "PhysicsSetting23",
         "Name": "Dummy23"
-      },
-      {
-        "Id": "PhysicsSetting24",
-        "Name": "Dummy24"
       }
     ]
   },
@@ -3233,85 +3229,6 @@
           "Reflect": false
         }
       ],
-      "Output": [],
-      "Vertices": [
-        {
-          "Position": {
-            "X": 0,
-            "Y": 0
-          },
-          "Mobility": 1,
-          "Delay": 1,
-          "Acceleration": 1,
-          "Radius": 0
-        },
-        {
-          "Position": {
-            "X": 0,
-            "Y": 10
-          },
-          "Mobility": 0.8,
-          "Delay": 1,
-          "Acceleration": 1,
-          "Radius": 10
-        },
-        {
-          "Position": {
-            "X": 0,
-            "Y": 20
-          },
-          "Mobility": 0.8,
-          "Delay": 0.9,
-          "Acceleration": 0.9,
-          "Radius": 10
-        },
-        {
-          "Position": {
-            "X": 0,
-            "Y": 30
-          },
-          "Mobility": 0.8,
-          "Delay": 0.8,
-          "Acceleration": 0.8,
-          "Radius": 10
-        },
-        {
-          "Position": {
-            "X": 0,
-            "Y": 40
-          },
-          "Mobility": 0.8,
-          "Delay": 0.7,
-          "Acceleration": 0.7,
-          "Radius": 10
-        }
-      ],
-      "Normalization": {
-        "Position": {
-          "Minimum": -10,
-          "Default": 0,
-          "Maximum": 10
-        },
-        "Angle": {
-          "Minimum": -10,
-          "Default": 0,
-          "Maximum": 10
-        }
-      }
-    },
-    {
-      "Id": "PhysicsSetting22",
-      "Input": [
-        {
-          "Source": {
-            "Target": "Parameter",
-            "Id": "ParamAll"
-          },
-          "Weight": 30,
-          "Type": "X",
-          "Reflect": false
-        }
-      ],
       "Output": [
         {
           "Destination": {
@@ -3382,7 +3299,7 @@
       }
     },
     {
-      "Id": "PhysicsSetting23",
+      "Id": "PhysicsSetting22",
       "Input": [
         {
           "Source": {
@@ -3464,7 +3381,7 @@
       }
     },
     {
-      "Id": "PhysicsSetting24",
+      "Id": "PhysicsSetting23",
       "Input": [
         {
           "Source": {
