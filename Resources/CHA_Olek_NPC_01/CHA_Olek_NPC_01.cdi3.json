@@ -1,0 +1,55 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左眼　开闭"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右眼   开闭"
+		},
+		{
+			"Id": "ParamMouthForm3",
+			"GroupId": "",
+			"Name": "待机思索"
+		},
+		{
+			"Id": "ParamMouthForm4",
+			"GroupId": "",
+			"Name": "严肃阴沉"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴　张开和闭合"
+		},
+		{
+			"Id": "ParamMouthOpenY2",
+			"GroupId": "",
+			"Name": "阴沉"
+		},
+		{
+			"Id": "ParamMouthOpenY3",
+			"GroupId": "",
+			"Name": "思索"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part4",
+			"Name": "CHA_Olek_NPC_01.psd"
+		},
+		{
+			"Id": "Part2",
+			"Name": "眼睛"
+		},
+		{
+			"Id": "Part3",
+			"Name": "嘴"
+		}
+	]
+}

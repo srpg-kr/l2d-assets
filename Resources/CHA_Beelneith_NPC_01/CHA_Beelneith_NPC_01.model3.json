@@ -1,0 +1,41 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_Beelneith_NPC_01.moc3",
+		"Textures": [
+			"CHA_Beelneith_NPC_01.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_Beelneith_NPC_01.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "EMO_Beelneith_Idle_01",
+				"File": "expressions/EMO_Beelneith_Idle_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Beelneith_Mad_01",
+				"File": "expressions/EMO_Beelneith_Mad_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Beelneith_Surperise_01",
+				"File": "expressions/EMO_Beelneith_Surperise_01.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen"
+			]
+		}
+	],
+	"HitAreas": []
+}

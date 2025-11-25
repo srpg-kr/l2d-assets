@@ -1,0 +1,71 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup",
+			"Name": "右眼   开闭"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup",
+			"Name": "左眼　开闭"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "ParamGroup2",
+			"Name": "悲伤"
+		},
+		{
+			"Id": "ParamBrowLForm2",
+			"GroupId": "ParamGroup2",
+			"Name": "严肃"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "眼睛"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "特殊表情"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "柯尼"
+		},
+		{
+			"Id": "toufa",
+			"Name": "toufa"
+		},
+		{
+			"Id": "Part2",
+			"Name": "Sad悲伤"
+		},
+		{
+			"Id": "Part4",
+			"Name": "Serious严肃"
+		},
+		{
+			"Id": "Part5",
+			"Name": "待机"
+		},
+		{
+			"Id": "YOUYAN",
+			"Name": "YOUYAN"
+		},
+		{
+			"Id": "ZUOYAN",
+			"Name": "ZUOYAN"
+		},
+		{
+			"Id": "TOUFA_YY",
+			"Name": "TOUFA_YY"
+		}
+	]
+}

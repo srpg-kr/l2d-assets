@@ -1,0 +1,307 @@
+{
+	"Type": "Live2D Expression",
+	"FadeInTime": 0.15,
+	"FadeOutTime": 0.15,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX5",
+			"Value": -0.4,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX17",
+			"Value": -0.1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX7",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX23",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX6",
+			"Value": 0.1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX14",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX",
+			"Value": 0.5,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX2",
+			"Value": 0.3,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX3",
+			"Value": 0.1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX16",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX4",
+			"Value": -0.1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX8",
+			"Value": -0.2,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX41",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX25",
+			"Value": 0.2,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX24",
+			"Value": -0.8,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX9",
+			"Value": -0.2,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX10",
+			"Value": 0.4,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX11",
+			"Value": -0.3,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX12",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX13",
+			"Value": 0.3,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX15",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX18",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX19",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX21",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX20",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX38",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX39",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX22",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeLOpen11",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeLOpen10",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeLOpen6",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeLOpen9",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX32",
+			"Value": 0.5,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeLOpen12",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX33",
+			"Value": -1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX34",
+			"Value": 0.5,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX35",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX36",
+			"Value": -0.1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX37",
+			"Value": 0.504,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX42",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX26",
+			"Value": -0.2,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX27",
+			"Value": -0.6,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX28",
+			"Value": -0.6,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX29",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX30",
+			"Value": -0.2,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX31",
+			"Value": 0.152,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX40",
+			"Value": -0.8,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"Value": -1.5,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeLOpen13",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeLOpen3",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeLOpen5",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeLOpen7",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX47",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX44",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX45",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX46",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX43",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX48",
+			"Value": 0,
+			"Blend": "Add"
+		}
+	]
+}

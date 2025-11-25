@@ -1,0 +1,398 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX5",
+			"GroupId": "ParamGroup",
+			"Name": "右上眼睑"
+		},
+		{
+			"Id": "ParamAngleX7",
+			"GroupId": "ParamGroup",
+			"Name": "右上眼睑 宽窄"
+		},
+		{
+			"Id": "ParamAngleX17",
+			"GroupId": "ParamGroup",
+			"Name": "右上眼皮 Y"
+		},
+		{
+			"Id": "ParamAngleX23",
+			"GroupId": "ParamGroup",
+			"Name": "右上眼皮 Z"
+		},
+		{
+			"Id": "ParamAngleX47",
+			"GroupId": "ParamGroup",
+			"Name": "右上眼皮 旋转"
+		},
+		{
+			"Id": "ParamAngleX6",
+			"GroupId": "ParamGroup",
+			"Name": "右内眼角"
+		},
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "ParamGroup",
+			"Name": "右外眼角"
+		},
+		{
+			"Id": "ParamAngleX14",
+			"GroupId": "ParamGroup",
+			"Name": "右外眼角 X"
+		},
+		{
+			"Id": "ParamAngleX2",
+			"GroupId": "ParamGroup",
+			"Name": "右下眼皮"
+		},
+		{
+			"Id": "ParamAngleX3",
+			"GroupId": "ParamGroup",
+			"Name": "右下眼皮2"
+		},
+		{
+			"Id": "ParamAngleX16",
+			"GroupId": "ParamGroup",
+			"Name": "右下眼睑 角度"
+		},
+		{
+			"Id": "ParamAngleX4",
+			"GroupId": "ParamGroup",
+			"Name": "右下眼睑"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup",
+			"Name": "右眼开闭"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup",
+			"Name": "左眼开闭"
+		},
+		{
+			"Id": "ParamAngleX8",
+			"GroupId": "ParamGroup",
+			"Name": "左上眼睑"
+		},
+		{
+			"Id": "ParamAngleX44",
+			"GroupId": "ParamGroup",
+			"Name": "左上眼睑 中前"
+		},
+		{
+			"Id": "ParamAngleX48",
+			"GroupId": "ParamGroup",
+			"Name": "左上眼睑 中前宽窄"
+		},
+		{
+			"Id": "ParamAngleX45",
+			"GroupId": "ParamGroup",
+			"Name": "左上眼睑 中后"
+		},
+		{
+			"Id": "ParamAngleX41",
+			"GroupId": "ParamGroup",
+			"Name": "左上眼睑 宽窄"
+		},
+		{
+			"Id": "ParamAngleX24",
+			"GroupId": "ParamGroup",
+			"Name": "左上眼皮 Y"
+		},
+		{
+			"Id": "ParamAngleX25",
+			"GroupId": "ParamGroup",
+			"Name": "左上眼皮 Z"
+		},
+		{
+			"Id": "ParamAngleX9",
+			"GroupId": "ParamGroup",
+			"Name": "左内眼角"
+		},
+		{
+			"Id": "ParamAngleX10",
+			"GroupId": "ParamGroup",
+			"Name": "左外眼角"
+		},
+		{
+			"Id": "ParamAngleX11",
+			"GroupId": "ParamGroup",
+			"Name": "左下眼皮"
+		},
+		{
+			"Id": "ParamAngleX12",
+			"GroupId": "ParamGroup",
+			"Name": "左下眼皮2"
+		},
+		{
+			"Id": "ParamAngleX13",
+			"GroupId": "ParamGroup",
+			"Name": "左下眼睑"
+		},
+		{
+			"Id": "ParamAngleX15",
+			"GroupId": "ParamGroup",
+			"Name": "眼睛 X"
+		},
+		{
+			"Id": "ParamAngleX18",
+			"GroupId": "ParamGroup",
+			"Name": "眼睛 Y"
+		},
+		{
+			"Id": "ParamAngleX19",
+			"GroupId": "ParamGroup",
+			"Name": "右眼单独位移X"
+		},
+		{
+			"Id": "ParamAngleX46",
+			"GroupId": "ParamGroup",
+			"Name": "右眼单独位移Y"
+		},
+		{
+			"Id": "ParamAngleX20",
+			"GroupId": "ParamGroup",
+			"Name": "左眼单独位移X"
+		},
+		{
+			"Id": "ParamAngleX43",
+			"GroupId": "ParamGroup",
+			"Name": "左眼单独位移Y"
+		},
+		{
+			"Id": "ParamAngleX21",
+			"GroupId": "ParamGroup",
+			"Name": "眼瞳缩放"
+		},
+		{
+			"Id": "ParamAngleX38",
+			"GroupId": "ParamGroup",
+			"Name": "惊讶 眼瞳"
+		},
+		{
+			"Id": "ParamAngleX39",
+			"GroupId": "ParamGroup",
+			"Name": "开心 高光"
+		},
+		{
+			"Id": "ParamAngleX22",
+			"GroupId": "ParamGroup",
+			"Name": "急切 眼瞳"
+		},
+		{
+			"Id": "ParamEyeLOpen11",
+			"GroupId": "ParamGroup",
+			"Name": "生气 眼瞳"
+		},
+		{
+			"Id": "ParamEyeLOpen10",
+			"GroupId": "ParamGroup",
+			"Name": "害羞 眼瞳"
+		},
+		{
+			"Id": "ParamEyeLOpen6",
+			"GroupId": "ParamGroup",
+			"Name": "悲伤 眼瞳"
+		},
+		{
+			"Id": "ParamEyeLOpen9",
+			"GroupId": "ParamGroup",
+			"Name": "沮丧 眼瞳"
+		},
+		{
+			"Id": "ParamEyeLOpen12",
+			"GroupId": "ParamGroup",
+			"Name": "无奈 眼瞳"
+		},
+		{
+			"Id": "ParamAngleX32",
+			"GroupId": "ParamGroup3",
+			"Name": "右眉毛 X"
+		},
+		{
+			"Id": "ParamAngleX33",
+			"GroupId": "ParamGroup3",
+			"Name": "右眉毛 Y"
+		},
+		{
+			"Id": "ParamAngleX34",
+			"GroupId": "ParamGroup3",
+			"Name": "右眉毛 Z"
+		},
+		{
+			"Id": "ParamAngleX35",
+			"GroupId": "ParamGroup3",
+			"Name": "右眉毛前形变"
+		},
+		{
+			"Id": "ParamAngleX36",
+			"GroupId": "ParamGroup3",
+			"Name": "右眉毛中形变"
+		},
+		{
+			"Id": "ParamAngleX37",
+			"GroupId": "ParamGroup3",
+			"Name": "右眉毛后形变"
+		},
+		{
+			"Id": "ParamAngleX42",
+			"GroupId": "ParamGroup3",
+			"Name": "右眉毛 长度"
+		},
+		{
+			"Id": "ParamAngleX26",
+			"GroupId": "ParamGroup3",
+			"Name": "左眉毛 X"
+		},
+		{
+			"Id": "ParamAngleX27",
+			"GroupId": "ParamGroup3",
+			"Name": "左眉毛 Y"
+		},
+		{
+			"Id": "ParamAngleX28",
+			"GroupId": "ParamGroup3",
+			"Name": "左眉毛 Z"
+		},
+		{
+			"Id": "ParamAngleX29",
+			"GroupId": "ParamGroup3",
+			"Name": "左眉毛前形变"
+		},
+		{
+			"Id": "ParamAngleX30",
+			"GroupId": "ParamGroup3",
+			"Name": "左眉毛中形变"
+		},
+		{
+			"Id": "ParamAngleX31",
+			"GroupId": "ParamGroup3",
+			"Name": "左眉毛后形变"
+		},
+		{
+			"Id": "ParamAngleX40",
+			"GroupId": "ParamGroup3",
+			"Name": "左眉毛 长度"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup4",
+			"Name": "生气沮丧认真急切待机害羞开心"
+		},
+		{
+			"Id": "ParamEyeLOpen13",
+			"GroupId": "ParamGroup4",
+			"Name": "惊讶无奈悲伤"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup4",
+			"Name": "嘴开闭"
+		},
+		{
+			"Id": "ParamEyeLOpen3",
+			"GroupId": "ParamGroup2",
+			"Name": "Sad 悲伤"
+		},
+		{
+			"Id": "ParamEyeLOpen5",
+			"GroupId": "ParamGroup2",
+			"Name": "Eager急切"
+		},
+		{
+			"Id": "ParamEyeLOpen7",
+			"GroupId": "ParamGroup2",
+			"Name": "Shy 害羞"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "眼睛"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "眉毛"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "嘴"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "表情特效"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "翡图萨"
+		},
+		{
+			"Id": "PartSketch0",
+			"Name": "[ 参考图 ]"
+		},
+		{
+			"Id": "Part14",
+			"Name": "Idle待机"
+		},
+		{
+			"Id": "Part15",
+			"Name": "开口"
+		},
+		{
+			"Id": "Part16",
+			"Name": "左眼"
+		},
+		{
+			"Id": "Part17",
+			"Name": "右眼"
+		},
+		{
+			"Id": "Part5",
+			"Name": "Angry生气"
+		},
+		{
+			"Id": "Part12",
+			"Name": "Happy开心"
+		},
+		{
+			"Id": "Part18",
+			"Name": "生气"
+		},
+		{
+			"Id": "Part3",
+			"Name": "Shy害羞"
+		},
+		{
+			"Id": "Part2",
+			"Name": "Sad悲伤"
+		},
+		{
+			"Id": "Part7",
+			"Name": "Upset沮丧"
+		},
+		{
+			"Id": "Part9",
+			"Name": "Eager急切"
+		},
+		{
+			"Id": "Part6",
+			"Name": "开口 副本 7"
+		},
+		{
+			"Id": "Part13",
+			"Name": "开口 副本"
+		},
+		{
+			"Id": "Part4",
+			"Name": "开口 副本 8"
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "Discontent不满"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "Smile微笑"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴开合"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "眼开合"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part3",
+			"Name": "CHA_Griffin_NPC_01B.psd"
+		},
+		{
+			"Id": "CHA_Griffin_NPC_01",
+			"Name": "CHA_Griffin_NPC_01"
+		},
+		{
+			"Id": "CHA_Griffin_NPC_02",
+			"Name": "CHA_Griffin_NPC_01"
+		},
+		{
+			"Id": "Part",
+			"Name": "Discontent不满 副本"
+		},
+		{
+			"Id": "Part2",
+			"Name": "Smile微笑 副本"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"Param",
+			"Param2"
+		]
+	]
+}

@@ -1,0 +1,121 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamyanbianxingX",
+			"GroupId": "",
+			"Name": "眼变形x"
+		},
+		{
+			"Id": "ParamyanbianxingY",
+			"GroupId": "",
+			"Name": "眼变形Y"
+		},
+		{
+			"Id": "ParamMouthForm1",
+			"GroupId": "",
+			"Name": "嘴　变形1"
+		},
+		{
+			"Id": "ParamMouthForm2",
+			"GroupId": "",
+			"Name": "嘴　变形2"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "眼　开闭"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴　张开和闭合"
+		},
+		{
+			"Id": "Paramyakaihe",
+			"GroupId": "",
+			"Name": "牙开合"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part31",
+			"Name": "CHA_PersicariaDoll_NPC_01.psd(未找到对应图层)"
+		},
+		{
+			"Id": "Part",
+			"Name": "参考"
+		},
+		{
+			"Id": "CHA_PersicariaDoll_NPC_01",
+			"Name": "CHA_PersicariaDoll_NPC_01"
+		},
+		{
+			"Id": "CHA_PersicariaDoll_NPC_02",
+			"Name": "CHA_PersicariaDoll_NPC_01"
+		},
+		{
+			"Id": "Part2",
+			"Name": "Surperise吃惊"
+		},
+		{
+			"Id": "Part5",
+			"Name": "Smile开心 副本"
+		},
+		{
+			"Id": "Part8",
+			"Name": "Serious严肃"
+		},
+		{
+			"Id": "Part11",
+			"Name": "Idle待机"
+		},
+		{
+			"Id": "Part14",
+			"Name": "通常L眼"
+		},
+		{
+			"Id": "Part15",
+			"Name": "通常R眼"
+		},
+		{
+			"Id": "Part3",
+			"Name": "Surperise吃惊开口"
+		},
+		{
+			"Id": "Part4",
+			"Name": "Surperise吃惊闭口"
+		},
+		{
+			"Id": "Part6",
+			"Name": "Smile开心开口"
+		},
+		{
+			"Id": "Part7",
+			"Name": "Smile开心闭口"
+		},
+		{
+			"Id": "Part9",
+			"Name": "Serious严肃开口"
+		},
+		{
+			"Id": "Part10",
+			"Name": "Serious严肃闭口"
+		},
+		{
+			"Id": "Part12",
+			"Name": "Idle待机闭口"
+		},
+		{
+			"Id": "Part13",
+			"Name": "Idle待机开口"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamyanbianxingX",
+			"ParamyanbianxingY"
+		]
+	]
+}

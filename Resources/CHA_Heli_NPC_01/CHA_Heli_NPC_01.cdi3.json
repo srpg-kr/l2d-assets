@@ -1,0 +1,83 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左眼  开闭"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右眼  开闭"
+		},
+		{
+			"Id": "ParamEyeRSmile2",
+			"GroupId": "",
+			"Name": "思考 眉眼"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "",
+			"Name": "待机眉眼"
+		},
+		{
+			"Id": "ParamCheek2",
+			"GroupId": "",
+			"Name": "思考 眼高光 发光"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "",
+			"Name": "思考 眼睛 发光"
+		},
+		{
+			"Id": "ParamCheek3",
+			"GroupId": "",
+			"Name": "立绘 眼睛 发光"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "嘴巴  变形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴　张开和闭合"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "思考"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "Think思考"
+		},
+		{
+			"Id": "Part2",
+			"Name": "立绘 副本"
+		},
+		{
+			"Id": "Part3",
+			"Name": "头盔"
+		},
+		{
+			"Id": "Part4",
+			"Name": "开口"
+		},
+		{
+			"Id": "Part5",
+			"Name": "左眼"
+		},
+		{
+			"Id": "Part6",
+			"Name": "右眼"
+		}
+	]
+}

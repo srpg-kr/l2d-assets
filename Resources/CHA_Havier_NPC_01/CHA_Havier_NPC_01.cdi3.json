@@ -1,0 +1,47 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "思考和缓"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "严肃待机"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "",
+			"Name": "眼珠运动"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴开合"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "眼开合"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part2",
+			"Name": "眼镜 副本 2"
+		},
+		{
+			"Id": "Part22",
+			"Name": "组 1"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"Param",
+			"Param2"
+		]
+	]
+}

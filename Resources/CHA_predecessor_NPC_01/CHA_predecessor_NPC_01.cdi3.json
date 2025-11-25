@@ -1,0 +1,100 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param",
+			"GroupId": "ParamGroup",
+			"Name": "伤心"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "ParamGroup",
+			"Name": "微笑红晕"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "ParamGroup",
+			"Name": "汗珠"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "ParamGroup",
+			"Name": "认真皱眉"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "ParamGroup",
+			"Name": "急切皱眉"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "ParamGroup",
+			"Name": "失望眼"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左眼　开闭"
+		},
+		{
+			"Id": "ParamBrowLFormX",
+			"GroupId": "",
+			"Name": "眉　変形X"
+		},
+		{
+			"Id": "Param6BrowLFormY",
+			"GroupId": "",
+			"Name": "眉　変形Y"
+		},
+		{
+			"Id": "Param6duihuakuangsuofang",
+			"GroupId": "",
+			"Name": "对话框缩放"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "嘴部　变形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴巴　张开和闭合"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "表情"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "物流车 副本"
+		},
+		{
+			"Id": "Part5",
+			"Name": "Idle待机 副本"
+		},
+		{
+			"Id": "Part2",
+			"Name": "Dumb装傻 副本"
+		},
+		{
+			"Id": "Part3",
+			"Name": "Disdain不屑 副本"
+		},
+		{
+			"Id": "Part4",
+			"Name": "Angry生气 副本"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamBrowLFormX",
+			"Param6BrowLFormY"
+		]
+	]
+}

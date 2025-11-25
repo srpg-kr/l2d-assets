@@ -1,0 +1,136 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param9",
+			"GroupId": "ParamGroup4",
+			"Name": "生气"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup",
+			"Name": "左眼　开闭"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup",
+			"Name": "右眼　开闭"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "ParamGroup",
+			"Name": "待机眼眶"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "ParamGroup",
+			"Name": "生气眼眶"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "ParamGroup2",
+			"Name": "待机左眉"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "ParamGroup2",
+			"Name": "待机右眉"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "ParamGroup2",
+			"Name": "生气左眉"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "ParamGroup2",
+			"Name": "生气右眉"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup3",
+			"Name": "嘴变形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup3",
+			"Name": "嘴开闭"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "表情特效"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "眼睛"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "眉毛"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "嘴"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "参考"
+		},
+		{
+			"Id": "Part2",
+			"Name": "贝瑞菲尔2"
+		},
+		{
+			"Id": "toufa",
+			"Name": "toufa"
+		},
+		{
+			"Id": "daiji1",
+			"Name": "daiji1"
+		},
+		{
+			"Id": "Part4",
+			"Name": "咬牙_生气"
+		},
+		{
+			"Id": "Part5",
+			"Name": "开口_生气"
+		},
+		{
+			"Id": "Part11",
+			"Name": "生气法令纹"
+		},
+		{
+			"Id": "Part7",
+			"Name": "生气皱眉"
+		},
+		{
+			"Id": "zuoyan_DJ",
+			"Name": "zuoyan_DJ"
+		},
+		{
+			"Id": "youyan_DJ",
+			"Name": "youyan_DJ"
+		},
+		{
+			"Id": "zuiba",
+			"Name": "zuiba"
+		},
+		{
+			"Id": "Part6",
+			"Name": "生气口腔"
+		},
+		{
+			"Id": "Part9",
+			"Name": "待机开口"
+		}
+	]
+}

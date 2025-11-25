@@ -1,0 +1,15 @@
+{
+	"Version": 3,
+	"Parameters": [],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part2",
+			"Name": "CHA_manager_NPC_01.psd(未找到对应图层)"
+		},
+		{
+			"Id": "CHA_FemaleCouriers_NPC_02",
+			"Name": "CHA_FemaleCouriers_NPC_01"
+		}
+	]
+}

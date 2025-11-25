@@ -1,0 +1,155 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左眼 开闭"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右眼 开闭"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "",
+			"Name": "左眉 上下"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "",
+			"Name": "右眉 上下"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "",
+			"Name": "左眉 変形"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "",
+			"Name": "右眉 変形"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "左眼眶"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "",
+			"Name": "左眼眶笑"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "左眼眶惊讶"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "",
+			"Name": "右眼眶"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "",
+			"Name": "右眼眶笑"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "",
+			"Name": "右眼眶惊讶"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "嘴 变形"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "",
+			"Name": "嘴变形2"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴 开闭"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "兰汀十年前02"
+		},
+		{
+			"Id": "toufa",
+			"Name": "toufa"
+		},
+		{
+			"Id": "Part2",
+			"Name": "Surprised惊讶"
+		},
+		{
+			"Id": "Part5",
+			"Name": "Smile微笑"
+		},
+		{
+			"Id": "Part8",
+			"Name": "Angry生气"
+		},
+		{
+			"Id": "Part11",
+			"Name": "Idle待机"
+		},
+		{
+			"Id": "Part4",
+			"Name": "组 1"
+		},
+		{
+			"Id": "Part7",
+			"Name": "重复图层2"
+		},
+		{
+			"Id": "Part10",
+			"Name": "重复图层1"
+		},
+		{
+			"Id": "Part3",
+			"Name": "开口 惊"
+		},
+		{
+			"Id": "Part6",
+			"Name": "开口 笑"
+		},
+		{
+			"Id": "Part9",
+			"Name": "开口 SQ"
+		},
+		{
+			"Id": "Part12",
+			"Name": "开口"
+		},
+		{
+			"Id": "Part13",
+			"Name": "修脸"
+		},
+		{
+			"Id": "wuguan",
+			"Name": "wuguan"
+		},
+		{
+			"Id": "zuoyan",
+			"Name": "zuoyan"
+		},
+		{
+			"Id": "youyan",
+			"Name": "youyan"
+		},
+		{
+			"Id": "toufa_YY",
+			"Name": "toufa_YY"
+		}
+	]
+}

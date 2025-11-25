@@ -1,0 +1,33 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_Acicular_Meta_01.moc3",
+		"Textures": [
+			"CHA_Acicular_Meta_01.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_Acicular_Meta_01.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "EMO_Acicular_Meta_Weakness_01.exp3.json",
+				"File": "expressions/EMO_Acicular_Meta_Weakness_01.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		}
+	],
+	"HitAreas": []
+}

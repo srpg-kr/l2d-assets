@@ -1,0 +1,79 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_Sakura_SSR_01.moc3",
+		"Textures": [
+			"CHA_Sakura_SSR_01.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_Sakura_SSR_01.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "CHA_Sakura_Angry_01.exp3.json",
+				"File": "expressions/CHA_Sakura_Angry_01.exp3.json"
+			},
+			{
+				"Name": "CHA_Sakura_Happy_01.exp3.json",
+				"File": "expressions/CHA_Sakura_Happy_01.exp3.json"
+			},
+			{
+				"Name": "CHA_Sakura_Idle_01.exp3.json",
+				"File": "expressions/CHA_Sakura_Idle_01.exp3.json"
+			},
+			{
+				"Name": "CHA_Sakura_Sad_01.exp3.json",
+				"File": "expressions/CHA_Sakura_Sad_01.exp3.json"
+			},
+			{
+				"Name": "CHA_Sakura_Serioous_01.exp3.json",
+				"File": "expressions/CHA_Sakura_Serioous_01.exp3.json"
+			},
+			{
+				"Name": "CHA_Sakura_Shy_01.exp3.json",
+				"File": "expressions/CHA_Sakura_Shy_01.exp3.json"
+			},
+			{
+				"Name": "CHA_Sakura_Smile_01.exp3.json",
+				"File": "expressions/CHA_Sakura_Smile_01.exp3.json"
+			},
+			{
+				"Name": "CHA_Sakura_Surprised_01.exp3.json",
+				"File": "expressions/CHA_Sakura_Surprised_01.exp3.json"
+			},
+			{
+				"Name": "CHA_Sakura_Upset_01.exp3.json",
+				"File": "expressions/CHA_Sakura_Upset_01.exp3.json"
+			}
+		],
+		"Motions": {
+			"": [
+				{
+					"File": "motions/Mouthopen_10s.motion3.json"
+				},
+				{
+					"File": "motions/Mouthopen_2s.motion3.json"
+				},
+				{
+					"File": "motions/Mouthopen_5s.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		}
+	],
+	"HitAreas": []
+}

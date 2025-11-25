@@ -1,0 +1,139 @@
+{
+	"Version": 3,
+	"Meta": {
+		"Duration": 1.97,
+		"Fps": 30.0,
+		"Loop": true,
+		"AreBeziersRestricted": true,
+		"CurveCount": 7,
+		"TotalSegmentCount": 21,
+		"TotalPointCount": 30,
+		"UserDataCount": 0,
+		"TotalUserDataSize": 0
+	},
+	"Curves": [
+		{
+			"Target": "Model",
+			"Id": "Opacity",
+			"Segments": [
+				0,
+				1,
+				1,
+				0.66,
+				1,
+				1.31,
+				1,
+				1.97,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param",
+			"Segments": [
+				0,
+				0,
+				2,
+				1.967,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param2",
+			"Segments": [
+				0,
+				0,
+				2,
+				1.967,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamMouthOpenY",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.1,
+				1,
+				2,
+				0.2,
+				0,
+				2,
+				0.3,
+				0.47,
+				2,
+				0.333,
+				0.53,
+				2,
+				0.367,
+				1,
+				2,
+				0.467,
+				0.5,
+				2,
+				0.5,
+				0,
+				2,
+				0.533,
+				0.375,
+				2,
+				0.567,
+				0,
+				2,
+				0.733,
+				1,
+				2,
+				0.8,
+				0.974,
+				2,
+				0.833,
+				0.987,
+				2,
+				0.867,
+				1,
+				2,
+				0.9,
+				0,
+				2,
+				1.967,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamEyeLOpen",
+			"Segments": [
+				0,
+				1,
+				2,
+				1.967,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part2",
+			"Segments": [
+				0,
+				1,
+				2,
+				1.97,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part22",
+			"Segments": [
+				0,
+				1,
+				2,
+				1.97,
+				1
+			]
+		}
+	]
+}

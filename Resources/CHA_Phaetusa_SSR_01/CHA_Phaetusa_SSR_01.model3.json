@@ -1,0 +1,89 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_Phaetusa_SSR_01.moc3",
+		"Textures": [
+			"CHA_Phaetusa_SSR_01.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_Phaetusa_SSR_01.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "EMO_Phaetusa_Angry_01",
+				"File": "expressions/EMO_Phaetusa_Angry_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Phaetusa_Eager_01",
+				"File": "expressions/EMO_Phaetusa_Eager_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Phaetusa_Happy_01",
+				"File": "expressions/EMO_Phaetusa_Happy_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Phaetusa_Helpless_01",
+				"File": "expressions/EMO_Phaetusa_Helpless_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Phaetusa_Idle_01",
+				"File": "expressions/EMO_Phaetusa_Idle_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Phaetusa_Sad_01",
+				"File": "expressions/EMO_Phaetusa_Sad_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Phaetusa_Serious_01",
+				"File": "expressions/EMO_Phaetusa_Serious_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Phaetusa_Shy_01",
+				"File": "expressions/EMO_Phaetusa_Shy_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Phaetusa_Surprised_01",
+				"File": "expressions/EMO_Phaetusa_Surprised_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Phaetusa_Upset_01",
+				"File": "expressions/EMO_Phaetusa_Upset_01.exp3.json"
+			}
+		],
+		"Motions": {
+			"": [
+				{
+					"File": "motions/Mouthopen_10s.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				},
+				{
+					"File": "motions/Mouthopen_2s.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				},
+				{
+					"File": "motions/Mouthopen_5s.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeROpen",
+				"ParamEyeLOpen"
+			]
+		}
+	],
+	"HitAreas": []
+}

@@ -1,0 +1,54 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_Griffin_NPC_01.moc3",
+		"Textures": [
+			"CHA_Griffin_NPC_01.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_Griffin_NPC_01.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "EMO_Griffin_Discontent_01.exp3.json",
+				"File": "expressions/EMO_Griffin_Discontent_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Griffin_Idle_01.exp3.json",
+				"File": "expressions/EMO_Griffin_Idle_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Griffin_Smile_01.exp3.json",
+				"File": "expressions/EMO_Griffin_Smile_01.exp3.json"
+			}
+		],
+		"Motions": {
+			"": [
+				{
+					"File": "motions/Mouthopen_10s.motion3.json"
+				},
+				{
+					"File": "motions/Mouthopen_2s.motion3.json"
+				},
+				{
+					"File": "motions/Mouthopen_5s.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen"
+			]
+		}
+	],
+	"HitAreas": []
+}

@@ -1,0 +1,149 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右眼   开闭"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左眼　开闭"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "",
+			"Name": "生气"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "",
+			"Name": "烦躁"
+		},
+		{
+			"Id": "Param9",
+			"GroupId": "",
+			"Name": "担心"
+		},
+		{
+			"Id": "Param10",
+			"GroupId": "",
+			"Name": "微笑"
+		},
+		{
+			"Id": "Param11",
+			"GroupId": "",
+			"Name": "悲伤"
+		},
+		{
+			"Id": "Param18",
+			"GroupId": "",
+			"Name": "上睫毛"
+		},
+		{
+			"Id": "Param27",
+			"GroupId": "",
+			"Name": "上睫毛变"
+		},
+		{
+			"Id": "Param19",
+			"GroupId": "",
+			"Name": "下睫毛"
+		},
+		{
+			"Id": "Param20",
+			"GroupId": "",
+			"Name": "上内"
+		},
+		{
+			"Id": "Param21",
+			"GroupId": "",
+			"Name": "上外"
+		},
+		{
+			"Id": "Param22",
+			"GroupId": "",
+			"Name": "下内"
+		},
+		{
+			"Id": "Param23",
+			"GroupId": "",
+			"Name": "下外"
+		},
+		{
+			"Id": "Param28",
+			"GroupId": "",
+			"Name": "外眼"
+		},
+		{
+			"Id": "Param24",
+			"GroupId": "",
+			"Name": "眼皮"
+		},
+		{
+			"Id": "Param25",
+			"GroupId": "",
+			"Name": "眼皮z"
+		},
+		{
+			"Id": "Param14",
+			"GroupId": "",
+			"Name": "眼珠X"
+		},
+		{
+			"Id": "Param15",
+			"GroupId": "",
+			"Name": "眼珠Y"
+		},
+		{
+			"Id": "Param16",
+			"GroupId": "",
+			"Name": "眼珠变形"
+		},
+		{
+			"Id": "Param17",
+			"GroupId": "",
+			"Name": "眼珠变形2"
+		},
+		{
+			"Id": "Param26",
+			"GroupId": "",
+			"Name": "眼珠缩小"
+		},
+		{
+			"Id": "Param12",
+			"GroupId": "",
+			"Name": "嘴变化"
+		},
+		{
+			"Id": "Param13",
+			"GroupId": "",
+			"Name": "嘴变化2"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴　张开和闭合"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part8",
+			"Name": "CHA_Bathilda_SSR_01.psd"
+		},
+		{
+			"Id": "Part5",
+			"Name": "差分"
+		},
+		{
+			"Id": "Part6",
+			"Name": "嘴"
+		},
+		{
+			"Id": "Part7",
+			"Name": "眼睛"
+		}
+	]
+}

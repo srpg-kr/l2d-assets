@@ -1,0 +1,82 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamMouthForm1",
+			"GroupId": "",
+			"Name": "嘴　变形1"
+		},
+		{
+			"Id": "ParamMouthForm2",
+			"GroupId": "",
+			"Name": "嘴　变形2"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "眼　开闭"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴　张开和闭合"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "CHA_Beelneith_NPC_01",
+			"Name": "CHA_Beelneith_NPC_01"
+		},
+		{
+			"Id": "Part",
+			"Name": "参考"
+		},
+		{
+			"Id": "Part2",
+			"Name": "通常人"
+		},
+		{
+			"Id": "Part3",
+			"Name": "Mad疯狂"
+		},
+		{
+			"Id": "Part5",
+			"Name": "Surperise吃惊 副本"
+		},
+		{
+			"Id": "Part7",
+			"Name": "Idle待机 副本"
+		},
+		{
+			"Id": "Part9",
+			"Name": "通常"
+		},
+		{
+			"Id": "Part4",
+			"Name": "Mad疯狂开口"
+		},
+		{
+			"Id": "Part6",
+			"Name": "Surperise吃惊"
+		},
+		{
+			"Id": "Part8",
+			"Name": "Idle开口"
+		},
+		{
+			"Id": "Part10",
+			"Name": "通常L眼"
+		},
+		{
+			"Id": "Part11",
+			"Name": "通常R眼"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamMouthForm1",
+			"ParamMouthForm2"
+		]
+	]
+}

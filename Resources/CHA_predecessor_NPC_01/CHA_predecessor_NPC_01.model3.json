@@ -1,0 +1,58 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_predecessor_NPC_01.moc3",
+		"Textures": [
+			"CHA_predecessor_NPC_01.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_predecessor_NPC_01.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "EMO_predecessor_Angry_01.exp3.json",
+				"File": "expressions/EMO_predecessor_Angry_01.exp3.json"
+			},
+			{
+				"Name": "EMO_predecessor_Disdain_01.exp3.json",
+				"File": "expressions/EMO_predecessor_Disdain_01.exp3.json"
+			},
+			{
+				"Name": "EMO_predecessor_Dumb_01.exp3.json",
+				"File": "expressions/EMO_predecessor_Dumb_01.exp3.json"
+			},
+			{
+				"Name": "EMO_predecessor_Idle_01.exp3.json",
+				"File": "expressions/EMO_predecessor_Idle_01.exp3.json"
+			}
+		],
+		"Motions": {
+			"": [
+				{
+					"File": "motions/Mouthopen_10s.motion3.json"
+				},
+				{
+					"File": "motions/Mouthopen_2s.motion3.json"
+				},
+				{
+					"File": "motions/Mouthopen_5s.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		}
+	],
+	"HitAreas": []
+}

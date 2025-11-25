@@ -1,0 +1,67 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_Bathilda_SSR_01.moc3",
+		"Textures": [
+			"CHA_Bathilda_SSR_01.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_Bathilda_SSR_01.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "CHA_Bathilda_Angry_01.exp3.json",
+				"File": "expressions/CHA_Bathilda_Angry_01.exp3.json"
+			},
+			{
+				"Name": "CHA_Bathilda_Annoyed_01.exp3.json",
+				"File": "expressions/CHA_Bathilda_Annoyed_01.exp3.json"
+			},
+			{
+				"Name": "CHA_Bathilda_Idle_01.exp3.json",
+				"File": "expressions/CHA_Bathilda_Idle_01.exp3.json"
+			},
+			{
+				"Name": "CHA_Bathilda_Sad_01.exp3.json",
+				"File": "expressions/CHA_Bathilda_Sad_01.exp3.json"
+			},
+			{
+				"Name": "CHA_Bathilda_Smile_01.exp3.json",
+				"File": "expressions/CHA_Bathilda_Smile_01.exp3.json"
+			},
+			{
+				"Name": "CHA_Bathilda_Worried_01.exp3.json",
+				"File": "expressions/CHA_Bathilda_Worried_01.exp3.json"
+			}
+		],
+		"Motions": {
+			"": [
+				{
+					"File": "motions/Mouthopen_10s.motion3.json"
+				},
+				{
+					"File": "motions/Mouthopen_2s.motion3.json"
+				},
+				{
+					"File": "motions/Mouthopen_5s.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		}
+	],
+	"HitAreas": []
+}
