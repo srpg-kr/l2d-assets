@@ -1,0 +1,172 @@
+{
+	"Type": "Live2D Expression",
+	"FadeInTime": 0.15,
+	"FadeOutTime": 0.15,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX5",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX6",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX3",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX17",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX2",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX4",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeROpen2",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeLOpen2",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX8",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX24",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX9",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX11",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX10",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX12",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX13",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX15",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX18",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX32",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX33",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX34",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX35",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX37",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX26",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX27",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX28",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX29",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX31",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeLOpen3",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeLOpen5",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"Value": -1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"Value": -1,
+			"Blend": "Add"
+		}
+	]
+}

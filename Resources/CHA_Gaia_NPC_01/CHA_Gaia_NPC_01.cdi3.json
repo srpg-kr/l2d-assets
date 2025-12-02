@@ -1,0 +1,252 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param2",
+			"GroupId": "ParamGroup",
+			"Name": "左眼皮"
+		},
+		{
+			"Id": "Param13",
+			"GroupId": "ParamGroup",
+			"Name": "左眼皮前"
+		},
+		{
+			"Id": "Param11",
+			"GroupId": "ParamGroup",
+			"Name": "左眼皮中"
+		},
+		{
+			"Id": "Param12",
+			"GroupId": "ParamGroup",
+			"Name": "左眼皮后"
+		},
+		{
+			"Id": "Param14",
+			"GroupId": "ParamGroup",
+			"Name": "眼白"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "ParamGroup",
+			"Name": "左下眼皮"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "ParamGroup",
+			"Name": "眼角"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "ParamGroup",
+			"Name": "右眼皮前"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "ParamGroup",
+			"Name": "右眼皮中"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "ParamGroup",
+			"Name": "右眼皮后"
+		},
+		{
+			"Id": "Param9",
+			"GroupId": "ParamGroup",
+			"Name": "右下眼皮"
+		},
+		{
+			"Id": "Param10",
+			"GroupId": "ParamGroup",
+			"Name": "眼角"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup",
+			"Name": "左眼开闭"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup",
+			"Name": "右眼开闭"
+		},
+		{
+			"Id": "ParamAngleX33",
+			"GroupId": "ParamGroup3",
+			"Name": "右眉毛 Y"
+		},
+		{
+			"Id": "ParamAngleX42",
+			"GroupId": "ParamGroup3",
+			"Name": "右眉毛 变形"
+		},
+		{
+			"Id": "ParamAngleX27",
+			"GroupId": "ParamGroup3",
+			"Name": "左眉毛 Y"
+		},
+		{
+			"Id": "ParamAngleX40",
+			"GroupId": "ParamGroup3",
+			"Name": "左眉毛 变形"
+		},
+		{
+			"Id": "ParamEyeLOpen13",
+			"GroupId": "ParamGroup4",
+			"Name": "打击执着待机开心"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup4",
+			"Name": "嘴开闭"
+		},
+		{
+			"Id": "ParamAngleX38",
+			"GroupId": "ParamGroup2",
+			"Name": "打击 Shock"
+		},
+		{
+			"Id": "ParamAngleX39",
+			"GroupId": "ParamGroup2",
+			"Name": "开心 Happy"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "ParamGroup2",
+			"Name": "执着 Serious"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "眼睛"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "眉毛"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "嘴"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "表情特效"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "PartSketch0",
+			"Name": "[ 参考图 ]"
+		},
+		{
+			"Id": "Part",
+			"Name": "盖亚"
+		},
+		{
+			"Id": "toufa01",
+			"Name": "toufa01"
+		},
+		{
+			"Id": "Part2",
+			"Name": "Shock打击"
+		},
+		{
+			"Id": "Part5",
+			"Name": "Serious执着"
+		},
+		{
+			"Id": "Part11",
+			"Name": "Happy开心"
+		},
+		{
+			"Id": "Part14",
+			"Name": "Idle待机"
+		},
+		{
+			"Id": "shengti",
+			"Name": "shengti"
+		},
+		{
+			"Id": "Part3",
+			"Name": "开口 副本 3"
+		},
+		{
+			"Id": "Part4",
+			"Name": "闭口 副本 4"
+		},
+		{
+			"Id": "zuoyan",
+			"Name": "zuoyan"
+		},
+		{
+			"Id": "youyan",
+			"Name": "youyan"
+		},
+		{
+			"Id": "Part6",
+			"Name": "开口"
+		},
+		{
+			"Id": "Part7",
+			"Name": "闭口"
+		},
+		{
+			"Id": "zuoyan2",
+			"Name": "zuoyan"
+		},
+		{
+			"Id": "youyan2",
+			"Name": "youyan"
+		},
+		{
+			"Id": "Part8",
+			"Name": "Idle待机 副本"
+		},
+		{
+			"Id": "Part12",
+			"Name": "开口"
+		},
+		{
+			"Id": "Part13",
+			"Name": "闭口"
+		},
+		{
+			"Id": "zuoyan3",
+			"Name": "zuoyan"
+		},
+		{
+			"Id": "youyan3",
+			"Name": "youyan"
+		},
+		{
+			"Id": "Part15",
+			"Name": "开口"
+		},
+		{
+			"Id": "Part16",
+			"Name": "闭口"
+		},
+		{
+			"Id": "zuoyan4",
+			"Name": "zuoyan"
+		},
+		{
+			"Id": "youyan4",
+			"Name": "youyan"
+		},
+		{
+			"Id": "Part9",
+			"Name": "开口 副本 2"
+		},
+		{
+			"Id": "Part10",
+			"Name": "闭口 副本 3"
+		}
+	]
+}

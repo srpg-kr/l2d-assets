@@ -1,0 +1,221 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX7",
+			"GroupId": "ParamGroup",
+			"Name": "右上眼睑头"
+		},
+		{
+			"Id": "ParamAngleX5",
+			"GroupId": "ParamGroup",
+			"Name": "右上眼睑尾"
+		},
+		{
+			"Id": "ParamAngleX11",
+			"GroupId": "ParamGroup",
+			"Name": "右下眼皮后"
+		},
+		{
+			"Id": "ParamAngleX12",
+			"GroupId": "ParamGroup",
+			"Name": "左下眼皮中"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "ParamGroup",
+			"Name": "右下眼皮前"
+		},
+		{
+			"Id": "ParamAngleX44",
+			"GroupId": "ParamGroup",
+			"Name": "左上眼睑 中前"
+		},
+		{
+			"Id": "ParamAngleX45",
+			"GroupId": "ParamGroup",
+			"Name": "左上眼睑 中后"
+		},
+		{
+			"Id": "ParamAngleX2",
+			"GroupId": "ParamGroup",
+			"Name": "左下眼前"
+		},
+		{
+			"Id": "ParamAngleX3",
+			"GroupId": "ParamGroup",
+			"Name": "左下眼皮中"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "ParamGroup",
+			"Name": "左下眼皮后"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup",
+			"Name": "右眼开闭"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup",
+			"Name": "左眼开闭"
+		},
+		{
+			"Id": "ParamAngleX15",
+			"GroupId": "ParamGroup",
+			"Name": "眼睛 X"
+		},
+		{
+			"Id": "ParamAngleX18",
+			"GroupId": "ParamGroup",
+			"Name": "眼睛 Y"
+		},
+		{
+			"Id": "ParamAngleX38",
+			"GroupId": "ParamGroup",
+			"Name": "狡猾 眼瞳"
+		},
+		{
+			"Id": "ParamAngleX22",
+			"GroupId": "ParamGroup",
+			"Name": "隐忍 眼瞳"
+		},
+		{
+			"Id": "ParamAngleX35",
+			"GroupId": "ParamGroup3",
+			"Name": "右眉毛前形变"
+		},
+		{
+			"Id": "ParamAngleX36",
+			"GroupId": "ParamGroup3",
+			"Name": "右眉毛中形变"
+		},
+		{
+			"Id": "ParamAngleX37",
+			"GroupId": "ParamGroup3",
+			"Name": "右眉毛后形变"
+		},
+		{
+			"Id": "ParamAngleX29",
+			"GroupId": "ParamGroup3",
+			"Name": "左眉毛形变"
+		},
+		{
+			"Id": "ParamEyeLOpen13",
+			"GroupId": "ParamGroup4",
+			"Name": "隐忍 待机 狡猾"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup4",
+			"Name": "嘴开闭"
+		},
+		{
+			"Id": "ParamEyeLOpen3",
+			"GroupId": "ParamGroup2",
+			"Name": "Smirk狡猾"
+		},
+		{
+			"Id": "ParamEyeLOpen5",
+			"GroupId": "ParamGroup2",
+			"Name": "Angry隐忍"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "眼睛"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "眉毛"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "嘴"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "表情特效"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "qiaozhi",
+			"Name": "qiaozhi"
+		},
+		{
+			"Id": "toufa",
+			"Name": "toufa"
+		},
+		{
+			"Id": "Part",
+			"Name": "Angry隐忍"
+		},
+		{
+			"Id": "Part5",
+			"Name": "Smirk狡猾"
+		},
+		{
+			"Id": "Part8",
+			"Name": "Idle待机"
+		},
+		{
+			"Id": "Part2",
+			"Name": "咬牙"
+		},
+		{
+			"Id": "Part3",
+			"Name": "开口 副本 2"
+		},
+		{
+			"Id": "Part4",
+			"Name": "闭口 副本"
+		},
+		{
+			"Id": "zuoyan",
+			"Name": "zuoyan"
+		},
+		{
+			"Id": "youyan",
+			"Name": "youyan"
+		},
+		{
+			"Id": "Part6",
+			"Name": "开口"
+		},
+		{
+			"Id": "Part7",
+			"Name": "闭口 副本 3"
+		},
+		{
+			"Id": "zuoyan2",
+			"Name": "zuoyan"
+		},
+		{
+			"Id": "youyan2",
+			"Name": "youyan"
+		},
+		{
+			"Id": "Part9",
+			"Name": "开口"
+		},
+		{
+			"Id": "Part10",
+			"Name": "闭口"
+		},
+		{
+			"Id": "zuoyan3",
+			"Name": "zuoyan"
+		},
+		{
+			"Id": "youyan3",
+			"Name": "youyan"
+		}
+	]
+}

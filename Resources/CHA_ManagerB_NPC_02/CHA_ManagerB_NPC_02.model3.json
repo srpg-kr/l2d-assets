@@ -1,0 +1,51 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_ManagerB_NPC_02.moc3",
+		"Textures": [
+			"CHA_ManagerB_NPC_02.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_ManagerB_NPC_02.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "CHA_ManagerB_Angry_02.exp3.json",
+				"File": "expressions/CHA_ManagerB_Angry_02.exp3.json"
+			},
+			{
+				"Name": "CHA_ManagerB_Idle_02.exp3.json",
+				"File": "expressions/CHA_ManagerB_Idle_02.exp3.json"
+			}
+		],
+		"Motions": {
+			"": [
+				{
+					"File": "motions/Mouthopen_10s.motion3.json"
+				},
+				{
+					"File": "motions/Mouthopen_2s.motion3.json"
+				},
+				{
+					"File": "motions/Mouthopen_5s.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeROpen",
+				"ParamEyeLOpen"
+			]
+		}
+	],
+	"HitAreas": []
+}

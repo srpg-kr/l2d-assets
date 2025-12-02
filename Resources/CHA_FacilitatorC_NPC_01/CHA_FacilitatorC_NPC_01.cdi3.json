@@ -1,0 +1,254 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX5",
+			"GroupId": "ParamGroup",
+			"Name": "右上眼睑"
+		},
+		{
+			"Id": "ParamAngleX19",
+			"GroupId": "ParamGroup",
+			"Name": "右上眼头"
+		},
+		{
+			"Id": "ParamAngleX6",
+			"GroupId": "ParamGroup",
+			"Name": "右下眼头"
+		},
+		{
+			"Id": "ParamAngleX4",
+			"GroupId": "ParamGroup",
+			"Name": "右下眼睑"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup",
+			"Name": "右眼开闭"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup",
+			"Name": "左眼开闭"
+		},
+		{
+			"Id": "ParamAngleX8",
+			"GroupId": "ParamGroup",
+			"Name": "左上眼睑"
+		},
+		{
+			"Id": "ParamAngleX13",
+			"GroupId": "ParamGroup",
+			"Name": "左下眼睑"
+		},
+		{
+			"Id": "ParamAngleX15",
+			"GroupId": "ParamGroup",
+			"Name": "眼睛 X"
+		},
+		{
+			"Id": "ParamAngleX18",
+			"GroupId": "ParamGroup",
+			"Name": "眼睛 Y"
+		},
+		{
+			"Id": "ParamEyeROpen2",
+			"GroupId": "ParamGroup",
+			"Name": "认真眼瞳"
+		},
+		{
+			"Id": "ParamEyeLOpen2",
+			"GroupId": "ParamGroup",
+			"Name": "微笑眼瞳"
+		},
+		{
+			"Id": "ParamAngleX32",
+			"GroupId": "ParamGroup3",
+			"Name": "右眉毛 X"
+		},
+		{
+			"Id": "ParamAngleX33",
+			"GroupId": "ParamGroup3",
+			"Name": "右眉毛 Y"
+		},
+		{
+			"Id": "ParamAngleX34",
+			"GroupId": "ParamGroup3",
+			"Name": "右眉毛 Z"
+		},
+		{
+			"Id": "ParamAngleX35",
+			"GroupId": "ParamGroup3",
+			"Name": "右眉毛前形变"
+		},
+		{
+			"Id": "ParamAngleX37",
+			"GroupId": "ParamGroup3",
+			"Name": "右眉毛后形变"
+		},
+		{
+			"Id": "ParamAngleX26",
+			"GroupId": "ParamGroup3",
+			"Name": "左眉毛 X"
+		},
+		{
+			"Id": "ParamAngleX27",
+			"GroupId": "ParamGroup3",
+			"Name": "左眉毛 Y"
+		},
+		{
+			"Id": "ParamAngleX28",
+			"GroupId": "ParamGroup3",
+			"Name": "左眉毛 Z"
+		},
+		{
+			"Id": "ParamAngleX29",
+			"GroupId": "ParamGroup3",
+			"Name": "左眉毛前形变"
+		},
+		{
+			"Id": "ParamAngleX31",
+			"GroupId": "ParamGroup3",
+			"Name": "左眉毛后形变"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup4",
+			"Name": "认真待机微笑"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup4",
+			"Name": "嘴开闭"
+		},
+		{
+			"Id": "ParamEyeLOpen5",
+			"GroupId": "ParamGroup2",
+			"Name": "Serious认真"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "眼睛"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "眉毛"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "嘴"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "表情特效"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part31",
+			"Name": "CHA_FacilitatorC_NPC_01.psd(未找到对应图层)"
+		},
+		{
+			"Id": "Part39",
+			"Name": "CHA_FacilitatorC_NPC_01.psd(未找到对应图层)"
+		},
+		{
+			"Id": "Part",
+			"Name": "参考"
+		},
+		{
+			"Id": "Part2",
+			"Name": "瓦希尔"
+		},
+		{
+			"Id": "Part13",
+			"Name": "瓦希尔"
+		},
+		{
+			"Id": "yisheng",
+			"Name": "yisheng"
+		},
+		{
+			"Id": "dahuzi",
+			"Name": "dahuzi"
+		},
+		{
+			"Id": "toufa01",
+			"Name": "toufa01"
+		},
+		{
+			"Id": "Part3",
+			"Name": "Smile微笑"
+		},
+		{
+			"Id": "Part6",
+			"Name": "Serious认真"
+		},
+		{
+			"Id": "Part9",
+			"Name": "Idle待机"
+		},
+		{
+			"Id": "Part28",
+			"Name": "Idle待机 拷贝"
+		},
+		{
+			"Id": "Part4",
+			"Name": "开口 副本"
+		},
+		{
+			"Id": "Part5",
+			"Name": "闭口 副本"
+		},
+		{
+			"Id": "zuoyan",
+			"Name": "zuoyan"
+		},
+		{
+			"Id": "youyan",
+			"Name": "youyan"
+		},
+		{
+			"Id": "Part7",
+			"Name": "开口"
+		},
+		{
+			"Id": "Part8",
+			"Name": "闭口"
+		},
+		{
+			"Id": "zuoyan2",
+			"Name": "zuoyan"
+		},
+		{
+			"Id": "youyan2",
+			"Name": "youyan"
+		},
+		{
+			"Id": "Part10",
+			"Name": "开口"
+		},
+		{
+			"Id": "Part11",
+			"Name": "闭口"
+		},
+		{
+			"Id": "zuoyan3",
+			"Name": "zuoyan"
+		},
+		{
+			"Id": "youyan3",
+			"Name": "youyan"
+		},
+		{
+			"Id": "Part30",
+			"Name": "闭口"
+		}
+	]
+}

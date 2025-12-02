@@ -1,0 +1,133 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX7",
+			"GroupId": "ParamGroup",
+			"Name": "右上眼睑头"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "ParamGroup",
+			"Name": "右上眼脸中"
+		},
+		{
+			"Id": "ParamAngleX5",
+			"GroupId": "ParamGroup",
+			"Name": "右上眼睑尾"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "ParamGroup",
+			"Name": "右下眼皮"
+		},
+		{
+			"Id": "ParamAngleX44",
+			"GroupId": "ParamGroup",
+			"Name": "左上眼睑 前"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "ParamGroup",
+			"Name": "左上眼脸 中"
+		},
+		{
+			"Id": "ParamAngleX45",
+			"GroupId": "ParamGroup",
+			"Name": "左上眼睑 后"
+		},
+		{
+			"Id": "ParamAngleX2",
+			"GroupId": "ParamGroup",
+			"Name": "左下眼"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup",
+			"Name": "右眼开闭"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup",
+			"Name": "左眼开闭"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "ParamGroup",
+			"Name": "微笑眼球"
+		},
+		{
+			"Id": "ParamAngleX35",
+			"GroupId": "ParamGroup3",
+			"Name": "右眉毛形变"
+		},
+		{
+			"Id": "ParamAngleX29",
+			"GroupId": "ParamGroup3",
+			"Name": "左眉毛形变"
+		},
+		{
+			"Id": "ParamEyeLOpen13",
+			"GroupId": "ParamGroup4",
+			"Name": "待机 微笑"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup4",
+			"Name": "嘴开闭"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "ParamGroup2",
+			"Name": "微笑"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "眼睛"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "眉毛"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "嘴"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "表情"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "PartSketch0",
+			"Name": "[ 参考图 ]"
+		},
+		{
+			"Id": "Part",
+			"Name": "组 1"
+		},
+		{
+			"Id": "Part2",
+			"Name": "Smile微笑"
+		},
+		{
+			"Id": "Part7",
+			"Name": "开口"
+		},
+		{
+			"Id": "Part8",
+			"Name": "头发"
+		},
+		{
+			"Id": "Part6",
+			"Name": "无用"
+		}
+	]
+}

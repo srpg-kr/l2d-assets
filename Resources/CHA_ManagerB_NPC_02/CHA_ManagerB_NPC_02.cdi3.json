@@ -1,0 +1,153 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX5",
+			"GroupId": "ParamGroup",
+			"Name": "右上眼睑"
+		},
+		{
+			"Id": "ParamAngleX4",
+			"GroupId": "ParamGroup",
+			"Name": "右下眼睑"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup",
+			"Name": "右眼开闭"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup",
+			"Name": "左眼开闭"
+		},
+		{
+			"Id": "ParamAngleX8",
+			"GroupId": "ParamGroup",
+			"Name": "左上眼睑"
+		},
+		{
+			"Id": "ParamAngleX13",
+			"GroupId": "ParamGroup",
+			"Name": "左下眼睑"
+		},
+		{
+			"Id": "ParamAngleX15",
+			"GroupId": "ParamGroup",
+			"Name": "眼睛 X"
+		},
+		{
+			"Id": "ParamAngleX18",
+			"GroupId": "ParamGroup",
+			"Name": "眼睛 Y"
+		},
+		{
+			"Id": "ParamEyeROpen2",
+			"GroupId": "ParamGroup",
+			"Name": "隐忍 眼瞳"
+		},
+		{
+			"Id": "ParamAngleX32",
+			"GroupId": "ParamGroup3",
+			"Name": "右眉毛 X"
+		},
+		{
+			"Id": "ParamAngleX33",
+			"GroupId": "ParamGroup3",
+			"Name": "右眉毛 Y"
+		},
+		{
+			"Id": "ParamAngleX34",
+			"GroupId": "ParamGroup3",
+			"Name": "右眉毛 Z"
+		},
+		{
+			"Id": "ParamAngleX35",
+			"GroupId": "ParamGroup3",
+			"Name": "右眉毛 形变"
+		},
+		{
+			"Id": "ParamAngleX26",
+			"GroupId": "ParamGroup3",
+			"Name": "左眉毛 X"
+		},
+		{
+			"Id": "ParamAngleX27",
+			"GroupId": "ParamGroup3",
+			"Name": "左眉毛 Y"
+		},
+		{
+			"Id": "ParamAngleX28",
+			"GroupId": "ParamGroup3",
+			"Name": "左眉毛 Z"
+		},
+		{
+			"Id": "ParamAngleX29",
+			"GroupId": "ParamGroup3",
+			"Name": "左眉毛 形变"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup4",
+			"Name": "隐忍待机"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup4",
+			"Name": "嘴开闭"
+		},
+		{
+			"Id": "ParamEyeLOpen5",
+			"GroupId": "ParamGroup2",
+			"Name": "Angry隐忍"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "眼睛"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "眉毛"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "嘴"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "表情特效"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "组 1"
+		},
+		{
+			"Id": "Part5",
+			"Name": "Idle待机"
+		},
+		{
+			"Id": "Part6",
+			"Name": "开口"
+		},
+		{
+			"Id": "Part7",
+			"Name": "闭口"
+		},
+		{
+			"Id": "Part8",
+			"Name": "左眼"
+		},
+		{
+			"Id": "Part9",
+			"Name": "右眼"
+		}
+	]
+}

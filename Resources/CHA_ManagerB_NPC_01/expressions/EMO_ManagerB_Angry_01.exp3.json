@@ -1,0 +1,127 @@
+{
+	"Type": "Live2D Expression",
+	"FadeInTime": 0.15,
+	"FadeOutTime": 0.15,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX7",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX5",
+			"Value": -1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX11",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX12",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX44",
+			"Value": -1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX45",
+			"Value": -1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX2",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX3",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param2",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX22",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX35",
+			"Value": -1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX36",
+			"Value": -2,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX37",
+			"Value": -1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX29",
+			"Value": 0.5,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeLOpen5",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX15",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX18",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX38",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeLOpen3",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeLOpen13",
+			"Value": -1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"Value": -0.1,
+			"Blend": "Add"
+		}
+	]
+}

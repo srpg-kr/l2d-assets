@@ -1,0 +1,102 @@
+{
+	"Type": "Live2D Expression",
+	"FadeInTime": 0.15,
+	"FadeOutTime": 0.15,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX7",
+			"Value": -1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param4",
+			"Value": -1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX5",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param5",
+			"Value": -1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX12",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX11",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX44",
+			"Value": -1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param7",
+			"Value": -1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX45",
+			"Value": -1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX2",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param2",
+			"Value": -1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param6",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX38",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX35",
+			"Value": 0.6,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleX29",
+			"Value": 0.6,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeLOpen13",
+			"Value": 1,
+			"Blend": "Add"
+		}
+	]
+}
