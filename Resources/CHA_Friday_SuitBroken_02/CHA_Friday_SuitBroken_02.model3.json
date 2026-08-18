@@ -1,0 +1,74 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_Friday_SuitBroken_02.moc3",
+		"Textures": [
+			"CHA_Friday_SuitBroken_02.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_Friday_SuitBroken_02.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "EMO_Friday_SuitOpen eyes_Angry_01.exp3.json",
+				"File": "expressions/EMO_Friday_SuitOpen eyes_Angry_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Friday_SuitOpen eyes_Idle_01.exp3.json",
+				"File": "expressions/EMO_Friday_SuitOpen eyes_Idle_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Friday_SuitOpen eyes_Injury_01.exp3.json",
+				"File": "expressions/EMO_Friday_SuitOpen eyes_Injury_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Friday_SuitOpen eyes_Laughing_01.exp3.json",
+				"File": "expressions/EMO_Friday_SuitOpen eyes_Laughing_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Friday_SuitOpen eyes_Laughing_02.exp3.json",
+				"File": "expressions/EMO_Friday_SuitOpen eyes_Laughing_02.exp3.json"
+			},
+			{
+				"Name": "EMO_Friday_SuitOpen eyes_Panic_01.exp3.json",
+				"File": "expressions/EMO_Friday_SuitOpen eyes_Panic_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Friday_SuitOpen eyes_Serious_01.exp3.json",
+				"File": "expressions/EMO_Friday_SuitOpen eyes_Serious_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Friday_SuitOpen eyes_Smile_01.exp3.json",
+				"File": "expressions/EMO_Friday_SuitOpen eyes_Smile_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Friday_SuitOpen eyes_Surprised_01.exp3.json",
+				"File": "expressions/EMO_Friday_SuitOpen eyes_Surprised_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Friday_SuitOpen eyes_Think_01.exp3.json",
+				"File": "expressions/EMO_Friday_SuitOpen eyes_Think_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Friday_SuitOpen eyes_Worry_01.exp3.json",
+				"File": "expressions/EMO_Friday_SuitOpen eyes_Worry_01.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		}
+	],
+	"HitAreas": []
+}

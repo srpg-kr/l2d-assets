@@ -1,0 +1,21 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴 开闭"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "CHA_Yellow_FemaleWorker_01",
+			"Name": "CHA_Yellow_FemaleWorker_01"
+		},
+		{
+			"Id": "Part",
+			"Name": "Idle待机"
+		}
+	]
+}

@@ -1,0 +1,103 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_G41_01.moc3",
+		"Textures": [
+			"CHA_G41_01.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_G41_01.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "EMO_G41_Anger_01.exp3.json",
+				"File": "expressions/EMO_G41_Anger_01.exp3.json"
+			},
+			{
+				"Name": "EMO_G41_Happy_01.exp3.json",
+				"File": "expressions/EMO_G41_Happy_01.exp3.json"
+			},
+			{
+				"Name": "EMO_G41_Hostile_01.exp3.json",
+				"File": "expressions/EMO_G41_Hostile_01.exp3.json"
+			},
+			{
+				"Name": "EMO_G41_Hostile_02.exp3.json",
+				"File": "expressions/EMO_G41_Hostile_02.exp3.json"
+			},
+			{
+				"Name": "EMO_G41_Idle_01.exp3.json",
+				"File": "expressions/EMO_G41_Idle_01.exp3.json"
+			},
+			{
+				"Name": "EMO_G41_Injury_01.exp3.json",
+				"File": "expressions/EMO_G41_Injury_01.exp3.json"
+			},
+			{
+				"Name": "EMO_G41_Nervous_01.exp3.json",
+				"File": "expressions/EMO_G41_Nervous_01.exp3.json"
+			},
+			{
+				"Name": "EMO_G41_Pain_01.exp3.json",
+				"File": "expressions/EMO_G41_Pain_01.exp3.json"
+			},
+			{
+				"Name": "EMO_G41_Sad_01.exp3.json",
+				"File": "expressions/EMO_G41_Sad_01.exp3.json"
+			},
+			{
+				"Name": "EMO_G41_Serious_01.exp3.json",
+				"File": "expressions/EMO_G41_Serious_01.exp3.json"
+			},
+			{
+				"Name": "EMO_G41_Shy_01.exp3.json",
+				"File": "expressions/EMO_G41_Shy_01.exp3.json"
+			},
+			{
+				"Name": "EMO_G41_Surprised_01.exp3.json",
+				"File": "expressions/EMO_G41_Surprised_01.exp3.json"
+			},
+			{
+				"Name": "EMO_G41_Think_01.exp3.json",
+				"File": "expressions/EMO_G41_Think_01.exp3.json"
+			},
+			{
+				"Name": "EMO_G41_Threat_01.exp3.json",
+				"File": "expressions/EMO_G41_Threat_01.exp3.json"
+			},
+			{
+				"Name": "EMO_G41_Worry_01.exp3.json",
+				"File": "expressions/EMO_G41_Worry_01.exp3.json"
+			}
+		],
+		"Motions": {
+			"": [
+				{
+					"File": "motions/Mouthopen_10s.motion3.json"
+				},
+				{
+					"File": "motions/Mouthopen_2s.motion3.json"
+				},
+				{
+					"File": "motions/Mouthopen_5s.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		}
+	],
+	"HitAreas": []
+}

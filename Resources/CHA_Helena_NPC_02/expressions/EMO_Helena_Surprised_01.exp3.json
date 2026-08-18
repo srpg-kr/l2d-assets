@@ -24,73 +24,8 @@
 			"Blend": "Add"
 		},
 		{
-			"Id": "Param",
-			"Value": 0,
-			"Blend": "Add"
-		},
-		{
-			"Id": "Param3",
-			"Value": 0,
-			"Blend": "Add"
-		},
-		{
-			"Id": "Param8",
-			"Value": 0,
-			"Blend": "Add"
-		},
-		{
-			"Id": "Param2",
-			"Value": 0,
-			"Blend": "Add"
-		},
-		{
-			"Id": "Param6",
-			"Value": 0,
-			"Blend": "Add"
-		},
-		{
-			"Id": "Param4",
-			"Value": 0,
-			"Blend": "Add"
-		},
-		{
-			"Id": "Param9",
-			"Value": 0,
-			"Blend": "Add"
-		},
-		{
-			"Id": "ParamEyeBallX",
-			"Value": 0,
-			"Blend": "Add"
-		},
-		{
-			"Id": "ParamEyeBallY",
-			"Value": 0.1,
-			"Blend": "Add"
-		},
-		{
-			"Id": "Param17",
-			"Value": 0,
-			"Blend": "Add"
-		},
-		{
-			"Id": "Param13",
-			"Value": 0,
-			"Blend": "Add"
-		},
-		{
-			"Id": "Param14",
-			"Value": 0,
-			"Blend": "Add"
-		},
-		{
-			"Id": "Param18",
-			"Value": 0,
-			"Blend": "Add"
-		},
-		{
 			"Id": "ParamBrowLX",
-			"Value": -0.061,
+			"Value": 0,
 			"Blend": "Add"
 		},
 		{
@@ -100,12 +35,12 @@
 		},
 		{
 			"Id": "ParamBrowRX",
-			"Value": 0.041,
+			"Value": 0,
 			"Blend": "Add"
 		},
 		{
 			"Id": "ParamBrowRY",
-			"Value": 0.041,
+			"Value": 0,
 			"Blend": "Add"
 		},
 		{
@@ -115,27 +50,17 @@
 		},
 		{
 			"Id": "ParamBrowRAngle",
-			"Value": -0.05,
+			"Value": -0.1,
 			"Blend": "Add"
 		},
 		{
 			"Id": "ParamBrowLForm",
-			"Value": 0.1,
-			"Blend": "Add"
-		},
-		{
-			"Id": "Param20",
 			"Value": 0,
 			"Blend": "Add"
 		},
 		{
 			"Id": "ParamBrowRForm",
-			"Value": 0.1,
-			"Blend": "Add"
-		},
-		{
-			"Id": "Param21",
-			"Value": 9,
+			"Value": 0,
 			"Blend": "Add"
 		},
 		{
@@ -144,17 +69,17 @@
 			"Blend": "Add"
 		},
 		{
-			"Id": "Param23",
-			"Value": 0,
-			"Blend": "Add"
-		},
-		{
-			"Id": "Param25",
+			"Id": "Param",
 			"Value": 1,
 			"Blend": "Add"
 		},
 		{
-			"Id": "Param26",
+			"Id": "Param2",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param23",
 			"Value": 0,
 			"Blend": "Add"
 		},
@@ -165,7 +90,22 @@
 		},
 		{
 			"Id": "ParamMouthForm",
-			"Value": -0.5,
+			"Value": -1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param25",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"Value": 0,
 			"Blend": "Add"
 		}
 	]

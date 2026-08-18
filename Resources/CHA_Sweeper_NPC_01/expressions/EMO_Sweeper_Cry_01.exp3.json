@@ -244,7 +244,27 @@
 			"Blend": "Add"
 		},
 		{
-			"Id": "ParamMouthOpenY",
+			"Id": "Param37",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param38",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param36",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param35",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param33",
 			"Value": 0,
 			"Blend": "Add"
 		}

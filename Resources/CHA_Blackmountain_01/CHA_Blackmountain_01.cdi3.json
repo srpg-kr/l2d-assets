@@ -1,0 +1,83 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左眼 开闭"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右眼 开闭"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "",
+			"Name": "眉毛变形"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "眼睛变形"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "rage"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "嘴 变形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴 开闭"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "组 1"
+		},
+		{
+			"Id": "PartSketch0",
+			"Name": "[ 参考图 ]"
+		},
+		{
+			"Id": "Part2",
+			"Name": "rage愤怒"
+		},
+		{
+			"Id": "Part5",
+			"Name": "Idle待机"
+		},
+		{
+			"Id": "Part3",
+			"Name": "特殊嘴"
+		},
+		{
+			"Id": "Part4",
+			"Name": "闭嘴"
+		},
+		{
+			"Id": "Part6",
+			"Name": "开口"
+		},
+		{
+			"Id": "Part7",
+			"Name": "右眼"
+		},
+		{
+			"Id": "Part8",
+			"Name": "左眼"
+		},
+		{
+			"Id": "Part9",
+			"Name": "嘴"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_Machlian_NPC_SP.moc3",
+		"Textures": [
+			"CHA_Machlian_NPC_SP.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_Machlian_NPC_SP.cdi3.json"
+	}
+}

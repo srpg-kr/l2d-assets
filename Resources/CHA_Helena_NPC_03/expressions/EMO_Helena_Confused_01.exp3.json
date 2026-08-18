@@ -14,21 +14,6 @@
 			"Blend": "Add"
 		},
 		{
-			"Id": "Param",
-			"Value": 0,
-			"Blend": "Add"
-		},
-		{
-			"Id": "Param3",
-			"Value": -0.46,
-			"Blend": "Add"
-		},
-		{
-			"Id": "Param8",
-			"Value": -0.18,
-			"Blend": "Add"
-		},
-		{
 			"Id": "ParamEyeROpen",
 			"Value": 0,
 			"Blend": "Add"
@@ -39,22 +24,37 @@
 			"Blend": "Add"
 		},
 		{
+			"Id": "Param",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param3",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param8",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
 			"Id": "Param2",
 			"Value": 0,
 			"Blend": "Add"
 		},
 		{
+			"Id": "Param6",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
 			"Id": "Param4",
-			"Value": -0.76,
+			"Value": 0,
 			"Blend": "Add"
 		},
 		{
 			"Id": "Param9",
-			"Value": -0.62,
-			"Blend": "Add"
-		},
-		{
-			"Id": "Param6",
 			"Value": 0,
 			"Blend": "Add"
 		},
@@ -65,81 +65,6 @@
 		},
 		{
 			"Id": "ParamEyeBallY",
-			"Value": 0,
-			"Blend": "Add"
-		},
-		{
-			"Id": "Param5",
-			"Value": 1,
-			"Blend": "Add"
-		},
-		{
-			"Id": "Param7",
-			"Value": 0,
-			"Blend": "Add"
-		},
-		{
-			"Id": "ParamBrowLX",
-			"Value": 0.047,
-			"Blend": "Add"
-		},
-		{
-			"Id": "ParamBrowLY",
-			"Value": -0.256,
-			"Blend": "Add"
-		},
-		{
-			"Id": "ParamBrowRX",
-			"Value": 0,
-			"Blend": "Add"
-		},
-		{
-			"Id": "ParamBrowRY",
-			"Value": -0.22,
-			"Blend": "Add"
-		},
-		{
-			"Id": "ParamBrowLAngle",
-			"Value": 0.116,
-			"Blend": "Add"
-		},
-		{
-			"Id": "ParamBrowRAngle",
-			"Value": -0.14,
-			"Blend": "Add"
-		},
-		{
-			"Id": "ParamBrowLForm",
-			"Value": 0,
-			"Blend": "Add"
-		},
-		{
-			"Id": "ParamBrowRForm",
-			"Value": 0,
-			"Blend": "Add"
-		},
-		{
-			"Id": "Param15",
-			"Value": -0.42,
-			"Blend": "Add"
-		},
-		{
-			"Id": "Param19",
-			"Value": -30,
-			"Blend": "Add"
-		},
-		{
-			"Id": "Param11",
-			"Value": 0,
-			"Blend": "Add"
-		},
-		{
-			"Id": "Param12",
-			"Value": 0,
-			"Blend": "Add"
-		},
-		{
-			"Id": "Param16",
 			"Value": 0,
 			"Blend": "Add"
 		},
@@ -164,18 +89,53 @@
 			"Blend": "Add"
 		},
 		{
-			"Id": "ParamMouthForm",
+			"Id": "ParamBrowLX",
 			"Value": 0,
 			"Blend": "Add"
 		},
 		{
+			"Id": "ParamBrowLY",
+			"Value": -0.18,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowRX",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"Value": -0.06,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"Value": -1,
+			"Blend": "Add"
+		},
+		{
 			"Id": "Param20",
-			"Value": 25.814,
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"Value": -1,
 			"Blend": "Add"
 		},
 		{
 			"Id": "Param21",
-			"Value": -21.628,
+			"Value": 0,
 			"Blend": "Add"
 		},
 		{
@@ -190,16 +150,21 @@
 		},
 		{
 			"Id": "Param25",
-			"Value": 1,
-			"Blend": "Add"
-		},
-		{
-			"Id": "Param26",
 			"Value": 0,
 			"Blend": "Add"
 		},
 		{
-			"Id": "ParamMouthOpenY",
+			"Id": "Param26",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param19",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouthForm",
 			"Value": 0,
 			"Blend": "Add"
 		}

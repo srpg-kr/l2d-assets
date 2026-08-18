@@ -15,7 +15,7 @@
 		},
 		{
 			"Id": "Param2",
-			"Value": 1,
+			"Value": 0,
 			"Blend": "Add"
 		},
 		{
@@ -30,11 +30,6 @@
 		},
 		{
 			"Id": "Param3",
-			"Value": 0,
-			"Blend": "Add"
-		},
-		{
-			"Id": "ParamMouthOpenY",
 			"Value": 0,
 			"Blend": "Add"
 		}

@@ -8,39 +8,39 @@
 		"DisplayInfo": "CHA_Nikita_SSR_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Nikita_Dazed_01.exp3.json",
+				"Name": "EMO_Nikita_Dazed_01",
 				"File": "expressions/EMO_Nikita_Dazed_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Nikita_Embarrassed_01.exp3.json",
+				"Name": "EMO_Nikita_Embarrassed_01",
 				"File": "expressions/EMO_Nikita_Embarrassed_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Nikita_Happy_01.exp3.json",
+				"Name": "EMO_Nikita_Happy_01",
 				"File": "expressions/EMO_Nikita_Happy_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Nikita_Idle_01.exp3.json",
+				"Name": "EMO_Nikita_Idle_01",
 				"File": "expressions/EMO_Nikita_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Nikita_Loss_01.exp3.json",
+				"Name": "EMO_Nikita_Loss_01",
 				"File": "expressions/EMO_Nikita_Loss_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Nikita_Serious_01.exp3.json",
+				"Name": "EMO_Nikita_Serious_01",
 				"File": "expressions/EMO_Nikita_Serious_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Nikita_Shy_01.exp3.json",
+				"Name": "EMO_Nikita_Shy_01",
 				"File": "expressions/EMO_Nikita_Shy_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Nikita_Surprised_01.exp3.json",
+				"Name": "EMO_Nikita_Surprised_01",
 				"File": "expressions/EMO_Nikita_Surprised_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Nikita_Thinking_01.exp3.json",
+				"Name": "EMO_Nikita_Thinking_01",
 				"File": "expressions/EMO_Nikita_Thinking_01.exp3.json"
 			}
 		],
@@ -52,10 +52,14 @@
 					"FadeOutTime": 0
 				},
 				{
-					"File": "motions/Mouthopen_2s.motion3.json"
+					"File": "motions/Mouthopen_2s.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
 				},
 				{
-					"File": "motions/Mouthopen_5s.motion3.json"
+					"File": "motions/Mouthopen_5s.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
 				}
 			]
 		}

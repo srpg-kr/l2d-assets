@@ -1,0 +1,25 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴 开闭"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "CHA_Researcher_01",
+			"Name": "CHA_Researcher_01"
+		},
+		{
+			"Id": "CHA_Researcher_b",
+			"Name": "CHA_Researcher_b"
+		},
+		{
+			"Id": "CHA_Researcher_k",
+			"Name": "CHA_Researcher_k"
+		}
+	]
+}

@@ -51,13 +51,19 @@
 		"Motions": {
 			"": [
 				{
-					"File": "motions/Mouthopen_10s.motion3.json"
+					"File": "motions/Mouthopen_10s.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
 				},
 				{
-					"File": "motions/Mouthopen_2s.motion3.json"
+					"File": "motions/Mouthopen_2s.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
 				},
 				{
-					"File": "motions/Mouthopen_5s.motion3.json"
+					"File": "motions/Mouthopen_5s.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
 				}
 			]
 		}

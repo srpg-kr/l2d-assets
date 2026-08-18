@@ -1,0 +1,233 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param5",
+			"GroupId": "",
+			"Name": "左眉毛X"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "",
+			"Name": "左眉毛Y"
+		},
+		{
+			"Id": "Param39",
+			"GroupId": "",
+			"Name": "Z"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "",
+			"Name": "左眉前"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "",
+			"Name": "左眉中"
+		},
+		{
+			"Id": "Param9",
+			"GroupId": "",
+			"Name": "左眉后"
+		},
+		{
+			"Id": "Param10",
+			"GroupId": "",
+			"Name": "认真眉毛替换"
+		},
+		{
+			"Id": "Param18",
+			"GroupId": "",
+			"Name": "双眼皮"
+		},
+		{
+			"Id": "Param19",
+			"GroupId": "",
+			"Name": "左眼"
+		},
+		{
+			"Id": "Param11",
+			"GroupId": "",
+			"Name": "左眼睫毛Y"
+		},
+		{
+			"Id": "Param12",
+			"GroupId": "",
+			"Name": "左睫毛前"
+		},
+		{
+			"Id": "Param14",
+			"GroupId": "",
+			"Name": "左睫毛中"
+		},
+		{
+			"Id": "Param13",
+			"GroupId": "",
+			"Name": "左睫毛后"
+		},
+		{
+			"Id": "Param15",
+			"GroupId": "",
+			"Name": "尾睫毛"
+		},
+		{
+			"Id": "Param16",
+			"GroupId": "",
+			"Name": "眼白"
+		},
+		{
+			"Id": "Param17",
+			"GroupId": "",
+			"Name": "下睫毛"
+		},
+		{
+			"Id": "Param33",
+			"GroupId": "",
+			"Name": "右眉毛X"
+		},
+		{
+			"Id": "Param34",
+			"GroupId": "",
+			"Name": "右眉毛Y"
+		},
+		{
+			"Id": "Param38",
+			"GroupId": "",
+			"Name": "Z"
+		},
+		{
+			"Id": "Param35",
+			"GroupId": "",
+			"Name": "右眉前"
+		},
+		{
+			"Id": "Param37",
+			"GroupId": "",
+			"Name": "右眉中"
+		},
+		{
+			"Id": "Param36",
+			"GroupId": "",
+			"Name": "右眉后"
+		},
+		{
+			"Id": "Param32",
+			"GroupId": "",
+			"Name": "眉骨阴影"
+		},
+		{
+			"Id": "Param23",
+			"GroupId": "",
+			"Name": "双眼皮"
+		},
+		{
+			"Id": "Param24",
+			"GroupId": "",
+			"Name": "右眼"
+		},
+		{
+			"Id": "Param25",
+			"GroupId": "",
+			"Name": "右眼睫毛Y"
+		},
+		{
+			"Id": "Param26",
+			"GroupId": "",
+			"Name": "右睫毛前"
+		},
+		{
+			"Id": "Param27",
+			"GroupId": "",
+			"Name": "右睫毛中"
+		},
+		{
+			"Id": "Param28",
+			"GroupId": "",
+			"Name": "右睫毛后"
+		},
+		{
+			"Id": "Param30",
+			"GroupId": "",
+			"Name": "尾睫毛"
+		},
+		{
+			"Id": "Param31",
+			"GroupId": "",
+			"Name": "眼白"
+		},
+		{
+			"Id": "Param29",
+			"GroupId": "",
+			"Name": "下睫毛"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "开闭眼"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "惊讶 认真 待机 开心"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴 开闭"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "眼睛 开心"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "",
+			"Name": "开心表情"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part15",
+			"Name": "CHA_Liberty_01.psd(未找到对应图层)"
+		},
+		{
+			"Id": "PartSketch0",
+			"Name": "[ 参考图 ]"
+		},
+		{
+			"Id": "Part11",
+			"Name": "CHA_Liberty_01.psd(未找到对应图层)"
+		},
+		{
+			"Id": "CHA_Liberty_01",
+			"Name": "CHA_Liberty_01"
+		},
+		{
+			"Id": "CHA_Liberty_04",
+			"Name": "CHA_Liberty_01"
+		},
+		{
+			"Id": "CHA_Liberty_03",
+			"Name": "CHA_Liberty_01"
+		},
+		{
+			"Id": "Part4",
+			"Name": "Happy开心"
+		},
+		{
+			"Id": "Part5",
+			"Name": "Idle待机"
+		},
+		{
+			"Id": "Part7",
+			"Name": "Serious认真"
+		},
+		{
+			"Id": "Part6",
+			"Name": "开口"
+		}
+	]
+}

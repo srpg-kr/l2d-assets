@@ -1,0 +1,75 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_Lisa_01.moc3",
+		"Textures": [
+			"CHA_Lisa_01.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_Lisa_01.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "EMO_Lisa_Angry_01.exp3.json",
+				"File": "expressions/EMO_Lisa_Angry_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Lisa_Happy_01.exp3.json",
+				"File": "expressions/EMO_Lisa_Happy_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Lisa_Idle_01.exp3.json",
+				"File": "expressions/EMO_Lisa_Idle_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Lisa_Money_01.exp3.json",
+				"File": "expressions/EMO_Lisa_Money_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Lisa_Money_02.exp3.json",
+				"File": "expressions/EMO_Lisa_Money_02.exp3.json"
+			},
+			{
+				"Name": "EMO_Lisa_Sad_01.exp3.json",
+				"File": "expressions/EMO_Lisa_Sad_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Lisa_Serious_01.exp3.json",
+				"File": "expressions/EMO_Lisa_Serious_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Lisa_Surprised_01.exp3.json",
+				"File": "expressions/EMO_Lisa_Surprised_01.exp3.json"
+			}
+		],
+		"Motions": {
+			"": [
+				{
+					"File": "motions/Mouthopen_10s.motion3.json"
+				},
+				{
+					"File": "motions/Mouthopen_2s.motion3.json"
+				},
+				{
+					"File": "motions/Mouthopen_5s.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		}
+	],
+	"HitAreas": []
+}

@@ -1,0 +1,11 @@
+{
+	"Version": 3,
+	"Parameters": [],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "CHA_Yellow_GuardMale_01.psd"
+		}
+	]
+}

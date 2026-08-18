@@ -8,35 +8,43 @@
 		"DisplayInfo": "CHA_Sop_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Sop_Angry_01.exp3.json",
+				"Name": "EMO_Sop_Angry_01",
 				"File": "expressions/EMO_Sop_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Sop_Confused_01.exp3.json",
+				"Name": "EMO_Sop_Confused_01",
 				"File": "expressions/EMO_Sop_Confused_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Sop_Dissatisfied_01.exp3.json",
+				"Name": "EMO_Sop_Crazy_01",
+				"File": "expressions/EMO_Sop_Crazy_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Sop_Dissatisfied_01",
 				"File": "expressions/EMO_Sop_Dissatisfied_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Sop_Excited_01.exp3.json",
+				"Name": "EMO_Sop_Excited_01",
 				"File": "expressions/EMO_Sop_Excited_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Sop_Happy_01.exp3.json",
+				"Name": "EMO_Sop_Furious_01",
+				"File": "expressions/EMO_Sop_Furious_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Sop_Happy_01",
 				"File": "expressions/EMO_Sop_Happy_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Sop_Idle_01.exp3.json",
+				"Name": "EMO_Sop_Idle_01",
 				"File": "expressions/EMO_Sop_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Sop_Panic_01.exp3.json",
+				"Name": "EMO_Sop_Panic_01",
 				"File": "expressions/EMO_Sop_Panic_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Sop_Serious_01.exp3.json",
+				"Name": "EMO_Sop_Serious_01",
 				"File": "expressions/EMO_Sop_Serious_01.exp3.json"
 			}
 		],

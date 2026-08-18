@@ -12,8 +12,24 @@
 				"File": "expresstions/EMO_Groza_R_Angry_01.exp3.json"
 			},
 			{
+				"Name": "EMO_Groza_R_Angry_02.exp3.json",
+				"File": "expresstions/EMO_Groza_R_Angry_02.exp3.json"
+			},
+			{
 				"Name": "EMO_Groza_R_Controlled_01 .exp3.json",
 				"File": "expresstions/EMO_Groza_R_Controlled_01 .exp3.json"
+			},
+			{
+				"Name": "EMO_Groza_R_Cry_01.exp3.json",
+				"File": "expresstions/EMO_Groza_R_Cry_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Groza_R_Cry_02.exp3.json",
+				"File": "expresstions/EMO_Groza_R_Cry_02.exp3.json"
+			},
+			{
+				"Name": "EMO_Groza_R_Cry_03.exp3.json",
+				"File": "expresstions/EMO_Groza_R_Cry_03.exp3.json"
 			},
 			{
 				"Name": "EMO_Groza_R_Helpless_01.exp3.json",
@@ -24,12 +40,20 @@
 				"File": "expresstions/EMO_Groza_R_Idle_01.exp3.json"
 			},
 			{
+				"Name": "EMO_Groza_R_Jealous_01.exp3.json",
+				"File": "expresstions/EMO_Groza_R_Jealous_01.exp3.json"
+			},
+			{
 				"Name": "EMO_Groza_R_Pain_01.exp3.json",
 				"File": "expresstions/EMO_Groza_R_Pain_01.exp3.json"
 			},
 			{
 				"Name": "EMO_Groza_R_Serious_01.exp3.json",
 				"File": "expresstions/EMO_Groza_R_Serious_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Groza_R_Serious_02.exp3.json",
+				"File": "expresstions/EMO_Groza_R_Serious_02.exp3.json"
 			},
 			{
 				"Name": "EMO_Groza_R_Smile_01.exp3.json",
@@ -52,6 +76,10 @@
 				"File": "expresstions/EMO_Groza_R_Uneasy_01.exp3.json"
 			},
 			{
+				"Name": "EMO_Groza_R_Uneasy_02.exp3.json",
+				"File": "expresstions/EMO_Groza_R_Uneasy_02.exp3.json"
+			},
+			{
 				"Name": "EMO_Groza_R_Vigilant_01.exp3.json",
 				"File": "expresstions/EMO_Groza_R_Vigilant_01.exp3.json"
 			},
@@ -63,19 +91,13 @@
 		"Motions": {
 			"": [
 				{
-					"File": "motions/Mouthopen_02s.motion3.json",
-					"FadeInTime": 0,
-					"FadeOutTime": 0
+					"File": "motions/Mouthopen_02s.motion3.json"
 				},
 				{
-					"File": "motions/Mouthopen_10s.motion3.json",
-					"FadeInTime": 0,
-					"FadeOutTime": 0
+					"File": "motions/Mouthopen_10s.motion3.json"
 				},
 				{
-					"File": "motions/Mouthopen_5s.motion3.json",
-					"FadeInTime": 0,
-					"FadeOutTime": 0
+					"File": "motions/Mouthopen_5s.motion3.json"
 				},
 				{
 					"File": "motions/NTP.motion3.json",

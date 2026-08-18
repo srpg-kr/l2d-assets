@@ -1,0 +1,89 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_Sextans_01.moc3",
+		"Textures": [
+			"CHA_Sextans_01.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_Sextans_01.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "EMO_Sextans_Aggression_01.exp3.json",
+				"File": "expressions/EMO_Sextans_Aggression_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Sextans_Amazed_01.exp3.json",
+				"File": "expressions/EMO_Sextans_Amazed_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Sextans_Anger_01.exp3.json",
+				"File": "expressions/EMO_Sextans_Anger_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Sextans_Contempt_01.exp3.json",
+				"File": "expressions/EMO_Sextans_Contempt_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Sextans_Fight_01.exp3.json",
+				"File": "expressions/EMO_Sextans_Fight_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Sextans_Gentle_01.exp3.json",
+				"File": "expressions/EMO_Sextans_Gentle_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Sextans_Idle_01.exp3.json",
+				"File": "expressions/EMO_Sextans_Idle_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Sextans_Shy_01.exp3.json",
+				"File": "expressions/EMO_Sextans_Shy_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Sextans_Shy_02.exp3.json",
+				"File": "expressions/EMO_Sextans_Shy_02.exp3.json"
+			},
+			{
+				"Name": "EMO_Sextans_Smile_01.exp3.json",
+				"File": "expressions/EMO_Sextans_Smile_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Sextans_Weak_01.exp3.json",
+				"File": "expressions/EMO_Sextans_Weak_01.exp3.json"
+			}
+		],
+		"Motions": {
+			"": [
+				{
+					"File": "motions/Mouthopen_10s.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				},
+				{
+					"File": "motions/Mouthopen_2s.motion3.json"
+				},
+				{
+					"File": "motions/Mouthopen_5s.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeROpen",
+				"ParamEyeLOpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		}
+	],
+	"HitAreas": []
+}

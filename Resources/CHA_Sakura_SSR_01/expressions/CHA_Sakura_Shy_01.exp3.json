@@ -242,6 +242,31 @@
 			"Id": "Param51",
 			"Value": 0,
 			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeROpen3",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeROpen2",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param18",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param24",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param25",
+			"Value": 0,
+			"Blend": "Add"
 		}
 	]
 }

@@ -8,16 +8,20 @@
 		"DisplayInfo": "CHA_Carmen_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Carmen_Angry_01.exp3.json",
-				"File": "expressions/EMO_Carmen_Angry_01.exp3.json"
-			},
-			{
-				"Name": "EMO_Carmen_Idle_01.exp3.json",
+				"Name": "EMO_Carmen_Idle_01",
 				"File": "expressions/EMO_Carmen_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Carmen_Smile_01.exp3.json",
+				"Name": "EMO_Carmen_Smile_01",
 				"File": "expressions/EMO_Carmen_Smile_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Carmen_Angry_01",
+				"File": "expressions/EMO_Carmen_Angry_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Carmen_Smile_02.exp3.json",
+				"File": "expressions/EMO_Carmen_Smile_02.exp3.json"
 			}
 		],
 		"Motions": {
@@ -28,10 +32,14 @@
 					"FadeOutTime": 0
 				},
 				{
-					"File": "motions/Mouthopen_2s.motion3.json"
+					"File": "motions/Mouthopen_2s.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
 				},
 				{
-					"File": "motions/Mouthopen_5s.motion3.json"
+					"File": "motions/Mouthopen_5s.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
 				}
 			]
 		}
@@ -39,17 +47,17 @@
 	"Groups": [
 		{
 			"Target": "Parameter",
-			"Name": "LipSync",
-			"Ids": [
-				"ParamMouthOpenY"
-			]
-		},
-		{
-			"Target": "Parameter",
 			"Name": "EyeBlink",
 			"Ids": [
 				"ParamEyeLOpen",
 				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
 			]
 		}
 	],

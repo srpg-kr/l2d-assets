@@ -1,0 +1,197 @@
+{
+	"Type": "Live2D Expression",
+	"FadeInTime": 0.15,
+	"FadeOutTime": 0.15,
+	"Parameters": [
+		{
+			"Id": "ParamEyeLOpen",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamYJJ2",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamYJJ3",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Parambq22",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Parambq21",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Parambq23",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Parambq20",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Parambq19",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Parambq18",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Parambq17",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Parambq16",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Parambq15",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Parambq14",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Parambq13",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Parambq12",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Parambq24",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Parambq25",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramyj",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramyj2",
+			"Value": -0.486,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramyj3",
+			"Value": 0.1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramyj4",
+			"Value": 0.214,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramyj5",
+			"Value": 0.186,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramyj14",
+			"Value": -0.4,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramyj6",
+			"Value": -0.914,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramyj7",
+			"Value": 0.357,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramyj8",
+			"Value": -0.043,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramyj9",
+			"Value": 0.786,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramyj10",
+			"Value": 0.186,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramyj11",
+			"Value": -0.014,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramyj20",
+			"Value": -0.029,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramyj19",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramyj15",
+			"Value": -0.657,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramyj18",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramyj16",
+			"Value": -0.014,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramyj17",
+			"Value": 0.429,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramyj13",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramyj12",
+			"Value": 0,
+			"Blend": "Add"
+		}
+	]
+}

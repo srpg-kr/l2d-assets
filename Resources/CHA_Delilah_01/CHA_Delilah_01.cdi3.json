@@ -1,0 +1,56 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Parambq12",
+			"GroupId": "ParamGroup",
+			"Name": "伤心"
+		},
+		{
+			"Id": "Parambq13",
+			"GroupId": "ParamGroup",
+			"Name": "生气"
+		},
+		{
+			"Id": "Parambq14",
+			"GroupId": "ParamGroup",
+			"Name": "思考"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "眼开闭"
+		},
+		{
+			"Id": "ParamYJJ2",
+			"GroupId": "",
+			"Name": "待思伤生"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴　张开和闭合"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "表情"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part3",
+			"Name": "CHA_Delilah_01.psd"
+		},
+		{
+			"Id": "CHA_Delilah_01",
+			"Name": "CHA_Delilah_01"
+		},
+		{
+			"Id": "Part2",
+			"Name": "眼睛"
+		}
+	]
+}

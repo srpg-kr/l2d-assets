@@ -1,0 +1,74 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_Soppo_02.moc3",
+		"Textures": [
+			"CHA_Soppo_02.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_Soppo_02.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "EMO_Soppo_02_Angry_01",
+				"File": "expressions/EMO_Soppo_02_Angry_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Soppo_02_Confused_01",
+				"File": "expressions/EMO_Soppo_02_Confused_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Soppo_02_Crazy_01",
+				"File": "expressions/EMO_Soppo_02_Crazy_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Soppo_02_Cry_01",
+				"File": "expressions/EMO_Soppo_02_Cry_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Soppo_02_Dissatisfied_01",
+				"File": "expressions/EMO_Soppo_02_Dissatisfied_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Soppo_02_Excited_01",
+				"File": "expressions/EMO_Soppo_02_Excited_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Soppo_02_Furious_01",
+				"File": "expressions/EMO_Soppo_02_Furious_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Soppo_02_Happy_01",
+				"File": "expressions/EMO_Soppo_02_Happy_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Soppo_02_Idle_01",
+				"File": "expressions/EMO_Soppo_02_Idle_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Soppo_02_Panic_01",
+				"File": "expressions/EMO_Soppo_02_Panic_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Soppo_02_Serious_01",
+				"File": "expressions/EMO_Soppo_02_Serious_01.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		}
+	],
+	"HitAreas": []
+}

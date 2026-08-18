@@ -1,0 +1,106 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param4",
+			"GroupId": "",
+			"Name": "L眉毛变形"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "",
+			"Name": "R眉毛变形"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "",
+			"Name": "L眼线变形"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "",
+			"Name": "R眼线变形"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "",
+			"Name": "L上睫毛"
+		},
+		{
+			"Id": "Param9",
+			"GroupId": "",
+			"Name": "L下睫毛"
+		},
+		{
+			"Id": "Param11",
+			"GroupId": "",
+			"Name": "L眼珠"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "",
+			"Name": "R上睫毛"
+		},
+		{
+			"Id": "Param10",
+			"GroupId": "",
+			"Name": "R下睫毛"
+		},
+		{
+			"Id": "Param12",
+			"GroupId": "",
+			"Name": "R眼珠"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左眼 开闭"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右眼 开闭"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "微笑变形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴 开闭"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "CHA_Enfield_01",
+			"Name": "CHA_Enfield_01"
+		},
+		{
+			"Id": "PartSketch0",
+			"Name": "[ 参考图 ]"
+		},
+		{
+			"Id": "Part5",
+			"Name": "Idle待机"
+		},
+		{
+			"Id": "Part9",
+			"Name": "右眼"
+		},
+		{
+			"Id": "Part7",
+			"Name": "左眼"
+		},
+		{
+			"Id": "Part6",
+			"Name": "眼皮"
+		},
+		{
+			"Id": "Part8",
+			"Name": "嘴"
+		}
+	]
+}

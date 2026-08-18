@@ -1,0 +1,36 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "眼开闭"
+		},
+		{
+			"Id": "ParamYJJ",
+			"GroupId": "",
+			"Name": "待机伤心"
+		},
+		{
+			"Id": "ParamYJJ2",
+			"GroupId": "",
+			"Name": "待机嘲讽"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴　张开和闭合"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part6",
+			"Name": "CHA_Lyla_01.psd"
+		},
+		{
+			"Id": "Part5",
+			"Name": "参考"
+		}
+	]
+}

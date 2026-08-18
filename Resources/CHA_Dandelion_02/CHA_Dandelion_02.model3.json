@@ -1,0 +1,54 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_Dandelion_02.moc3",
+		"Textures": [
+			"CHA_Dandelion_02.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_Dandelion_02.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "EMO_Dandelion_Angry_01",
+				"File": "expressions/EMO_Dandelion_Angry_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Dandelion_Idle_01",
+				"File": "expressions/EMO_Dandelion_Idle_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Dandelion_Serious_01",
+				"File": "expressions/EMO_Dandelion_Serious_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Dandelion_Smile_01",
+				"File": "expressions/EMO_Dandelion_Smile_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Dandelion_Surprised_01",
+				"File": "expressions/EMO_Dandelion_Surprised_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Dandelion_Worry_01",
+				"File": "expressions/EMO_Dandelion_Worry_01.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		}
+	],
+	"HitAreas": []
+}

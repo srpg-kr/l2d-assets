@@ -8,27 +8,27 @@
 		"DisplayInfo": "CHA_Inessa_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Inessa_Cry_01.exp3.json",
+				"Name": "EMO_Inessa_Cry_01",
 				"File": "expressions/EMO_Inessa_Cry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Inessa_Idle_01.exp3.json",
+				"Name": "EMO_Inessa_Idle_01",
 				"File": "expressions/EMO_Inessa_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Inessa_Loss_01.exp3.json",
+				"Name": "EMO_Inessa_Loss_01",
 				"File": "expressions/EMO_Inessa_Loss_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Inessa_Smile_01.exp3.json",
+				"Name": "EMO_Inessa_Smile_01",
 				"File": "expressions/EMO_Inessa_Smile_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Inessa_Tender_01.exp3.json",
+				"Name": "EMO_Inessa_Tender_01",
 				"File": "expressions/EMO_Inessa_Tender_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Inessa_Yummy_01.exp3.json",
+				"Name": "EMO_Inessa_Yummy_01",
 				"File": "expressions/EMO_Inessa_Yummy_01.exp3.json"
 			}
 		],
@@ -62,5 +62,6 @@
 				"ParamEyeROpen"
 			]
 		}
-	]
+	],
+	"HitAreas": []
 }

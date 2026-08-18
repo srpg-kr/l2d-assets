@@ -20,6 +20,14 @@
 				"File": "expresstions/EMO_Charolic_Rest_Disdain_01.exp3.json"
 			},
 			{
+				"Name": "EMO_Charolic_Rest_Forbearance_01.exp3.json",
+				"File": "expresstions/EMO_Charolic_Rest_Forbearance_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Charolic_Rest_Fury_01.exp3.json",
+				"File": "expresstions/EMO_Charolic_Rest_Fury_01.exp3.json"
+			},
+			{
 				"Name": "EMO_Charolic_Rest_Idle_01.exp3.json",
 				"File": "expresstions/EMO_Charolic_Rest_Idle_01.exp3.json"
 			},
@@ -54,24 +62,22 @@
 			{
 				"Name": "EMO_Charolic_Rest_Surprised_01.exp3.json",
 				"File": "expresstions/EMO_Charolic_Rest_Surprised_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Charolic_Rest_Tear_01.exp3.json",
+				"File": "expresstions/EMO_Charolic_Rest_Tear_01.exp3.json"
 			}
 		],
 		"Motions": {
 			"": [
 				{
-					"File": "motions/Mouthopen_02s.motion3.json",
-					"FadeInTime": 0,
-					"FadeOutTime": 0
+					"File": "motions/Mouthopen_02s.motion3.json"
 				},
 				{
-					"File": "motions/Mouthopen_10s.motion3.json",
-					"FadeInTime": 0,
-					"FadeOutTime": 0
+					"File": "motions/Mouthopen_10s.motion3.json"
 				},
 				{
-					"File": "motions/Mouthopen_5s.motion3.json",
-					"FadeInTime": 0,
-					"FadeOutTime": 0
+					"File": "motions/Mouthopen_5s.motion3.json"
 				},
 				{
 					"File": "motions/NTP.motion3.json",

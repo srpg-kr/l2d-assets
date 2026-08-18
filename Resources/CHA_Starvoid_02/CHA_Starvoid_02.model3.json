@@ -1,0 +1,58 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_Starvoid_02.moc3",
+		"Textures": [
+			"CHA_Starvoid_02.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_Starvoid_02.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "EMO_Starvoid_Amazed_01",
+				"File": "expressions/EMO_Starvoid_Amazed_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Starvoid_Contempt_01",
+				"File": "expressions/EMO_Starvoid_Contempt_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Starvoid_Idle_01",
+				"File": "expressions/EMO_Starvoid_Idle_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Starvoid_Shame_01",
+				"File": "expressions/EMO_Starvoid_Shame_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Starvoid_Smile_01",
+				"File": "expressions/EMO_Starvoid_Smile_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Starvoid_Thnik_01",
+				"File": "expressions/EMO_Starvoid_Thnik_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Starvoid_Wonder_01",
+				"File": "expressions/EMO_Starvoid_Wonder_01.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		}
+	],
+	"HitAreas": []
+}

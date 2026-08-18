@@ -1,0 +1,100 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左眼 开闭"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "",
+			"Name": "左眼 微笑"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右眼 开闭"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "",
+			"Name": "右眼 微笑"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "",
+			"Name": "左眉 上下"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "",
+			"Name": "右眉 上下"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "嘴 变形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴 开闭"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part17",
+			"Name": "CHA_Agent_01.psd(未找到对应图层)"
+		},
+		{
+			"Id": "Part",
+			"Name": "Smile微笑"
+		},
+		{
+			"Id": "CHA_Agent_01",
+			"Name": "CHA_Agent_01"
+		},
+		{
+			"Id": "CHA_Agent_03",
+			"Name": "CHA_Agent_01"
+		},
+		{
+			"Id": "Part2",
+			"Name": "Smile微笑"
+		},
+		{
+			"Id": "Part5",
+			"Name": "Idle待机"
+		},
+		{
+			"Id": "Part13",
+			"Name": "Idle待机"
+		},
+		{
+			"Id": "Part3",
+			"Name": "开口 副本"
+		},
+		{
+			"Id": "Part4",
+			"Name": "闭口"
+		},
+		{
+			"Id": "Part6",
+			"Name": "开口"
+		},
+		{
+			"Id": "Part8",
+			"Name": "组 1"
+		},
+		{
+			"Id": "Part15",
+			"Name": "闭口"
+		},
+		{
+			"Id": "Part7",
+			"Name": "闭口"
+		}
+	]
+}

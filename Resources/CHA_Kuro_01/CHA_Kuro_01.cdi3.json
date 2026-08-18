@@ -1,0 +1,496 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左眼 开闭"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右眼 开闭"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "",
+			"Name": "右眼 微笑"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "嘴 变形"
+		},
+		{
+			"Id": "Param24",
+			"GroupId": "",
+			"Name": "嘴变形2"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴 开闭"
+		},
+		{
+			"Id": "Param27",
+			"GroupId": "ParamGroup13",
+			"Name": "右眉毛上下"
+		},
+		{
+			"Id": "Param28",
+			"GroupId": "ParamGroup13",
+			"Name": "右眉毛左右"
+		},
+		{
+			"Id": "Param29",
+			"GroupId": "ParamGroup13",
+			"Name": "旋转"
+		},
+		{
+			"Id": "Param30",
+			"GroupId": "ParamGroup13",
+			"Name": "眉头上下"
+		},
+		{
+			"Id": "Param31",
+			"GroupId": "ParamGroup13",
+			"Name": "眉头粗细"
+		},
+		{
+			"Id": "Param32",
+			"GroupId": "ParamGroup13",
+			"Name": "眉中上下"
+		},
+		{
+			"Id": "Param33",
+			"GroupId": "ParamGroup13",
+			"Name": "眉中粗细"
+		},
+		{
+			"Id": "Param34",
+			"GroupId": "ParamGroup13",
+			"Name": "眉梢上下"
+		},
+		{
+			"Id": "Param35",
+			"GroupId": "ParamGroup13",
+			"Name": "眉梢粗细"
+		},
+		{
+			"Id": "Param45",
+			"GroupId": "ParamGroup13",
+			"Name": "眉头扭曲"
+		},
+		{
+			"Id": "Param49",
+			"GroupId": "ParamGroup13",
+			"Name": "眉梢扭曲"
+		},
+		{
+			"Id": "Param37",
+			"GroupId": "ParamGroup12",
+			"Name": "左眉毛上下"
+		},
+		{
+			"Id": "Param38",
+			"GroupId": "ParamGroup12",
+			"Name": "左眉毛左右"
+		},
+		{
+			"Id": "Param39",
+			"GroupId": "ParamGroup12",
+			"Name": "旋转"
+		},
+		{
+			"Id": "Param40",
+			"GroupId": "ParamGroup12",
+			"Name": "左眉头上下"
+		},
+		{
+			"Id": "Param41",
+			"GroupId": "ParamGroup12",
+			"Name": "左眉头粗细"
+		},
+		{
+			"Id": "Param36",
+			"GroupId": "ParamGroup12",
+			"Name": "眉中上下"
+		},
+		{
+			"Id": "Param42",
+			"GroupId": "ParamGroup12",
+			"Name": "眉中粗细"
+		},
+		{
+			"Id": "Param43",
+			"GroupId": "ParamGroup12",
+			"Name": "眉梢上下"
+		},
+		{
+			"Id": "Param44",
+			"GroupId": "ParamGroup12",
+			"Name": "眉梢粗细"
+		},
+		{
+			"Id": "Param46",
+			"GroupId": "ParamGroup12",
+			"Name": "眉头扭曲"
+		},
+		{
+			"Id": "Param47",
+			"GroupId": "ParamGroup12",
+			"Name": "眉梢扭曲"
+		},
+		{
+			"Id": "Param48",
+			"GroupId": "ParamGroup12",
+			"Name": "眉头长短"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "ParamGroup",
+			"Name": "think眼睛位移"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "ParamGroup",
+			"Name": "think睫毛"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "ParamGroup",
+			"Name": "think嘴"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "ParamGroup2",
+			"Name": "pain眼眶"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "ParamGroup2",
+			"Name": "pain脸色"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "ParamGroup2",
+			"Name": "pain嘴宽"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "ParamGroup3",
+			"Name": "Worry眼"
+		},
+		{
+			"Id": "Param10",
+			"GroupId": "ParamGroup3",
+			"Name": "Worry嘴"
+		},
+		{
+			"Id": "Param11",
+			"GroupId": "ParamGroup4",
+			"Name": "Panic眼"
+		},
+		{
+			"Id": "Param12",
+			"GroupId": "ParamGroup4",
+			"Name": "Panic脸"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "ParamGroup4",
+			"Name": "Panic嘴"
+		},
+		{
+			"Id": "Param13",
+			"GroupId": "ParamGroup5",
+			"Name": "Surprised"
+		},
+		{
+			"Id": "Param14",
+			"GroupId": "ParamGroup5",
+			"Name": "Surprised嘴"
+		},
+		{
+			"Id": "Param15",
+			"GroupId": "ParamGroup6",
+			"Name": "Shy眼睛"
+		},
+		{
+			"Id": "Param17",
+			"GroupId": "ParamGroup6",
+			"Name": "Shy脸"
+		},
+		{
+			"Id": "Param16",
+			"GroupId": "ParamGroup6",
+			"Name": "Shy嘴"
+		},
+		{
+			"Id": "Param18",
+			"GroupId": "ParamGroup7",
+			"Name": "Embarrassed眼睛"
+		},
+		{
+			"Id": "Param19",
+			"GroupId": "ParamGroup7",
+			"Name": "Embarrassed脸"
+		},
+		{
+			"Id": "Param20",
+			"GroupId": "ParamGroup7",
+			"Name": "Embarrassed嘴"
+		},
+		{
+			"Id": "Param21",
+			"GroupId": "ParamGroup8",
+			"Name": "Angry眼"
+		},
+		{
+			"Id": "Param22",
+			"GroupId": "ParamGroup8",
+			"Name": "Angry"
+		},
+		{
+			"Id": "Param23",
+			"GroupId": "ParamGroup9",
+			"Name": "Laughing"
+		},
+		{
+			"Id": "Param25",
+			"GroupId": "ParamGroup10",
+			"Name": "Smile眼睛"
+		},
+		{
+			"Id": "Param26",
+			"GroupId": "ParamGroup11",
+			"Name": "Serious眼"
+		},
+		{
+			"Id": "Param9",
+			"GroupId": "ParamGroup11",
+			"Name": "Serious"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup13",
+			"GroupId": "",
+			"Name": "右眉毛"
+		},
+		{
+			"Id": "ParamGroup12",
+			"GroupId": "",
+			"Name": "左眉毛"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "Think"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "Pain"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "Worry"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "Panic"
+		},
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "Surprised"
+		},
+		{
+			"Id": "ParamGroup6",
+			"GroupId": "",
+			"Name": "Shy"
+		},
+		{
+			"Id": "ParamGroup7",
+			"GroupId": "",
+			"Name": "Embarrassed"
+		},
+		{
+			"Id": "ParamGroup8",
+			"GroupId": "",
+			"Name": "Angry"
+		},
+		{
+			"Id": "ParamGroup9",
+			"GroupId": "",
+			"Name": "Laughing"
+		},
+		{
+			"Id": "ParamGroup10",
+			"GroupId": "",
+			"Name": "Smile"
+		},
+		{
+			"Id": "ParamGroup11",
+			"GroupId": "",
+			"Name": "Serious"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part51",
+			"Name": "卡萝人物大小.psd(未找到对应图层)"
+		},
+		{
+			"Id": "Part",
+			"Name": "组 1"
+		},
+		{
+			"Id": "PartSketch0",
+			"Name": "[ 参考图 ]"
+		},
+		{
+			"Id": "Part26",
+			"Name": "组 1"
+		},
+		{
+			"Id": "Part2",
+			"Name": "Think思"
+		},
+		{
+			"Id": "Part3",
+			"Name": "Pain痛-轻度"
+		},
+		{
+			"Id": "Part4",
+			"Name": "Worry忧"
+		},
+		{
+			"Id": "Part8",
+			"Name": "Shy羞-重度"
+		},
+		{
+			"Id": "Part5",
+			"Name": "Panic惊慌"
+		},
+		{
+			"Id": "Part7",
+			"Name": "Surprised惊-轻度"
+		},
+		{
+			"Id": "Part10",
+			"Name": "Embarrassed害羞"
+		},
+		{
+			"Id": "Part13",
+			"Name": "Angry生气"
+		},
+		{
+			"Id": "Part17",
+			"Name": "Smile微笑"
+		},
+		{
+			"Id": "Part15",
+			"Name": "Laughing开心"
+		},
+		{
+			"Id": "Part20",
+			"Name": "Serious严肃"
+		},
+		{
+			"Id": "Part21",
+			"Name": "Idle待机"
+		},
+		{
+			"Id": "Part27",
+			"Name": "Think思"
+		},
+		{
+			"Id": "Part29",
+			"Name": "Worry忧"
+		},
+		{
+			"Id": "Part32",
+			"Name": "Surprised惊-轻度"
+		},
+		{
+			"Id": "Part33",
+			"Name": "Shy羞-重度"
+		},
+		{
+			"Id": "Part38",
+			"Name": "Angry生气"
+		},
+		{
+			"Id": "Part40",
+			"Name": "Laughing开心"
+		},
+		{
+			"Id": "Part42",
+			"Name": "Smile微笑"
+		},
+		{
+			"Id": "Part45",
+			"Name": "Serious严肃"
+		},
+		{
+			"Id": "Part46",
+			"Name": "Idle待机"
+		},
+		{
+			"Id": "Part9",
+			"Name": "开口 副本 8"
+		},
+		{
+			"Id": "Part6",
+			"Name": "开口 副本 10"
+		},
+		{
+			"Id": "Part11",
+			"Name": "开口 副本 6"
+		},
+		{
+			"Id": "Part12",
+			"Name": "闭口 副本 12"
+		},
+		{
+			"Id": "Part14",
+			"Name": "开口 副本 4"
+		},
+		{
+			"Id": "Part18",
+			"Name": "开口 副本 3"
+		},
+		{
+			"Id": "Part19",
+			"Name": "闭口 副本 5"
+		},
+		{
+			"Id": "Part16",
+			"Name": "开口 副本 5"
+		},
+		{
+			"Id": "Part23",
+			"Name": "闭口 副本 8"
+		},
+		{
+			"Id": "Part22",
+			"Name": "开口 副本 2"
+		},
+		{
+			"Id": "Part24",
+			"Name": "右眼"
+		},
+		{
+			"Id": "Part25",
+			"Name": "左眼"
+		},
+		{
+			"Id": "Part39",
+			"Name": "开口 副本 4"
+		}
+	]
+}

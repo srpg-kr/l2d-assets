@@ -1,0 +1,180 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "眼罩结晶"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "手臂结晶"
+		},
+		{
+			"Id": "ParamEyeLOpen2",
+			"GroupId": "ParamGroup",
+			"Name": "右上眼睑"
+		},
+		{
+			"Id": "ParamEyeLOpen10",
+			"GroupId": "ParamGroup",
+			"Name": "右上眼睑 粗细"
+		},
+		{
+			"Id": "ParamEyeLOpen3",
+			"GroupId": "ParamGroup",
+			"Name": "右下眼睑"
+		},
+		{
+			"Id": "ParamEyeLOpen6",
+			"GroupId": "ParamGroup",
+			"Name": "右上眼头"
+		},
+		{
+			"Id": "ParamEyeLOpen7",
+			"GroupId": "ParamGroup",
+			"Name": "右上眼尾"
+		},
+		{
+			"Id": "ParamEyeLOpen9",
+			"GroupId": "ParamGroup",
+			"Name": "右上眼皮"
+		},
+		{
+			"Id": "ParamEyeLOpen8",
+			"GroupId": "ParamGroup",
+			"Name": "右下眼尾"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup",
+			"Name": "左眼 开闭"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup",
+			"Name": "右眼 开闭"
+		},
+		{
+			"Id": "ParamEyeLOpen4",
+			"GroupId": "ParamGroup",
+			"Name": "左上眼睑"
+		},
+		{
+			"Id": "ParamEyeLOpen11",
+			"GroupId": "ParamGroup",
+			"Name": "左上眼皮"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "ParamGroup",
+			"Name": "眼珠 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "ParamGroup",
+			"Name": "眼珠 Y"
+		},
+		{
+			"Id": "ParamEyeBallY2",
+			"GroupId": "ParamGroup",
+			"Name": "惊讶眼瞳"
+		},
+		{
+			"Id": "ParamEyeBallY3",
+			"GroupId": "ParamGroup",
+			"Name": "轻蔑眼瞳"
+		},
+		{
+			"Id": "ParamEyeBallY4",
+			"GroupId": "ParamGroup",
+			"Name": "遗憾眼瞳"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "ParamGroup2",
+			"Name": "右眉 上下"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "ParamGroup2",
+			"Name": "右眉 角度"
+		},
+		{
+			"Id": "ParamBrowRForm2",
+			"GroupId": "ParamGroup2",
+			"Name": "右眉 尾変形"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "ParamGroup2",
+			"Name": "右眉 头変形"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "ParamGroup2",
+			"Name": "左眉 上下"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "ParamGroup2",
+			"Name": "左眉 角度"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "ParamGroup2",
+			"Name": "左眉 変形"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup3",
+			"Name": "思索轻蔑待机惊讶"
+		},
+		{
+			"Id": "ParamMouthForm3",
+			"GroupId": "ParamGroup3",
+			"Name": "微笑"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup3",
+			"Name": "嘴 开闭"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "眼睛"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "眉毛"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "嘴"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "组 1"
+		},
+		{
+			"Id": "Part2",
+			"Name": "装置"
+		},
+		{
+			"Id": "Part11",
+			"Name": "Idle待机"
+		},
+		{
+			"Id": "Part12",
+			"Name": "开口"
+		}
+	]
+}

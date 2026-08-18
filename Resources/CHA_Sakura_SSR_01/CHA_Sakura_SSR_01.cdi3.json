@@ -82,6 +82,16 @@
 			"Name": "右眼   开闭"
 		},
 		{
+			"Id": "ParamEyeROpen2",
+			"GroupId": "ParamGroup2",
+			"Name": "左眼  惊慌2"
+		},
+		{
+			"Id": "ParamEyeROpen3",
+			"GroupId": "ParamGroup2",
+			"Name": "右眼  惊慌2"
+		},
+		{
 			"Id": "ParamEyeBallX",
 			"GroupId": "ParamGroup2",
 			"Name": "L眼珠 X"
@@ -182,6 +192,11 @@
 			"Name": "左眉眉尾变形"
 		},
 		{
+			"Id": "Param25",
+			"GroupId": "ParamGroup",
+			"Name": "左眉眉头粗细"
+		},
+		{
 			"Id": "ParamBrowRX",
 			"GroupId": "ParamGroup",
 			"Name": "右眉　左右"
@@ -207,6 +222,11 @@
 			"Name": "右眉眉尾变形"
 		},
 		{
+			"Id": "Param18",
+			"GroupId": "ParamGroup",
+			"Name": "右眉眉头粗细"
+		},
+		{
 			"Id": "Param44",
 			"GroupId": "ParamGroup",
 			"Name": "眉毛长度"
@@ -220,6 +240,11 @@
 			"Id": "Param19",
 			"GroupId": "ParamGroup4",
 			"Name": "脸红"
+		},
+		{
+			"Id": "Param24",
+			"GroupId": "ParamGroup4",
+			"Name": "惊慌"
 		},
 		{
 			"Id": "Param20",
@@ -266,8 +291,20 @@
 	],
 	"Parts": [
 		{
+			"Id": "Part13",
+			"Name": "CHA_Sakura_SSR_01.psd(未找到对应图层)"
+		},
+		{
 			"Id": "Part9",
 			"Name": "CHA_Sakura_SSR_01.psd"
+		},
+		{
+			"Id": "Part3",
+			"Name": "Surprised惊慌"
+		},
+		{
+			"Id": "Part",
+			"Name": "Surprised惊慌"
 		},
 		{
 			"Id": "Part6",
@@ -280,6 +317,10 @@
 		{
 			"Id": "Part8",
 			"Name": "嘴"
+		},
+		{
+			"Id": "Part2",
+			"Name": "开口"
 		}
 	]
 }

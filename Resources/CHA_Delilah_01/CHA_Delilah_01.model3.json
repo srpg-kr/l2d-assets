@@ -1,0 +1,45 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_Delilah_01.moc3",
+		"Textures": [
+			"CHA_Delilah_01.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_Delilah_01.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "EMO_Delilah_Angry_01",
+				"File": "expressions/EMO_Delilah_Angry_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Delilah_Idle_01",
+				"File": "expressions/EMO_Delilah_Idle_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Delilah_Sad_01",
+				"File": "expressions/EMO_Delilah_Sad_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Delilah_Think_01",
+				"File": "expressions/EMO_Delilah_Think_01.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		}
+	],
+	"HitAreas": []
+}

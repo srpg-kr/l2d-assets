@@ -1,0 +1,74 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_Kalina_Suit_02.moc3",
+		"Textures": [
+			"CHA_Kalina_Suit_02.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_Kalina_Suit_02.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "EMO_Kalina_Blood_01",
+				"File": "expressions/EMO_Kalina_Blood_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Kalina_Determined_01",
+				"File": "expressions/EMO_Kalina_Determined_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Kalina_Helpless_01",
+				"File": "expressions/EMO_Kalina_Helpless_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Kalina_Idle_01",
+				"File": "expressions/EMO_Kalina_Idle_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Kalina_Indifferent_01",
+				"File": "expressions/EMO_Kalina_Indifferent_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Kalina_Sneer_01",
+				"File": "expressions/EMO_Kalina_Sneer_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Kalina_Solemn_01",
+				"File": "expressions/EMO_Kalina_Solemn_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Kalina_Surprised_01",
+				"File": "expressions/EMO_Kalina_Surprised_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Kalina_Tender_01",
+				"File": "expressions/EMO_Kalina_Tender_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Kalina_Think_01",
+				"File": "expressions/EMO_Kalina_Think_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Kalina_Worry_01",
+				"File": "expressions/EMO_Kalina_Worry_01.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		}
+	],
+	"HitAreas": []
+}

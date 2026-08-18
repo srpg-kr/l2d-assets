@@ -28,6 +28,10 @@
 				"File": "expressions/EMO_Sweeper_Idle_01.exp3.json"
 			},
 			{
+				"Name": "EMO_Sweeper_Injury_01",
+				"File": "expressions/EMO_Sweeper_Injury_01.exp3.json"
+			},
+			{
 				"Name": "EMO_Sweeper_Ridicule_01",
 				"File": "expressions/EMO_Sweeper_Ridicule_01.exp3.json"
 			},

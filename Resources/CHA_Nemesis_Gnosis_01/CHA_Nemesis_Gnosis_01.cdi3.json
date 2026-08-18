@@ -1,0 +1,241 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamShine",
+			"GroupId": "",
+			"Name": "SHINE"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左眼　开闭"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "",
+			"Name": "左眼　微笑"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右眼   开闭"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "",
+			"Name": "右眼　微笑"
+		},
+		{
+			"Id": "ParamEyeX",
+			"GroupId": "",
+			"Name": "眼球 X"
+		},
+		{
+			"Id": "ParamEyeY",
+			"GroupId": "",
+			"Name": "眼球 Y"
+		},
+		{
+			"Id": "ParamEyeszoom",
+			"GroupId": "",
+			"Name": "目缩放"
+		},
+		{
+			"Id": "ParamEyehigtlight",
+			"GroupId": "",
+			"Name": "目高光"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "",
+			"Name": "左眉上下"
+		},
+		{
+			"Id": "ParamBrowLX",
+			"GroupId": "",
+			"Name": "左眉　左右"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "",
+			"Name": "左眉　角度"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "",
+			"Name": "左眉　変形"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "",
+			"Name": "右眉　上下"
+		},
+		{
+			"Id": "ParamBrowRX",
+			"GroupId": "",
+			"Name": "右眉　左右"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "",
+			"Name": "右眉　角度"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "左眉1"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "",
+			"Name": "右眉　変形"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "",
+			"Name": "右眉1"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "嘴部　变形"
+		},
+		{
+			"Id": "ParamMouthForm2",
+			"GroupId": "",
+			"Name": "嘴部　变形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴巴　张开和闭合"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "",
+			"Name": "脸颊"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "",
+			"Name": "哭"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "惊讶"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part3",
+			"Name": "换装贴图.psd"
+		},
+		{
+			"Id": "Part20",
+			"Name": "NNS TEST.psd"
+		},
+		{
+			"Id": "Part12",
+			"Name": "纳美西斯SR拆分.psd"
+		},
+		{
+			"Id": "Part10",
+			"Name": "Nemesis规范画布 - 副本.psd"
+		},
+		{
+			"Id": "Part6",
+			"Name": "Nemesis-SR 切图.psd(未找到对应图层)"
+		},
+		{
+			"Id": "Part5",
+			"Name": "Nemesis-SR 切图.psd(未找到对应图层)"
+		},
+		{
+			"Id": "Part",
+			"Name": "EYE L"
+		},
+		{
+			"Id": "Part2",
+			"Name": "EYE R"
+		},
+		{
+			"Id": "Part18",
+			"Name": "组 1"
+		},
+		{
+			"Id": "Part19",
+			"Name": "组 2"
+		},
+		{
+			"Id": "Part7",
+			"Name": "Nemesis.psd"
+		},
+		{
+			"Id": "Part16",
+			"Name": "纳美西斯休息室.psd"
+		},
+		{
+			"Id": "PartSketch0",
+			"Name": "[ 参考图 ]"
+		},
+		{
+			"Id": "EMO_Nemesis_R_Ridicule_01",
+			"Name": "EMO_Nemesis_R_Ridicule_01"
+		},
+		{
+			"Id": "EMO_Nemesis_R_Smile_01",
+			"Name": "EMO_Nemesis_R_Smile_01"
+		},
+		{
+			"Id": "EMO_Nemesis_R_Idle_01",
+			"Name": "EMO_Nemesis_R_Idle_01"
+		},
+		{
+			"Id": "EMO_Nemesis_R_Shy_01",
+			"Name": "EMO_Nemesis_R_Shy_01"
+		},
+		{
+			"Id": "EMO_Nemesis_R_Angry_01",
+			"Name": "EMO_Nemesis_R_Angry_01"
+		},
+		{
+			"Id": "EMO_Nemesis_R_Think_01",
+			"Name": "EMO_Nemesis_R_Think_01"
+		},
+		{
+			"Id": "EMO_Nemesis_R_Helpless_01",
+			"Name": "EMO_Nemesis_R_Helpless_01"
+		},
+		{
+			"Id": "EMO_Nemesis_R_Surprised_01",
+			"Name": "EMO_Nemesis_R_Surprised_01"
+		},
+		{
+			"Id": "EMO_Nemesis_R_Speechless_01",
+			"Name": "EMO_Nemesis_R_Speechless_01"
+		},
+		{
+			"Id": "Part9",
+			"Name": "纳美西斯SR"
+		},
+		{
+			"Id": "KOU2",
+			"Name": "KOU"
+		},
+		{
+			"Id": "Part13",
+			"Name": "纳美西斯SR"
+		},
+		{
+			"Id": "Part4",
+			"Name": "纳美西斯SR"
+		},
+		{
+			"Id": "Part15",
+			"Name": "纳美西斯休息室【换脸】"
+		}
+	]
+}

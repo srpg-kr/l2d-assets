@@ -2,20 +2,186 @@
 	"Version": 3,
 	"Parameters": [
 		{
+			"Id": "Param",
+			"GroupId": "ParamGroup",
+			"Name": "上眼睑"
+		},
+		{
+			"Id": "Param12",
+			"GroupId": "ParamGroup",
+			"Name": "上眼睑粗细"
+		},
+		{
+			"Id": "Param10",
+			"GroupId": "ParamGroup",
+			"Name": "眼头"
+		},
+		{
+			"Id": "Param11",
+			"GroupId": "ParamGroup",
+			"Name": "眼尾"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "ParamGroup",
+			"Name": "下眼皮 头"
+		},
+		{
+			"Id": "Param9",
+			"GroupId": "ParamGroup",
+			"Name": "下眼皮 尾"
+		},
+		{
+			"Id": "Param14X",
+			"GroupId": "ParamGroup",
+			"Name": "眼球 X"
+		},
+		{
+			"Id": "Param15Y",
+			"GroupId": "ParamGroup",
+			"Name": "眼球 Y"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "ParamGroup",
+			"Name": "眼瞳 怀疑"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "ParamGroup",
+			"Name": "眼瞳 威胁"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "ParamGroup",
+			"Name": "眼瞳 痛苦"
+		},
+		{
+			"Id": "Param14",
+			"GroupId": "ParamGroup",
+			"Name": "眼瞳惊讶"
+		},
+		{
 			"Id": "ParamEyeLOpen",
-			"GroupId": "",
+			"GroupId": "ParamGroup",
 			"Name": "左眼　开闭"
 		},
 		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup3",
+			"Name": "威胁待机怀疑惊讶"
+		},
+		{
+			"Id": "ParamMouthForm2",
+			"GroupId": "ParamGroup3",
+			"Name": "待机痛苦"
+		},
+		{
 			"Id": "ParamMouthOpenY",
-			"GroupId": "",
+			"GroupId": "ParamGroup3",
 			"Name": "嘴　张开和闭合"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "ParamGroup2",
+			"Name": "Pain 痛苦"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "ParamGroup2",
+			"Name": "Threaten威胁"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "ParamGroup2",
+			"Name": "Suspect怀疑"
+		},
+		{
+			"Id": "Param14X2",
+			"GroupId": "ParamGroup4",
+			"Name": "眉毛 X"
+		},
+		{
+			"Id": "Param15Y2",
+			"GroupId": "ParamGroup4",
+			"Name": "眉毛 Y"
+		},
+		{
+			"Id": "Param15Y3",
+			"GroupId": "ParamGroup4",
+			"Name": "眉毛 角度"
+		},
+		{
+			"Id": "Param15Y4",
+			"GroupId": "ParamGroup4",
+			"Name": "眉毛 头"
+		},
+		{
+			"Id": "Param15Y5",
+			"GroupId": "ParamGroup4",
+			"Name": "眉毛 尾"
+		},
+		{
+			"Id": "Param15Y6",
+			"GroupId": "ParamGroup4",
+			"Name": "眉毛 中粗细"
+		},
+		{
+			"Id": "Param15Y7",
+			"GroupId": "ParamGroup4",
+			"Name": "眉毛 头粗细"
+		},
+		{
+			"Id": "Param15Y8",
+			"GroupId": "ParamGroup4",
+			"Name": "眉毛 尾长度"
 		}
 	],
-	"ParameterGroups": [],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "眼睛"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "嘴"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "表情特效"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "眉毛"
+		}
+	],
 	"Parts": [
 		{
 			"Id": "CHA_BlackGroza_NPC_01",
+			"Name": "CHA_BlackGroza_NPC_01"
+		},
+		{
+			"Id": "Part3",
+			"Name": "Surprised惊讶"
+		},
+		{
+			"Id": "Part4",
+			"Name": "Threaten威胁"
+		},
+		{
+			"Id": "Part6",
+			"Name": "Suspect怀疑"
+		},
+		{
+			"Id": "Part8",
+			"Name": "Pain痛苦"
+		},
+		{
+			"Id": "CHA_BlackGroza_NPC_02",
 			"Name": "CHA_BlackGroza_NPC_01"
 		},
 		{
@@ -25,6 +191,26 @@
 		{
 			"Id": "Part2",
 			"Name": "眼睛"
+		},
+		{
+			"Id": "Part5",
+			"Name": "开口 副本 2"
+		},
+		{
+			"Id": "Part7",
+			"Name": "开口 副本"
+		},
+		{
+			"Id": "Part9",
+			"Name": "咬牙"
+		},
+		{
+			"Id": "Part10",
+			"Name": "开口 副本 3"
+		},
+		{
+			"Id": "Part11",
+			"Name": "嘴巴"
 		}
 	]
 }

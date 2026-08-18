@@ -1,0 +1,177 @@
+{
+	"Type": "Live2D Expression",
+	"FadeInTime": 0.15,
+	"FadeOutTime": 0.15,
+	"Parameters": [
+		{
+			"Id": "ParamEyeLOpen",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"Value": -1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeROpen2",
+			"Value": -1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"Value": -2,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param32",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"Value": -0.1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramck37",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramck36",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramck35",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramck34",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramck33",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramck32",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramck31",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramck30",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramck29",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramck28",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramck26",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramck25",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramck24",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramck23",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramck22",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramck21",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramck27",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramck38",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramck45",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramck48",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramck39",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramck41",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramck42",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramck43",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramck40",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramck44",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramck46",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Paramck47",
+			"Value": 0,
+			"Blend": "Add"
+		}
+	]
+}

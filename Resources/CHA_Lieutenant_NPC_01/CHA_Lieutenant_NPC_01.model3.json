@@ -8,12 +8,8 @@
 		"DisplayInfo": "CHA_Lieutenant_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Lieutenant_Idle_01.exp3.json",
-				"File": "expressions/EMO_Lieutenant_Idle_01.exp3.json"
-			},
-			{
-				"Name": "EMO_Lieutenant_Solemn_01.exp3.json",
-				"File": "expressions/EMO_Lieutenant_Solemn_01.exp3.json"
+				"Name": "EMO_Lieutenant_NPC_Idle_01",
+				"File": "expressions/EMO_Lieutenant_NPC_Idle_01.exp3.json"
 			}
 		],
 		"Motions": {
@@ -24,10 +20,14 @@
 					"FadeOutTime": 0
 				},
 				{
-					"File": "motions/Mouthopen_2s.motion3.json"
+					"File": "motions/Mouthopen_2s.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
 				},
 				{
-					"File": "motions/Mouthopen_5s.motion3.json"
+					"File": "motions/Mouthopen_5s.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
 				}
 			]
 		}
@@ -35,17 +35,14 @@
 	"Groups": [
 		{
 			"Target": "Parameter",
-			"Name": "LipSync",
-			"Ids": [
-				"ParamMouthOpenY"
-			]
+			"Name": "EyeBlink",
+			"Ids": []
 		},
 		{
 			"Target": "Parameter",
-			"Name": "EyeBlink",
+			"Name": "LipSync",
 			"Ids": [
-				"ParamEyeLOpen",
-				"ParamEyeROpen"
+				"ParamMouthOpenY"
 			]
 		}
 	],

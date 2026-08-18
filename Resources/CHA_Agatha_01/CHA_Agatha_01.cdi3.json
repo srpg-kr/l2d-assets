@@ -1,0 +1,88 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Parambq3",
+			"GroupId": "ParamGroup2",
+			"Name": "黑化"
+		},
+		{
+			"Id": "Parambq8",
+			"GroupId": "ParamGroup2",
+			"Name": "黑化特效"
+		},
+		{
+			"Id": "Parambq5",
+			"GroupId": "ParamGroup2",
+			"Name": "惊讶"
+		},
+		{
+			"Id": "Parambq7",
+			"GroupId": "ParamGroup2",
+			"Name": "悲伤"
+		},
+		{
+			"Id": "Parambq6",
+			"GroupId": "ParamGroup2",
+			"Name": "生气"
+		},
+		{
+			"Id": "Parambq4",
+			"GroupId": "ParamGroup2",
+			"Name": "眯眯眼"
+		},
+		{
+			"Id": "Parambq2",
+			"GroupId": "ParamGroup2",
+			"Name": "微笑"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "眼开闭"
+		},
+		{
+			"Id": "ParamYJJ2",
+			"GroupId": "",
+			"Name": "待机嘲讽"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴　张开和闭合"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "表情"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part8",
+			"Name": "CHA_Agatha_01.psd(未找到对应图层)"
+		},
+		{
+			"Id": "Part3",
+			"Name": "CHA_Agatha_01.psd"
+		},
+		{
+			"Id": "Part6",
+			"Name": "CHA_Lyla_01.psd"
+		},
+		{
+			"Id": "Part",
+			"Name": "参考"
+		},
+		{
+			"Id": "Part2",
+			"Name": "嘴"
+		},
+		{
+			"Id": "Part5",
+			"Name": "参考"
+		}
+	]
+}

@@ -9,7 +9,7 @@
 		{
 			"Id": "Param7",
 			"GroupId": "",
-			"Name": "担心 认真"
+			"Name": "担心 认真血"
 		},
 		{
 			"Id": "Param9",
@@ -77,19 +77,9 @@
 			"Name": "左眉上下"
 		},
 		{
-			"Id": "ParamBrowRY",
-			"GroupId": "",
-			"Name": "右眉　上下"
-		},
-		{
 			"Id": "ParamBrowLX",
 			"GroupId": "",
 			"Name": "左眉　左右"
-		},
-		{
-			"Id": "ParamBrowRX",
-			"GroupId": "",
-			"Name": "右眉　左右"
 		},
 		{
 			"Id": "ParamBrowLAngle",
@@ -97,14 +87,24 @@
 			"Name": "左眉　角度"
 		},
 		{
-			"Id": "ParamBrowRAngle",
-			"GroupId": "",
-			"Name": "右眉　角度"
-		},
-		{
 			"Id": "ParamBrowLForm",
 			"GroupId": "",
 			"Name": "左眉　変形"
+		},
+		{
+			"Id": "ParamBrowRX",
+			"GroupId": "",
+			"Name": "右眉　左右"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "",
+			"Name": "右眉　上下"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "",
+			"Name": "右眉　角度"
 		},
 		{
 			"Id": "ParamBrowRForm",
@@ -145,16 +145,38 @@
 			"Id": "Param2",
 			"GroupId": "",
 			"Name": "控制"
-		}
-	],
-	"ParameterGroups": [
+		},
 		{
-			"Id": "ParamGroup",
+			"Id": "Param16",
 			"GroupId": "",
-			"Name": "模板"
+			"Name": "流泪"
+		},
+		{
+			"Id": "Param17",
+			"GroupId": "",
+			"Name": "血泪"
+		},
+		{
+			"Id": "Param23",
+			"GroupId": "",
+			"Name": "生气"
+		},
+		{
+			"Id": "Param24",
+			"GroupId": "",
+			"Name": "大喊"
 		}
 	],
+	"ParameterGroups": [],
 	"Parts": [
+		{
+			"Id": "Part7",
+			"Name": "参考"
+		},
+		{
+			"Id": "Part17",
+			"Name": "闪电贴图.psd"
+		},
 		{
 			"Id": "Part2",
 			"Name": "EMO_Groza.psd"

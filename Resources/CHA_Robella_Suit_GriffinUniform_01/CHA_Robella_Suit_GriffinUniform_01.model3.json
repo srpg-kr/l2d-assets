@@ -1,0 +1,71 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_Robella_Suit_GriffinUniform_01.moc3",
+		"Textures": [
+			"CHA_Robella_Suit_GriffinUniform_01.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_Robella_Suit_GriffinUniform_01.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "EMO_Robella_Suit_GriffinUniform_Idle_01.exp3.json",
+				"File": "expressions/EMO_Robella_Suit_GriffinUniform_Idle_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Robella_Suit_GriffinUniform_Nervous_01.exp3.json",
+				"File": "expressions/EMO_Robella_Suit_GriffinUniform_Nervous_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Robella_Suit_GriffinUniform_Serious_01.exp3.json",
+				"File": "expressions/EMO_Robella_Suit_GriffinUniform_Serious_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Robella_Suit_GriffinUniform_Surprised_01.exp3.json",
+				"File": "expressions/EMO_Robella_Suit_GriffinUniform_Surprised_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Robella_Suit_GriffinUniform_Tender_01.exp3.json",
+				"File": "expressions/EMO_Robella_Suit_GriffinUniform_Tender_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Robella_Suit_GriffinUniform_Think_01.exp3.json",
+				"File": "expressions/EMO_Robella_Suit_GriffinUniform_Think_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Robella_Suit_GriffinUniform_Worried_01.exp3.json",
+				"File": "expressions/EMO_Robella_Suit_GriffinUniform_Worried_01.exp3.json"
+			}
+		],
+		"Motions": {
+			"": [
+				{
+					"File": "motions/Mouthopen_10s.motion3.json"
+				},
+				{
+					"File": "motions/Mouthopen_2s.motion3.json"
+				},
+				{
+					"File": "motions/Mouthopen_5s.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		}
+	],
+	"HitAreas": []
+}

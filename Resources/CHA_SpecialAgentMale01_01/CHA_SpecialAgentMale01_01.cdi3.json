@@ -1,0 +1,25 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴 开闭"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part5",
+			"Name": "CHA_SpecialAgentMale01_01.psd"
+		},
+		{
+			"Id": "CHA_SpecialAgentMale01_02",
+			"Name": "CHA_SpecialAgentMale01_01"
+		},
+		{
+			"Id": "Part4",
+			"Name": "开口"
+		}
+	]
+}

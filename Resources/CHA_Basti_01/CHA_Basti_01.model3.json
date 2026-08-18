@@ -1,0 +1,81 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_Basti_01.moc3",
+		"Textures": [
+			"CHA_Basti_01.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_Basti_01.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "CHA_Basti_Excited_01",
+				"File": "expressions/CHA_Basti_Excited_01.exp3.json"
+			},
+			{
+				"Name": "CHA_Basti_Happy_01",
+				"File": "expressions/CHA_Basti_Happy_01.exp3.json"
+			},
+			{
+				"Name": "CHA_Basti_Idle_01",
+				"File": "expressions/CHA_Basti_Idle_01.exp3.json"
+			},
+			{
+				"Name": "CHA_Basti_Serious_01",
+				"File": "expressions/CHA_Basti_Serious_01.exp3.json"
+			},
+			{
+				"Name": "CHA_Basti_Sorrowful_01",
+				"File": "expressions/CHA_Basti_Sorrowful_01.exp3.json"
+			},
+			{
+				"Name": "CHA_Basti_Surprise_01",
+				"File": "expressions/CHA_Basti_Surprise_01.exp3.json"
+			},
+			{
+				"Name": "CHA_Basti_Threaten_01",
+				"File": "expressions/CHA_Basti_Threaten_01.exp3.json"
+			},
+			{
+				"Name": "CHA_Basti_Upset_01",
+				"File": "expressions/CHA_Basti_Upset_01.exp3.json"
+			}
+		],
+		"Motions": {
+			"": [
+				{
+					"File": "motions/Mouthopen_10s.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				},
+				{
+					"File": "motions/Mouthopen_2s.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				},
+				{
+					"File": "motions/Mouthopen_5s.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		}
+	],
+	"HitAreas": []
+}

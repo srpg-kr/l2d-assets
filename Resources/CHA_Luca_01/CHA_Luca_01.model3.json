@@ -1,0 +1,58 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_Luca_01.moc3",
+		"Textures": [
+			"CHA_Luca_01.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_Luca_01.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "EMO_Luca_Afraid_01.exp3.json",
+				"File": "expressions/EMO_Luca_Afraid_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Luca_Angry_01.exp3.json",
+				"File": "expressions/EMO_Luca_Angry_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Luca_Cry_01.exp3.json",
+				"File": "expressions/EMO_Luca_Cry_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Luca_Happy_01.exp3.json",
+				"File": "expressions/EMO_Luca_Happy_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Luca_Helpless_01.exp3.json",
+				"File": "expressions/EMO_Luca_Helpless_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Luca_Idle_01.exp3.json",
+				"File": "expressions/EMO_Luca_Idle_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Luca_Think_01.exp3.json",
+				"File": "expressions/EMO_Luca_Think_01.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		}
+	],
+	"HitAreas": []
+}

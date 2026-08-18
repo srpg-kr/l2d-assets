@@ -1,0 +1,220 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Paramyj",
+			"GroupId": "ParamGroup3",
+			"Name": "眉毛左右"
+		},
+		{
+			"Id": "Paramyj2",
+			"GroupId": "ParamGroup3",
+			"Name": "眉毛上下"
+		},
+		{
+			"Id": "Paramyj3",
+			"GroupId": "ParamGroup3",
+			"Name": "眉毛角度"
+		},
+		{
+			"Id": "Paramyj4",
+			"GroupId": "ParamGroup3",
+			"Name": "眉毛头"
+		},
+		{
+			"Id": "Paramyj5",
+			"GroupId": "ParamGroup3",
+			"Name": "眉毛尾"
+		},
+		{
+			"Id": "Paramyj14",
+			"GroupId": "ParamGroup3",
+			"Name": "眉毛尖"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup3",
+			"Name": "眼开闭"
+		},
+		{
+			"Id": "Paramyj6",
+			"GroupId": "ParamGroup3",
+			"Name": "上眼睑"
+		},
+		{
+			"Id": "Paramyj7",
+			"GroupId": "ParamGroup3",
+			"Name": "下眼睑"
+		},
+		{
+			"Id": "Paramyj8",
+			"GroupId": "ParamGroup3",
+			"Name": "内眼角"
+		},
+		{
+			"Id": "Paramyj9",
+			"GroupId": "ParamGroup3",
+			"Name": "外眼角"
+		},
+		{
+			"Id": "Paramyj10",
+			"GroupId": "ParamGroup3",
+			"Name": "下内睫毛"
+		},
+		{
+			"Id": "Paramyj11",
+			"GroupId": "ParamGroup3",
+			"Name": "下外睫毛"
+		},
+		{
+			"Id": "Paramyj20",
+			"GroupId": "ParamGroup3",
+			"Name": "下中睫毛"
+		},
+		{
+			"Id": "Paramyj19",
+			"GroupId": "ParamGroup3",
+			"Name": "下睫毛长度"
+		},
+		{
+			"Id": "Paramyj15",
+			"GroupId": "ParamGroup3",
+			"Name": "眼皮弯曲"
+		},
+		{
+			"Id": "Paramyj18",
+			"GroupId": "ParamGroup3",
+			"Name": "眼皮长度"
+		},
+		{
+			"Id": "Paramyj16",
+			"GroupId": "ParamGroup3",
+			"Name": "眼皮Z"
+		},
+		{
+			"Id": "Paramyj17",
+			"GroupId": "ParamGroup3",
+			"Name": "眼皮Y"
+		},
+		{
+			"Id": "Paramyj12",
+			"GroupId": "ParamGroup3",
+			"Name": "眼珠X"
+		},
+		{
+			"Id": "Paramyj13",
+			"GroupId": "ParamGroup3",
+			"Name": "眼珠Y"
+		},
+		{
+			"Id": "Parambq12",
+			"GroupId": "ParamGroup",
+			"Name": "害羞眼睛"
+		},
+		{
+			"Id": "Parambq13",
+			"GroupId": "ParamGroup",
+			"Name": "害羞脸红"
+		},
+		{
+			"Id": "Parambq14",
+			"GroupId": "ParamGroup",
+			"Name": "伤心"
+		},
+		{
+			"Id": "Parambq16",
+			"GroupId": "ParamGroup",
+			"Name": "担忧"
+		},
+		{
+			"Id": "Parambq17",
+			"GroupId": "ParamGroup",
+			"Name": "生气眼睛"
+		},
+		{
+			"Id": "Parambq24",
+			"GroupId": "ParamGroup",
+			"Name": "生气皱纹"
+		},
+		{
+			"Id": "Parambq18",
+			"GroupId": "ParamGroup",
+			"Name": "认真"
+		},
+		{
+			"Id": "Parambq19",
+			"GroupId": "ParamGroup",
+			"Name": "惊讶"
+		},
+		{
+			"Id": "Parambq20",
+			"GroupId": "ParamGroup",
+			"Name": "痛苦"
+		},
+		{
+			"Id": "Parambq25",
+			"GroupId": "ParamGroup",
+			"Name": "痛苦皱纹"
+		},
+		{
+			"Id": "Parambq23",
+			"GroupId": "ParamGroup",
+			"Name": "痛苦特效"
+		},
+		{
+			"Id": "Parambq22",
+			"GroupId": "ParamGroup",
+			"Name": "幸福特效"
+		},
+		{
+			"Id": "ParamYJJ2",
+			"GroupId": "ParamGroup2",
+			"Name": "嘴变"
+		},
+		{
+			"Id": "ParamYJJ3",
+			"GroupId": "ParamGroup2",
+			"Name": "嘴变2"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup2",
+			"Name": "嘴　张开和闭合"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "眼睛"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "表情特效"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "嘴"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part4",
+			"Name": "CHA_M16_01.psd"
+		},
+		{
+			"Id": "Part",
+			"Name": "参考"
+		},
+		{
+			"Id": "Part2",
+			"Name": "眼睛"
+		},
+		{
+			"Id": "Part3",
+			"Name": "嘴"
+		}
+	]
+}

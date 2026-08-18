@@ -7,19 +7,39 @@
 			"Name": "左眼 开闭"
 		},
 		{
-			"Id": "ParamEyeLSmile",
-			"GroupId": "",
-			"Name": "左眼 微笑"
-		},
-		{
 			"Id": "ParamEyeROpen",
 			"GroupId": "",
 			"Name": "右眼 开闭"
 		},
 		{
-			"Id": "ParamEyeRSmile",
+			"Id": "Param",
 			"GroupId": "",
-			"Name": "右眼 微笑"
+			"Name": "左眼变形"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "",
+			"Name": "左眼变形2"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "右眼变形"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "",
+			"Name": "左眼变形2"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "",
+			"Name": "左眉 変形"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "",
+			"Name": "右眉 変形"
 		},
 		{
 			"Id": "ParamMouthForm",
@@ -30,95 +50,84 @@
 			"Id": "ParamMouthOpenY",
 			"GroupId": "",
 			"Name": "嘴 开闭"
-		},
-		{
-			"Id": "ParamBrowLForm",
-			"GroupId": "",
-			"Name": "左眉 変形"
-		},
-		{
-			"Id": "ParamEyeBallX",
-			"GroupId": "",
-			"Name": "眼珠 X"
-		},
-		{
-			"Id": "ParamEyeBallY",
-			"GroupId": "",
-			"Name": "眼珠 Y"
-		},
-		{
-			"Id": "ParamBrowLY",
-			"GroupId": "",
-			"Name": "左眉 上下"
-		},
-		{
-			"Id": "ParamBrowRY",
-			"GroupId": "",
-			"Name": "右眉 上下"
-		},
-		{
-			"Id": "ParamBrowLX",
-			"GroupId": "",
-			"Name": "左眉 左右"
-		},
-		{
-			"Id": "ParamBrowRX",
-			"GroupId": "",
-			"Name": "右眉 左右"
-		},
-		{
-			"Id": "ParamBrowLAngle",
-			"GroupId": "",
-			"Name": "左眉 角度"
-		},
-		{
-			"Id": "ParamBrowRAngle",
-			"GroupId": "",
-			"Name": "右眉 角度"
-		},
-		{
-			"Id": "ParamBrowRForm",
-			"GroupId": "",
-			"Name": "右眉 変形"
-		},
-		{
-			"Id": "ParamCheek",
-			"GroupId": "",
-			"Name": "脸颊泛红"
 		}
 	],
 	"ParameterGroups": [],
 	"Parts": [
 		{
+			"Id": "Part",
+			"Name": "组 1"
+		},
+		{
 			"Id": "CHA_Lonnie_NPC_01",
 			"Name": "CHA_Lonnie_NPC_01"
 		},
 		{
-			"Id": "Part",
-			"Name": "图层组1"
+			"Id": "Part2",
+			"Name": "Crazy破防"
 		},
 		{
-			"Id": "Part2",
+			"Id": "Part7",
 			"Name": "Angry不满"
 		},
 		{
-			"Id": "Part5",
+			"Id": "Part10",
+			"Name": "Idle待机"
+		},
+		{
+			"Id": "Part12",
+			"Name": "图层组1"
+		},
+		{
+			"Id": "Part13",
+			"Name": "Angry不满"
+		},
+		{
+			"Id": "Part16",
 			"Name": "Idle待机"
 		},
 		{
 			"Id": "Part3",
-			"Name": "咬牙"
+			"Name": "开口"
 		},
 		{
 			"Id": "Part4",
-			"Name": "Angry不满开口"
+			"Name": "闭口"
+		},
+		{
+			"Id": "Part5",
+			"Name": "眼睛"
 		},
 		{
 			"Id": "Part6",
+			"Name": "常态"
+		},
+		{
+			"Id": "Part9",
+			"Name": "开口 副本"
+		},
+		{
+			"Id": "Part8",
+			"Name": "咬牙"
+		},
+		{
+			"Id": "Part11",
+			"Name": "开口"
+		},
+		{
+			"Id": "Part14",
+			"Name": "咬牙"
+		},
+		{
+			"Id": "Part15",
+			"Name": "Angry不满开口"
+		},
+		{
+			"Id": "Part17",
 			"Name": "图层组2"
 		},
 		{
-			"Id": "Part7",
+			"Id": "Part18",
 			"Name": "开口"
 		}
 	]

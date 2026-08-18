@@ -67,88 +67,103 @@
 			"Name": "严肃 不满眼皮"
 		},
 		{
+			"Id": "Param24",
+			"GroupId": "ParamGroup2",
+			"Name": "暴怒"
+		},
+		{
+			"Id": "Param25",
+			"GroupId": "ParamGroup2",
+			"Name": "疯狂"
+		},
+		{
 			"Id": "ParamEyeLOpen",
-			"GroupId": "",
+			"GroupId": "ParamGroup4",
 			"Name": "左眼　开闭"
 		},
 		{
 			"Id": "ParamEyeLSmile",
-			"GroupId": "",
+			"GroupId": "ParamGroup4",
 			"Name": "左眼　微笑"
 		},
 		{
 			"Id": "ParamEyeROpen",
-			"GroupId": "",
+			"GroupId": "ParamGroup4",
 			"Name": "右眼　开闭"
 		},
 		{
 			"Id": "ParamEyeRSmile",
-			"GroupId": "",
+			"GroupId": "ParamGroup4",
 			"Name": "右眼　微笑"
 		},
 		{
 			"Id": "ParamEyeBallX",
-			"GroupId": "",
+			"GroupId": "ParamGroup4",
 			"Name": "眼珠 X"
 		},
 		{
 			"Id": "ParamEyeBallY",
-			"GroupId": "",
+			"GroupId": "ParamGroup4",
 			"Name": "眼珠 Y"
 		},
 		{
 			"Id": "Param",
-			"GroupId": "",
+			"GroupId": "ParamGroup4",
 			"Name": "眼珠 S"
 		},
 		{
 			"Id": "ParamBrowLY",
-			"GroupId": "",
+			"GroupId": "ParamGroup4",
 			"Name": "左眉  上下"
 		},
 		{
 			"Id": "ParamBrowRY",
-			"GroupId": "",
+			"GroupId": "ParamGroup4",
 			"Name": "右眉　上下"
 		},
 		{
 			"Id": "ParamBrowLX",
-			"GroupId": "",
+			"GroupId": "ParamGroup4",
 			"Name": "左眉　左右"
 		},
 		{
 			"Id": "ParamBrowRX",
-			"GroupId": "",
+			"GroupId": "ParamGroup4",
 			"Name": "右眉　左右"
 		},
 		{
 			"Id": "ParamBrowLAngle",
-			"GroupId": "",
+			"GroupId": "ParamGroup4",
 			"Name": "左眉　角度"
 		},
 		{
 			"Id": "ParamBrowRAngle",
-			"GroupId": "",
+			"GroupId": "ParamGroup4",
 			"Name": "右眉　角度"
 		},
 		{
+			"Id": "Param26",
+			"GroupId": "ParamGroup4",
+			"Name": "暴怒眉毛"
+		},
+		{
 			"Id": "ParamBrowLForm",
-			"GroupId": "",
+			"GroupId": "ParamGroup4",
 			"Name": "左眉　変形"
 		},
 		{
 			"Id": "Param2",
-			"GroupId": "",
+			"GroupId": "ParamGroup4",
 			"Name": "左眉　変形2"
 		},
 		{
 			"Id": "ParamBrowRForm",
-			"GroupId": "",
+			"GroupId": "ParamGroup4",
 			"Name": "右眉　変形"
 		},
 		{
 			"Id": "Param3",
-			"GroupId": "",
+			"GroupId": "ParamGroup4",
 			"Name": "右眉　変形2"
 		},
 		{
@@ -177,12 +192,29 @@
 			"Id": "ParamGroup2",
 			"GroupId": "",
 			"Name": "情绪2"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "Folder 1"
 		}
 	],
 	"Parts": [
 		{
+			"Id": "Part21",
+			"Name": "新增.psd(未找到对应图层)"
+		},
+		{
+			"Id": "Part18",
+			"Name": "新增.psd"
+		},
+		{
 			"Id": "CHA_Sop_NPC_01",
 			"Name": "CHA_Sop_NPC_01"
+		},
+		{
+			"Id": "Part16",
+			"Name": "参考"
 		},
 		{
 			"Id": "Part",

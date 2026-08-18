@@ -1,0 +1,64 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_Liberty_02.moc3",
+		"Textures": [
+			"CHA_Liberty_02.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_Liberty_02.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "EMO_Liberty_Happy_02",
+				"File": "expressions/EMO_Liberty_Happy_02.exp3.json"
+			},
+			{
+				"Name": "EMO_Liberty_Idle_02",
+				"File": "expressions/EMO_Liberty_Idle_02.exp3.json"
+			},
+			{
+				"Name": "EMO_Liberty_Serious_02",
+				"File": "expressions/EMO_Liberty_Serious_02.exp3.json"
+			},
+			{
+				"Name": "EMO_Liberty_Surprised_02",
+				"File": "expressions/EMO_Liberty_Surprised_02.exp3.json"
+			}
+		],
+		"Motions": {
+			"": [
+				{
+					"File": "motions/Mouthopen_10s.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				},
+				{
+					"File": "motions/Mouthopen_2s.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				},
+				{
+					"File": "motions/Mouthopen_5s.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		}
+	],
+	"HitAreas": []
+}

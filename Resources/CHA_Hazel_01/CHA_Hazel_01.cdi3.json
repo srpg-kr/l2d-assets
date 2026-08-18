@@ -1,0 +1,108 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup",
+			"Name": "左眼 开闭"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup",
+			"Name": "右眼 开闭"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "ParamGroup",
+			"Name": "眼珠 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "ParamGroup",
+			"Name": "眼珠 Y"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "嘴 变形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴 开闭"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "眼睛"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part23",
+			"Name": "CHA_Hazel_01.psd(未找到对应图层)"
+		},
+		{
+			"Id": "Part",
+			"Name": "海泽尔"
+		},
+		{
+			"Id": "Part12",
+			"Name": "海泽尔"
+		},
+		{
+			"Id": "Part2",
+			"Name": "Think思考"
+		},
+		{
+			"Id": "Part5",
+			"Name": "Idle待机"
+		},
+		{
+			"Id": "Part16",
+			"Name": "Idle待机"
+		},
+		{
+			"Id": "Part3",
+			"Name": "闭口"
+		},
+		{
+			"Id": "Part4",
+			"Name": "开口"
+		},
+		{
+			"Id": "Part6",
+			"Name": "开口"
+		},
+		{
+			"Id": "Part7",
+			"Name": "闭口"
+		},
+		{
+			"Id": "Part8",
+			"Name": "头发遮挡"
+		},
+		{
+			"Id": "Part9",
+			"Name": "Idle待机"
+		},
+		{
+			"Id": "Part20",
+			"Name": "Idle待机"
+		},
+		{
+			"Id": "Part10",
+			"Name": "右眼"
+		},
+		{
+			"Id": "Part11",
+			"Name": "左眼"
+		},
+		{
+			"Id": "Part21",
+			"Name": "右眼"
+		}
+	]
+}

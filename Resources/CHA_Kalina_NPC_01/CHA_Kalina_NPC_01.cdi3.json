@@ -2,6 +2,21 @@
 	"Version": 3,
 	"Parameters": [
 		{
+			"Id": "Param9",
+			"GroupId": "",
+			"Name": "高光转"
+		},
+		{
+			"Id": "Param13",
+			"GroupId": "",
+			"Name": "担心泪光"
+		},
+		{
+			"Id": "Param14",
+			"GroupId": "",
+			"Name": "冷笑阴影"
+		},
+		{
 			"Id": "ParamEyeLOpen",
 			"GroupId": "",
 			"Name": "左眼　开闭"
@@ -12,24 +27,9 @@
 			"Name": "左眼　微笑"
 		},
 		{
-			"Id": "Param3",
-			"GroupId": "",
-			"Name": "左上眼睑"
-		},
-		{
-			"Id": "Param",
-			"GroupId": "",
-			"Name": "左下眼睑"
-		},
-		{
-			"Id": "Param6",
-			"GroupId": "",
-			"Name": "左下眼睑上拱"
-		},
-		{
 			"Id": "ParamEyeROpen",
 			"GroupId": "",
-			"Name": "右眼"
+			"Name": "右眼　开闭"
 		},
 		{
 			"Id": "ParamEyeRSmile",
@@ -37,64 +37,49 @@
 			"Name": "右眼　微笑"
 		},
 		{
-			"Id": "Param4",
+			"Id": "Param10",
 			"GroupId": "",
-			"Name": "右上眼睑"
+			"Name": "L眼眶 冷淡惊讶"
 		},
 		{
-			"Id": "Param2",
+			"Id": "Param6",
 			"GroupId": "",
-			"Name": "右下眼睑"
+			"Name": "R眼眶 冷淡惊讶"
 		},
 		{
-			"Id": "Param5",
+			"Id": "Param11",
 			"GroupId": "",
-			"Name": "右眼睑上拱"
-		},
-		{
-			"Id": "ParamEyeBallX",
-			"GroupId": "",
-			"Name": "眼球 X"
-		},
-		{
-			"Id": "ParamEyeBallY",
-			"GroupId": "",
-			"Name": "眼球 Y"
-		},
-		{
-			"Id": "Param13",
-			"GroupId": "",
-			"Name": "变圆"
-		},
-		{
-			"Id": "ParamBrowLX",
-			"GroupId": "",
-			"Name": "左眉　左右"
-		},
-		{
-			"Id": "ParamBrowLY",
-			"GroupId": "",
-			"Name": "左眉上下"
-		},
-		{
-			"Id": "ParamBrowLAngle",
-			"GroupId": "",
-			"Name": "左眉　角度"
-		},
-		{
-			"Id": "ParamBrowLForm",
-			"GroupId": "",
-			"Name": "左眉　変形"
+			"Name": "L上眼皮"
 		},
 		{
 			"Id": "Param12",
 			"GroupId": "",
-			"Name": "左眉变形2"
+			"Name": "L下眼皮"
 		},
 		{
-			"Id": "ParamBrowRX",
+			"Id": "Param7",
 			"GroupId": "",
-			"Name": "右眉　左右"
+			"Name": "R上眼皮"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "",
+			"Name": "R下眼皮"
+		},
+		{
+			"Id": "Param15",
+			"GroupId": "",
+			"Name": "R下眼皮+"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "",
+			"Name": "眼珠 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "",
+			"Name": "眼珠 Y"
 		},
 		{
 			"Id": "ParamBrowRY",
@@ -109,65 +94,59 @@
 		{
 			"Id": "ParamBrowRForm",
 			"GroupId": "",
-			"Name": "右眉　変形"
+			"Name": "右眉　変形1"
+		},
+		{
+			"Id": "ParamBrowRForm2",
+			"GroupId": "",
+			"Name": "右眉　変形2"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "",
+			"Name": "左眉上下"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "",
+			"Name": "左眉　角度"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "",
+			"Name": "左眉　変形1"
+		},
+		{
+			"Id": "ParamBrowLForm2",
+			"GroupId": "",
+			"Name": "左眉　変形2"
+		},
+		{
+			"Id": "ParamBrowLAngle2",
+			"GroupId": "",
+			"Name": "左眉　左右"
 		},
 		{
 			"Id": "ParamMouthForm",
 			"GroupId": "",
-			"Name": "嘴部　变形"
+			"Name": "嘴　变形1"
 		},
 		{
-			"Id": "Param7",
+			"Id": "Param5",
 			"GroupId": "",
-			"Name": "嘴变形1"
+			"Name": "嘴 变形2"
 		},
 		{
 			"Id": "ParamMouthOpenY",
 			"GroupId": "",
-			"Name": "嘴巴　张开和闭合"
-		},
-		{
-			"Id": "Param8",
-			"GroupId": "",
-			"Name": "参数23"
-		},
-		{
-			"Id": "Param9",
-			"GroupId": "",
-			"Name": "surprised"
-		},
-		{
-			"Id": "Param10",
-			"GroupId": "",
-			"Name": "think"
-		},
-		{
-			"Id": "Param11",
-			"GroupId": "",
-			"Name": "indifferent"
+			"Name": "嘴　张开和闭合"
 		}
 	],
 	"ParameterGroups": [],
 	"Parts": [
 		{
-			"Id": "Part6",
-			"Name": "格林纳表情.psd"
-		},
-		{
-			"Id": "Part5",
-			"Name": "texture_00.png"
-		},
-		{
-			"Id": "Part4",
-			"Name": "格林娜.psd"
-		},
-		{
-			"Id": "Part3",
-			"Name": "格林娜.psd"
-		},
-		{
 			"Id": "Part",
-			"Name": "格林娜"
+			"Name": "五官"
 		},
 		{
 			"Id": "PartSketch0",
@@ -175,7 +154,37 @@
 		},
 		{
 			"Id": "Part2",
-			"Name": "头"
+			"Name": "嘴巴"
+		},
+		{
+			"Id": "Part3",
+			"Name": "左眼"
+		},
+		{
+			"Id": "Part4",
+			"Name": "右眼"
 		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamBrowRY",
+			"ParamBrowRAngle"
+		],
+		[
+			"ParamBrowRForm",
+			"ParamBrowRForm2"
+		],
+		[
+			"ParamBrowLY",
+			"ParamBrowLAngle"
+		],
+		[
+			"ParamBrowLForm",
+			"ParamBrowLForm2"
+		],
+		[
+			"ParamMouthForm",
+			"Param5"
+		]
 	]
 }

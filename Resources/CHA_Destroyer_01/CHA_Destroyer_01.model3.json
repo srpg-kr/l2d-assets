@@ -1,0 +1,46 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_Destroyer_01.moc3",
+		"Textures": [
+			"CHA_Destroyer_01.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_Destroyer_01.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "EMO_Destroyer_Angry_01",
+				"File": "expressions/EMO_Destroyer_Angry_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Destroyer_Idle_01",
+				"File": "expressions/EMO_Destroyer_Idle_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Destroyer_Smile_01",
+				"File": "expressions/EMO_Destroyer_Smile_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Destroyer_Surprised_01",
+				"File": "expressions/EMO_Destroyer_Surprised_01.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		}
+	],
+	"HitAreas": []
+}

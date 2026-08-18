@@ -54,8 +54,23 @@
 			"Blend": "Add"
 		},
 		{
-			"Id": "Param4",
-			"Value": 1,
+			"Id": "ParamBrowRForm2",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouthForm2",
+			"Value": -1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param8",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param9",
+			"Value": 0,
 			"Blend": "Add"
 		}
 	]

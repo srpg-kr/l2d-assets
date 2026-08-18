@@ -1,0 +1,21 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴 开闭"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "CHA_MedicalFemale01_01.psd"
+		},
+		{
+			"Id": "CHA_MedicalFemale01_01",
+			"Name": "CHA_MedicalFemale01_01"
+		}
+	]
+}

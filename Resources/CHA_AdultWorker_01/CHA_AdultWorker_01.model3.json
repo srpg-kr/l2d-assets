@@ -1,0 +1,31 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_AdultWorker_01.moc3",
+		"Textures": [
+			"CHA_AdultWorker_01.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_AdultWorker_01.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "EMO_AdultWorker_Idle_01.exp3.json",
+				"File": "expressions/EMO_AdultWorker_Idle_01.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		}
+	],
+	"HitAreas": []
+}

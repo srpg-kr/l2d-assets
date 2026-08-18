@@ -1,0 +1,102 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_Mityl_01.moc3",
+		"Textures": [
+			"CHA_Mityl_01.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_Mityl_01.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "EMO_Mityl_Angry_01",
+				"File": "expressions/EMO_Mityl_Angry_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Mityl_Controlled_01",
+				"File": "expressions/EMO_Mityl_Controlled_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Mityl_Cry_01",
+				"File": "expressions/EMO_Mityl_Cry_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Mityl_Embarrassed_01",
+				"File": "expressions/EMO_Mityl_Embarrassed_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Mityl_Funny_01",
+				"File": "expressions/EMO_Mityl_Funny_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Mityl_Happy_01",
+				"File": "expressions/EMO_Mityl_Happy_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Mityl_Idle_01",
+				"File": "expressions/EMO_Mityl_Idle_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Mityl_Injury_01",
+				"File": "expressions/EMO_Mityl_Injury_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Mityl_Laughing_01",
+				"File": "expressions/EMO_Mityl_Laughing_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Mityl_Pain_01",
+				"File": "expressions/EMO_Mityl_Pain_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Mityl_Panic_01",
+				"File": "expressions/EMO_Mityl_Panic_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Mityl_Sad_01",
+				"File": "expressions/EMO_Mityl_Sad_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Mityl_Serious_01",
+				"File": "expressions/EMO_Mityl_Serious_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Mityl_Shy_01",
+				"File": "expressions/EMO_Mityl_Shy_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Mityl_Smile_01",
+				"File": "expressions/EMO_Mityl_Smile_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Mityl_Surprise_01",
+				"File": "expressions/EMO_Mityl_Surprise_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Mityl_Think_01",
+				"File": "expressions/EMO_Mityl_Think_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Mityl_Worry_01",
+				"File": "expressions/EMO_Mityl_Worry_01.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		}
+	],
+	"HitAreas": []
+}

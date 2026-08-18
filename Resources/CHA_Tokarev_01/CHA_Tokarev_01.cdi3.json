@@ -1,0 +1,69 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左眼 开闭"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右眼 开闭"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "",
+			"Name": "眼睛 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "",
+			"Name": "眼睛 Y"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴 开闭"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part7",
+			"Name": "CHA_Shadowless_01.psd"
+		},
+		{
+			"Id": "CHA_Tokarev_01",
+			"Name": "CHA_Tokarev_01"
+		},
+		{
+			"Id": "CHA_Shadowless_01",
+			"Name": "CHA_Shadowless_01"
+		},
+		{
+			"Id": "Part",
+			"Name": "Idle待机"
+		},
+		{
+			"Id": "Part5",
+			"Name": "Idle待机"
+		},
+		{
+			"Id": "Part2",
+			"Name": "开口"
+		},
+		{
+			"Id": "Part3",
+			"Name": "右眼"
+		},
+		{
+			"Id": "Part4",
+			"Name": "左眼"
+		},
+		{
+			"Id": "Part6",
+			"Name": "开口"
+		}
+	]
+}

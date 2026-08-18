@@ -1,0 +1,42 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_Dreamer_01.moc3",
+		"Textures": [
+			"CHA_Dreamer_01.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_Dreamer_01.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "EMO_Dreamer_Idle_01.exp3.json",
+				"File": "expressions/EMO_Dreamer_Idle_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Dreamer_Serious_01.exp3.json",
+				"File": "expressions/EMO_Dreamer_Serious_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Dreamer_Surprised_01.exp3.json",
+				"File": "expressions/EMO_Dreamer_Surprised_01.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		}
+	],
+	"HitAreas": []
+}

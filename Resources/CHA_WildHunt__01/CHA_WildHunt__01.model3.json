@@ -1,0 +1,10 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_WildHunt__01.moc3",
+		"Textures": [
+			"CHA_WildHunt__01.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_WildHunt__01.cdi3.json"
+	}
+}

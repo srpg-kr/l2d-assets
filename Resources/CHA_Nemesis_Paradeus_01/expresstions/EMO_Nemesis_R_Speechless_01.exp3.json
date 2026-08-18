@@ -74,6 +74,11 @@
 			"Blend": "Add"
 		},
 		{
+			"Id": "ParamBrowLForm",
+			"Value": 0.465,
+			"Blend": "Add"
+		},
+		{
 			"Id": "ParamBrowRForm",
 			"Value": 0.14,
 			"Blend": "Add"
@@ -86,16 +91,6 @@
 		{
 			"Id": "ParamCheek",
 			"Value": 0,
-			"Blend": "Add"
-		},
-		{
-			"Id": "Param3",
-			"Value": 0,
-			"Blend": "Add"
-		},
-		{
-			"Id": "ParamBrowLForm",
-			"Value": 0.465,
 			"Blend": "Add"
 		},
 		{

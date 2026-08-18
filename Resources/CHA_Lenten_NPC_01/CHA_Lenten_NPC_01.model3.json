@@ -26,6 +26,18 @@
 			{
 				"Name": "EMO_Lenten_Sneer_01.exp3.json",
 				"File": "expressions/EMO_Lenten_Sneer_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Lenten_Surprised_01.exp3.json",
+				"File": "expressions/EMO_Lenten_Surprised_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Lenten_Confidence_01.exp3.json",
+				"File": "expressions/EMO_Lenten_Confidence_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Lenten_Tender_01.exp3.json",
+				"File": "expressions/EMO_Lenten_Tender_01.exp3.json"
 			}
 		],
 		"Motions": {

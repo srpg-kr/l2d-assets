@@ -196,6 +196,10 @@
 	],
 	"Parts": [
 		{
+			"Id": "Part",
+			"Name": "刘海.png"
+		},
+		{
 			"Id": "CHA_EngineerA_NPC_02",
 			"Name": "CHA_EngineerA_NPC_01"
 		},

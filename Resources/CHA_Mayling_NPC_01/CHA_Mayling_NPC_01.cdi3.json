@@ -62,19 +62,9 @@
 			"Name": "左眉上下"
 		},
 		{
-			"Id": "ParamBrowRY",
-			"GroupId": "",
-			"Name": "右眉　上下"
-		},
-		{
 			"Id": "ParamBrowLX",
 			"GroupId": "",
 			"Name": "左眉　左右"
-		},
-		{
-			"Id": "ParamBrowRX",
-			"GroupId": "",
-			"Name": "右眉　左右"
 		},
 		{
 			"Id": "ParamBrowLAngle",
@@ -82,14 +72,24 @@
 			"Name": "左眉　角度"
 		},
 		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "",
+			"Name": "左眉　変形"
+		},
+		{
 			"Id": "ParamBrowRAngle",
 			"GroupId": "",
 			"Name": "右眉　角度"
 		},
 		{
-			"Id": "ParamBrowLForm",
+			"Id": "ParamBrowRY",
 			"GroupId": "",
-			"Name": "左眉　変形"
+			"Name": "右眉　上下"
+		},
+		{
+			"Id": "ParamBrowRX",
+			"GroupId": "",
+			"Name": "右眉　左右"
 		},
 		{
 			"Id": "ParamBrowRForm",
@@ -132,6 +132,11 @@
 			"Name": "嘴缩放"
 		},
 		{
+			"Id": "Param9",
+			"GroupId": "",
+			"Name": "嘴上下"
+		},
+		{
 			"Id": "ParamCheek",
 			"GroupId": "",
 			"Name": "脸颊"
@@ -140,16 +145,19 @@
 			"Id": "ParamFace2",
 			"GroupId": "",
 			"Name": "FACE 2"
-		}
-	],
-	"ParameterGroups": [
+		},
 		{
-			"Id": "ParamGroup",
+			"Id": "ParamFace3",
 			"GroupId": "",
-			"Name": "模板"
+			"Name": "哭"
 		}
 	],
+	"ParameterGroups": [],
 	"Parts": [
+		{
+			"Id": "Part7",
+			"Name": "美玲新增贴图.psd"
+		},
 		{
 			"Id": "Part8",
 			"Name": "美玲补充.psd(未找到对应图层)"

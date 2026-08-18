@@ -1,0 +1,57 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_Agatha_01.moc3",
+		"Textures": [
+			"CHA_Agatha_01.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_Agatha_01.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "EMO_Agatha_Angry_01",
+				"File": "expressions/EMO_Agatha_Angry_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Agatha_Daeking_01",
+				"File": "expressions/EMO_Agatha_Daeking_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Agatha_Happy_01",
+				"File": "expressions/EMO_Agatha_Happy_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Agatha_Idle_01",
+				"File": "expressions/EMO_Agatha_Idle_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Agatha_Sad_01",
+				"File": "expressions/EMO_Agatha_Sad_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Agatha_Smile_01",
+				"File": "expressions/EMO_Agatha_Smile_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Agatha_Surperise_01",
+				"File": "expressions/EMO_Agatha_Surperise_01.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen"
+			]
+		}
+	],
+	"HitAreas": []
+}

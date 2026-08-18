@@ -1,0 +1,256 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "大小"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左眼 开闭"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右眼 开闭"
+		},
+		{
+			"Id": "Param27",
+			"GroupId": "",
+			"Name": "L眼X"
+		},
+		{
+			"Id": "Param28",
+			"GroupId": "",
+			"Name": "L眼Y"
+		},
+		{
+			"Id": "Param24",
+			"GroupId": "",
+			"Name": "L眉毛Y"
+		},
+		{
+			"Id": "Param10",
+			"GroupId": "",
+			"Name": "眉毛 前"
+		},
+		{
+			"Id": "Param11",
+			"GroupId": "",
+			"Name": "眉毛 中"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "左上眼脸 前"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "",
+			"Name": "左上眼脸 中"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "",
+			"Name": "左上眼脸 后"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "",
+			"Name": "左双眼皮 前"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "",
+			"Name": "左双眼皮 中"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "",
+			"Name": "左双眼皮 后"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "",
+			"Name": "L上眼脸粗细"
+		},
+		{
+			"Id": "Param9",
+			"GroupId": "",
+			"Name": "下眼皮变化"
+		},
+		{
+			"Id": "Param20",
+			"GroupId": "",
+			"Name": "L阴影"
+		},
+		{
+			"Id": "Param29",
+			"GroupId": "",
+			"Name": "R眼X"
+		},
+		{
+			"Id": "Param30",
+			"GroupId": "",
+			"Name": "R眼Y"
+		},
+		{
+			"Id": "Param23",
+			"GroupId": "",
+			"Name": "R眉毛Y"
+		},
+		{
+			"Id": "Param12",
+			"GroupId": "",
+			"Name": "眉毛 前"
+		},
+		{
+			"Id": "Param13",
+			"GroupId": "",
+			"Name": "眉毛 中"
+		},
+		{
+			"Id": "Param25",
+			"GroupId": "",
+			"Name": "眉毛 后"
+		},
+		{
+			"Id": "Param34",
+			"GroupId": "",
+			"Name": "眉毛修"
+		},
+		{
+			"Id": "Param14",
+			"GroupId": "",
+			"Name": "右上眼脸 前"
+		},
+		{
+			"Id": "Param15",
+			"GroupId": "",
+			"Name": "右上眼脸 中"
+		},
+		{
+			"Id": "Param16",
+			"GroupId": "",
+			"Name": "右上眼脸 后"
+		},
+		{
+			"Id": "Param22",
+			"GroupId": "",
+			"Name": "上眼皮修"
+		},
+		{
+			"Id": "Param17",
+			"GroupId": "",
+			"Name": "右双眼皮 前"
+		},
+		{
+			"Id": "Param18",
+			"GroupId": "",
+			"Name": "右双眼皮 中"
+		},
+		{
+			"Id": "Param19",
+			"GroupId": "",
+			"Name": "右双眼皮 后"
+		},
+		{
+			"Id": "Param21",
+			"GroupId": "",
+			"Name": "下眼皮变化"
+		},
+		{
+			"Id": "Param33",
+			"GroupId": "",
+			"Name": "右眼皮阴影"
+		},
+		{
+			"Id": "Param26",
+			"GroupId": "",
+			"Name": "R阴影"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "",
+			"Name": "左眼 微笑"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "",
+			"Name": "右眼 微笑"
+		},
+		{
+			"Id": "Param31",
+			"GroupId": "",
+			"Name": "瞳孔缩小"
+		},
+		{
+			"Id": "Param32",
+			"GroupId": "",
+			"Name": "担忧眉间"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "惊讶平静担忧待机认真微笑"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴 开闭"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part4",
+			"Name": "CHA_Medquinn_Suit_daily_02.psd"
+		},
+		{
+			"Id": "Part21",
+			"Name": "惊讶嘴.psd"
+		},
+		{
+			"Id": "PartSketch0",
+			"Name": "[ 参考图 ]"
+		},
+		{
+			"Id": "CHA_Medd_02",
+			"Name": "CHA_Medd_01"
+		},
+		{
+			"Id": "Part2",
+			"Name": "头"
+		},
+		{
+			"Id": "Part19",
+			"Name": "Surprised惊讶"
+		},
+		{
+			"Id": "Part",
+			"Name": "闭眼"
+		},
+		{
+			"Id": "MDJS_Idle_zuoyan",
+			"Name": "MDJS_Idle_zuoyan"
+		},
+		{
+			"Id": "MDJS_Idle_youyan",
+			"Name": "MDJS_Idle_youyan"
+		},
+		{
+			"Id": "MDJS_Idle_zuiba_b",
+			"Name": "MDJS_Idle_zuiba_b"
+		},
+		{
+			"Id": "MDJS_Idle_zuiba_k",
+			"Name": "MDJS_Idle_zuiba_k"
+		},
+		{
+			"Id": "Part20",
+			"Name": "开口"
+		}
+	]
+}

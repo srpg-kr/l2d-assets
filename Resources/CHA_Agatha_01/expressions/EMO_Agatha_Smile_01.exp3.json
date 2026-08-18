@@ -1,0 +1,52 @@
+{
+	"Type": "Live2D Expression",
+	"FadeInTime": 0.15,
+	"FadeOutTime": 0.15,
+	"Parameters": [
+		{
+			"Id": "ParamEyeLOpen",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamYJJ2",
+			"Value": -2,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Parambq2",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Parambq4",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Parambq6",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Parambq7",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Parambq5",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Parambq3",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Parambq8",
+			"Value": 0,
+			"Blend": "Add"
+		}
+	]
+}

@@ -8,7 +8,11 @@
 		"DisplayInfo": "CHA_Acicular_Meta_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Acicular_Meta_Weakness_01.exp3.json",
+				"Name": "EMO_Acicular_Meta_Idle_01",
+				"File": "expressions/EMO_Acicular_Meta_Idle_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Acicular_Meta_Weakness_01",
 				"File": "expressions/EMO_Acicular_Meta_Weakness_01.exp3.json"
 			}
 		]

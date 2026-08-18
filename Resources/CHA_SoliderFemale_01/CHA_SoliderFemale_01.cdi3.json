@@ -1,0 +1,25 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴 开闭"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "CHA_SoliderFemale_01",
+			"Name": "CHA_SoliderFemale_01"
+		},
+		{
+			"Id": "CHA_SoliderFemale_b",
+			"Name": "CHA_SoliderFemale_b"
+		},
+		{
+			"Id": "CHA_SoliderFemale_k",
+			"Name": "CHA_SoliderFemale_k"
+		}
+	]
+}

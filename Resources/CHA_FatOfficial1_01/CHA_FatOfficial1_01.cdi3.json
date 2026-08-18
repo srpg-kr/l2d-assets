@@ -1,0 +1,21 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴 开闭"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "CHA_FatOfficial1_01",
+			"Name": "CHA_FatOfficial1_01"
+		},
+		{
+			"Id": "Part2",
+			"Name": "开口"
+		}
+	]
+}

@@ -1,0 +1,86 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右眼"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "",
+			"Name": "右眼　微笑"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "",
+			"Name": "眉　変形"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "",
+			"Name": "眉y"
+		},
+		{
+			"Id": "ParamBrowRForm2",
+			"GroupId": "",
+			"Name": "眉z"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "嘴部　变形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴巴　张开和闭合"
+		},
+		{
+			"Id": "Param11",
+			"GroupId": "",
+			"Name": "微笑"
+		},
+		{
+			"Id": "Param12",
+			"GroupId": "",
+			"Name": "无力"
+		},
+		{
+			"Id": "Param13",
+			"GroupId": "",
+			"Name": "痛苦"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part6",
+			"Name": "CHA_Darture_Losses_01.png"
+		},
+		{
+			"Id": "Part8",
+			"Name": "CHA_Darture_Losses_01.psd(未找到对应图层)"
+		},
+		{
+			"Id": "Part5",
+			"Name": "CHA_Darture_Losses_01.psd"
+		},
+		{
+			"Id": "Part",
+			"Name": "黑眼"
+		},
+		{
+			"Id": "Part3",
+			"Name": "参考"
+		},
+		{
+			"Id": "Part4",
+			"Name": "新嘴"
+		},
+		{
+			"Id": "Part2",
+			"Name": "头"
+		}
+	]
+}

@@ -100,7 +100,7 @@
 		},
 		{
 			"Id": "ParamMouthForm",
-			"Value": 1.5,
+			"Value": 2,
 			"Blend": "Add"
 		},
 		{
@@ -130,6 +130,16 @@
 		},
 		{
 			"Id": "Param6",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param9",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamFace3",
 			"Value": 0,
 			"Blend": "Add"
 		}

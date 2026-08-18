@@ -1,0 +1,221 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Paramck21",
+			"GroupId": "ParamGroup4",
+			"Name": "控制"
+		},
+		{
+			"Id": "Paramck22",
+			"GroupId": "ParamGroup4",
+			"Name": "思考"
+		},
+		{
+			"Id": "Paramck23",
+			"GroupId": "ParamGroup4",
+			"Name": "幸福"
+		},
+		{
+			"Id": "Paramck24",
+			"GroupId": "ParamGroup4",
+			"Name": "重痛0"
+		},
+		{
+			"Id": "Paramck25",
+			"GroupId": "ParamGroup4",
+			"Name": "轻痛"
+		},
+		{
+			"Id": "Paramck26",
+			"GroupId": "ParamGroup4",
+			"Name": "惊"
+		},
+		{
+			"Id": "Paramck27",
+			"GroupId": "ParamGroup4",
+			"Name": "羞"
+		},
+		{
+			"Id": "Paramck28",
+			"GroupId": "ParamGroup4",
+			"Name": "忧虑"
+		},
+		{
+			"Id": "Paramck29",
+			"GroupId": "ParamGroup4",
+			"Name": "怒"
+		},
+		{
+			"Id": "Paramck30",
+			"GroupId": "ParamGroup4",
+			"Name": "喜"
+		},
+		{
+			"Id": "Paramck31",
+			"GroupId": "ParamGroup4",
+			"Name": "哭泣"
+		},
+		{
+			"Id": "Paramck32",
+			"GroupId": "ParamGroup4",
+			"Name": "害羞"
+		},
+		{
+			"Id": "Paramck33",
+			"GroupId": "ParamGroup4",
+			"Name": "滑稽0"
+		},
+		{
+			"Id": "Paramck34",
+			"GroupId": "ParamGroup4",
+			"Name": "惊慌"
+		},
+		{
+			"Id": "Paramck35",
+			"GroupId": "ParamGroup4",
+			"Name": "悲伤"
+		},
+		{
+			"Id": "Paramck36",
+			"GroupId": "ParamGroup4",
+			"Name": "认真"
+		},
+		{
+			"Id": "Paramck37",
+			"GroupId": "ParamGroup4",
+			"Name": "开心"
+		},
+		{
+			"Id": "Paramck38",
+			"GroupId": "ParamGroup4",
+			"Name": "滑稽星星"
+		},
+		{
+			"Id": "Paramck45",
+			"GroupId": "ParamGroup4",
+			"Name": "控制眼睛"
+		},
+		{
+			"Id": "Paramck48",
+			"GroupId": "ParamGroup4",
+			"Name": "滑稽脸红"
+		},
+		{
+			"Id": "Paramck39",
+			"GroupId": "ParamGroup4",
+			"Name": "幸福爱心"
+		},
+		{
+			"Id": "Paramck41",
+			"GroupId": "ParamGroup4",
+			"Name": "幸福脸红"
+		},
+		{
+			"Id": "Paramck40",
+			"GroupId": "ParamGroup4",
+			"Name": "重痛黑脸"
+		},
+		{
+			"Id": "Paramck42",
+			"GroupId": "ParamGroup4",
+			"Name": "重痛流汗"
+		},
+		{
+			"Id": "Paramck43",
+			"GroupId": "ParamGroup4",
+			"Name": "轻痛流汗"
+		},
+		{
+			"Id": "Paramck44",
+			"GroupId": "ParamGroup4",
+			"Name": "羞脸红"
+		},
+		{
+			"Id": "Paramck46",
+			"GroupId": "ParamGroup4",
+			"Name": "害羞脸红"
+		},
+		{
+			"Id": "Paramck47",
+			"GroupId": "ParamGroup4",
+			"Name": "害羞流汗"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup3",
+			"Name": "左眼　开闭"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup3",
+			"Name": "右眼   开闭"
+		},
+		{
+			"Id": "ParamEyeROpen2",
+			"GroupId": "ParamGroup3",
+			"Name": "眼睛形变"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup3",
+			"Name": "嘴变形"
+		},
+		{
+			"Id": "Param32",
+			"GroupId": "ParamGroup3",
+			"Name": "嘴变形2"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup3",
+			"Name": "嘴　张开和闭合"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "表情"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "嘴"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part8",
+			"Name": "追加.psd(未找到对应图层)"
+		},
+		{
+			"Id": "Part7",
+			"Name": "追加.psd(未找到对应图层)"
+		},
+		{
+			"Id": "Part6",
+			"Name": "CHA_Mityl_01.psd"
+		},
+		{
+			"Id": "Part",
+			"Name": "参考"
+		},
+		{
+			"Id": "Part2",
+			"Name": "特效"
+		},
+		{
+			"Id": "Part3",
+			"Name": "眉毛"
+		},
+		{
+			"Id": "Part4",
+			"Name": "眼睛"
+		},
+		{
+			"Id": "Part5",
+			"Name": "嘴巴"
+		}
+	]
+}

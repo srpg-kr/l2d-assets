@@ -42,19 +42,9 @@
 			"Name": "目缩放"
 		},
 		{
-			"Id": "ParamEyehigtlight",
-			"GroupId": "",
-			"Name": "目高光"
-		},
-		{
 			"Id": "ParamBrowLY",
 			"GroupId": "",
 			"Name": "左眉上下"
-		},
-		{
-			"Id": "ParamBrowRY",
-			"GroupId": "",
-			"Name": "右眉　上下"
 		},
 		{
 			"Id": "ParamBrowLX",
@@ -62,24 +52,29 @@
 			"Name": "左眉　左右"
 		},
 		{
-			"Id": "ParamBrowRX",
-			"GroupId": "",
-			"Name": "右眉　左右"
-		},
-		{
 			"Id": "ParamBrowLAngle",
 			"GroupId": "",
 			"Name": "左眉　角度"
 		},
 		{
-			"Id": "ParamBrowRAngle",
-			"GroupId": "",
-			"Name": "右眉　角度"
-		},
-		{
 			"Id": "ParamBrowLForm",
 			"GroupId": "",
 			"Name": "左眉　変形"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "",
+			"Name": "右眉　上下"
+		},
+		{
+			"Id": "ParamBrowRX",
+			"GroupId": "",
+			"Name": "右眉　左右"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "",
+			"Name": "右眉　角度"
 		},
 		{
 			"Id": "ParamBrowRForm",
@@ -97,6 +92,11 @@
 			"Name": "嘴部　变形"
 		},
 		{
+			"Id": "ParamMouthForm2",
+			"GroupId": "",
+			"Name": "嘴部变形2"
+		},
+		{
 			"Id": "ParamMouthOpenY",
 			"GroupId": "",
 			"Name": "嘴巴　张开和闭合"
@@ -104,22 +104,39 @@
 		{
 			"Id": "ParamCheek",
 			"GroupId": "",
-			"Name": "脸颊"
+			"Name": "脸红"
 		},
 		{
 			"Id": "Param",
 			"GroupId": "",
 			"Name": "指示器"
-		}
-	],
-	"ParameterGroups": [
+		},
 		{
-			"Id": "ParamGroup",
+			"Id": "Param9",
 			"GroupId": "",
-			"Name": "模板"
+			"Name": "暴怒"
+		},
+		{
+			"Id": "Param10",
+			"GroupId": "",
+			"Name": "流泪"
+		},
+		{
+			"Id": "Param11",
+			"GroupId": "",
+			"Name": "隐忍"
 		}
 	],
+	"ParameterGroups": [],
 	"Parts": [
+		{
+			"Id": "Part9",
+			"Name": "克罗丽科新增表情贴图.psd(未找到对应图层)"
+		},
+		{
+			"Id": "Part10",
+			"Name": "克罗丽科新增表情贴图.psd"
+		},
 		{
 			"Id": "EYE_R",
 			"Name": "EYE_R"
@@ -151,10 +168,6 @@
 		{
 			"Id": "Part8",
 			"Name": "克罗利科休息室.psd"
-		},
-		{
-			"Id": "PartSketch0",
-			"Name": "[ 参考图 ]"
 		},
 		{
 			"Id": "Part3",

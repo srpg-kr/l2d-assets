@@ -69,7 +69,7 @@
 		{
 			"Id": "ParamEyeLSmile",
 			"GroupId": "",
-			"Name": "左眼　微笑"
+			"Name": "左受伤闭眼"
 		},
 		{
 			"Id": "ParamEyeROpen",
@@ -90,6 +90,11 @@
 			"Id": "ParamEyeBallY",
 			"GroupId": "",
 			"Name": "眼球 Y"
+		},
+		{
+			"Id": "Param27",
+			"GroupId": "",
+			"Name": "右眼高光"
 		},
 		{
 			"Id": "ParamBrowLY",
@@ -172,6 +177,16 @@
 			"Name": "右眼眶1"
 		},
 		{
+			"Id": "Param25",
+			"GroupId": "",
+			"Name": "右眼眶上变形"
+		},
+		{
+			"Id": "Param26",
+			"GroupId": "",
+			"Name": "右眼眶下变形"
+		},
+		{
 			"Id": "ParamMouthForm",
 			"GroupId": "",
 			"Name": "嘴部　变形"
@@ -190,10 +205,19 @@
 			"Id": "Param13",
 			"GroupId": "",
 			"Name": "嘴缩放"
+		},
+		{
+			"Id": "Param24",
+			"GroupId": "",
+			"Name": "受伤"
 		}
 	],
 	"ParameterGroups": [],
 	"Parts": [
+		{
+			"Id": "Part6",
+			"Name": "新增-Injury受伤"
+		},
 		{
 			"Id": "Part",
 			"Name": "左眼"
@@ -211,6 +235,10 @@
 			"Name": "[ 参考图 ]"
 		},
 		{
+			"Id": "Part7",
+			"Name": "开口"
+		},
+		{
 			"Id": "Part4",
 			"Name": "文件夹2"
 		},
@@ -218,11 +246,5 @@
 			"Id": "Part5",
 			"Name": "文件夹1"
 		}
-	],
-	"CombinedParameters": [
-		[
-			"ParamMouthForm",
-			"Param9"
-		]
 	]
 }

@@ -8,32 +8,50 @@
 		"DisplayInfo": "CHA_Zimmermann_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Zimmermann_Determined_01.exp3.json",
+				"Name": "EMO_Zimmermann_Angry_01",
+				"File": "expressions/EMO_Zimmermann_Angry_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Zimmermann_Determined_01",
 				"File": "expressions/EMO_Zimmermann_Determined_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Zimmermann_Helpless_01.exp3.json",
+				"Name": "EMO_Zimmermann_Helpless_01",
 				"File": "expressions/EMO_Zimmermann_Helpless_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Zimmermann_idle_01.exp3.json",
+				"Name": "EMO_Zimmermann_idle_01",
 				"File": "expressions/EMO_Zimmermann_idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Zimmermann_Sad_01.exp3.json",
+				"Name": "EMO_Zimmermann_Sad_01",
 				"File": "expressions/EMO_Zimmermann_Sad_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Zimmermann_Serious_01",
+				"File": "expressions/EMO_Zimmermann_Serious_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Zimmermann_Think_01",
+				"File": "expressions/EMO_Zimmermann_Think_01.exp3.json"
 			}
 		],
 		"Motions": {
 			"": [
 				{
-					"File": "motions/Mouthopen_10s.motion3.json"
+					"File": "motions/Mouthopen_10s.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
 				},
 				{
-					"File": "motions/Mouthopen_2s.motion3.json"
+					"File": "motions/Mouthopen_2s.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
 				},
 				{
-					"File": "motions/Mouthopen_5s.motion3.json"
+					"File": "motions/Mouthopen_5s.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
 				}
 			]
 		}
@@ -41,17 +59,17 @@
 	"Groups": [
 		{
 			"Target": "Parameter",
-			"Name": "LipSync",
-			"Ids": [
-				"ParamMouthOpenY"
-			]
-		},
-		{
-			"Target": "Parameter",
 			"Name": "EyeBlink",
 			"Ids": [
 				"ParamEyeLOpen",
 				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
 			]
 		}
 	],

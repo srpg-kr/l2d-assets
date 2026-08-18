@@ -1,0 +1,90 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_Nemesis_Gnosis_01.moc3",
+		"Textures": [
+			"CHA_Nemesis_Gnosis_01.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_Nemesis_Gnosis_01.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "EMO_Nemesis_R_Angry_01.exp3.json",
+				"File": "expresstions/EMO_Nemesis_R_Angry_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Nemesis_R_Angry_02.exp3.json",
+				"File": "expresstions/EMO_Nemesis_R_Angry_02.exp3.json"
+			},
+			{
+				"Name": "EMO_Nemesis_R_Angry_03.exp3.json",
+				"File": "expresstions/EMO_Nemesis_R_Angry_03.exp3.json"
+			},
+			{
+				"Name": "EMO_Nemesis_R_Helpless_01.exp3.json",
+				"File": "expresstions/EMO_Nemesis_R_Helpless_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Nemesis_R_Idle_01.exp3.json",
+				"File": "expresstions/EMO_Nemesis_R_Idle_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Nemesis_R_Mercy_01.exp3.json",
+				"File": "expresstions/EMO_Nemesis_R_Mercy_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Nemesis_R_Pain_01.exp3.json",
+				"File": "expresstions/EMO_Nemesis_R_Pain_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Nemesis_R_Ridicule_01.exp3.json",
+				"File": "expresstions/EMO_Nemesis_R_Ridicule_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Nemesis_R_Shy_01.exp3.json",
+				"File": "expresstions/EMO_Nemesis_R_Shy_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Nemesis_R_Shy_02.exp3.json",
+				"File": "expresstions/EMO_Nemesis_R_Shy_02.exp3.json"
+			},
+			{
+				"Name": "EMO_Nemesis_R_Smile_01.exp3.json",
+				"File": "expresstions/EMO_Nemesis_R_Smile_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Nemesis_R_Speechless_01.exp3.json",
+				"File": "expresstions/EMO_Nemesis_R_Speechless_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Nemesis_R_Surprised_01.exp3.json",
+				"File": "expresstions/EMO_Nemesis_R_Surprised_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Nemesis_R_Tear_01.exp3.json",
+				"File": "expresstions/EMO_Nemesis_R_Tear_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Nemesis_R_Think_01.exp3.json",
+				"File": "expresstions/EMO_Nemesis_R_Think_01.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		}
+	],
+	"HitAreas": []
+}

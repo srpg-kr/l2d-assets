@@ -15,6 +15,11 @@
 			"Id": "ParamMouthOpenY",
 			"GroupId": "",
 			"Name": "嘴巴　张开和闭合"
+		},
+		{
+			"Id": "Paramdaiji",
+			"GroupId": "",
+			"Name": "待机虚弱"
 		}
 	],
 	"ParameterGroups": [],

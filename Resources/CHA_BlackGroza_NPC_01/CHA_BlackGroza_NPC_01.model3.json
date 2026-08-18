@@ -10,6 +10,22 @@
 			{
 				"Name": "EMO_BlackGroza_Idle_01",
 				"File": "expressions/EMO_BlackGroza_Idle_01.exp3.json"
+			},
+			{
+				"Name": "EMO_BlackGroza_Pain_01",
+				"File": "expressions/EMO_BlackGroza_Pain_01.exp3.json"
+			},
+			{
+				"Name": "EMO_BlackGroza_Surprised_01",
+				"File": "expressions/EMO_BlackGroza_Surprised_01.exp3.json"
+			},
+			{
+				"Name": "EMO_BlackGroza_Suspect_01",
+				"File": "expressions/EMO_BlackGroza_Suspect_01.exp3.json"
+			},
+			{
+				"Name": "EMO_BlackGroza_Threaten_01",
+				"File": "expressions/EMO_BlackGroza_Threaten_01.exp3.json"
 			}
 		],
 		"Motions": {
@@ -35,16 +51,16 @@
 	"Groups": [
 		{
 			"Target": "Parameter",
-			"Name": "EyeBlink",
+			"Name": "LipSync",
 			"Ids": [
-				"ParamEyeLOpen"
+				"ParamMouthOpenY"
 			]
 		},
 		{
 			"Target": "Parameter",
-			"Name": "LipSync",
+			"Name": "EyeBlink",
 			"Ids": [
-				"ParamMouthOpenY"
+				"ParamEyeLOpen"
 			]
 		}
 	],

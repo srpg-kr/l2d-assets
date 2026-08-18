@@ -1,0 +1,69 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_Caldwell_01.moc3",
+		"Textures": [
+			"CHA_Caldwell_01.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_Caldwell_01.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "EMO_Caldwell_Teacher_Happy_01",
+				"File": "expresstions/EMO_Caldwell_Teacher_Happy_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Caldwell_Teacher_Idle_01",
+				"File": "expresstions/EMO_Caldwell_Teacher_Idle_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Caldwell_Teacher_Sad_01",
+				"File": "expresstions/EMO_Caldwell_Teacher_Sad_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Caldwell_Teacher_Serious_01",
+				"File": "expresstions/EMO_Caldwell_Teacher_Serious_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Caldwell_Teacher_Surprised_01",
+				"File": "expresstions/EMO_Caldwell_Teacher_Surprised_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Caldwell_Teacher_Think_01",
+				"File": "expresstions/EMO_Caldwell_Teacher_Think_01.exp3.json"
+			}
+		],
+		"Motions": {
+			"": [
+				{
+					"File": "motions/Mouthopen_02s.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				},
+				{
+					"File": "motions/Mouthopen_10s.motion3.json"
+				},
+				{
+					"File": "motions/Mouthopen_5s.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		}
+	],
+	"HitAreas": []
+}

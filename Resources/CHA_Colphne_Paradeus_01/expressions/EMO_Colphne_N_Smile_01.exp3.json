@@ -169,22 +169,12 @@
 			"Blend": "Add"
 		},
 		{
-			"Id": "Param17",
-			"Value": 0,
-			"Blend": "Add"
-		},
-		{
 			"Id": "Param18",
 			"Value": 0,
 			"Blend": "Add"
 		},
 		{
 			"Id": "Param19",
-			"Value": 0,
-			"Blend": "Add"
-		},
-		{
-			"Id": "Param21",
 			"Value": 0,
 			"Blend": "Add"
 		},

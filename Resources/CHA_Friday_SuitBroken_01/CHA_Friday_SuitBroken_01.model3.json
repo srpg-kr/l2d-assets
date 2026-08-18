@@ -1,0 +1,98 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_Friday_SuitBroken_01.moc3",
+		"Textures": [
+			"CHA_Friday_SuitBroken_01.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_Friday_SuitBroken_01.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "EMO_Friday_Angry_01.exp3.json",
+				"File": "expressions/EMO_Friday_Angry_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Friday_Cry_01.exp3.json",
+				"File": "expressions/EMO_Friday_Cry_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Friday_Embarrassed_01.exp3.json",
+				"File": "expressions/EMO_Friday_Embarrassed_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Friday_Happy_01.exp3.json",
+				"File": "expressions/EMO_Friday_Happy_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Friday_Idle_01.exp3.json",
+				"File": "expressions/EMO_Friday_Idle_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Friday_Injury_01.exp3.json",
+				"File": "expressions/EMO_Friday_Injury_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Friday_laughing_01.exp3.json",
+				"File": "expressions/EMO_Friday_laughing_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Friday_Panic_01.exp3.json",
+				"File": "expressions/EMO_Friday_Panic_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Friday_Panic_02.exp3.json",
+				"File": "expressions/EMO_Friday_Panic_02.exp3.json"
+			},
+			{
+				"Name": "EMO_Friday_Proud_01.exp3.json",
+				"File": "expressions/EMO_Friday_Proud_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Friday_Serious_01.exp3.json",
+				"File": "expressions/EMO_Friday_Serious_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Friday_Shy_01.exp3.json",
+				"File": "expressions/EMO_Friday_Shy_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Friday_Smile_01.exp3.json",
+				"File": "expressions/EMO_Friday_Smile_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Friday_Surprised_01.exp3.json",
+				"File": "expressions/EMO_Friday_Surprised_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Friday_Think_01.exp3.json",
+				"File": "expressions/EMO_Friday_Think_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Friday_Worry_01.exp3.json",
+				"File": "expressions/EMO_Friday_Worry_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Friday_Worry_02.exp3.json",
+				"File": "expressions/EMO_Friday_Worry_02.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		}
+	],
+	"HitAreas": []
+}

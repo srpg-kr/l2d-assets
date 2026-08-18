@@ -1,0 +1,278 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左眼 开闭"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右眼 开闭"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "右上眼睑左"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "右上眼睑中"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "",
+			"Name": "右上眼睑右"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "",
+			"Name": "右下眼睑左"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "",
+			"Name": "右下眼睑中"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "",
+			"Name": "右下眼睑右"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "",
+			"Name": "左上眼睑左"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "",
+			"Name": "左上眼睑中"
+		},
+		{
+			"Id": "Param9",
+			"GroupId": "",
+			"Name": "左上眼睑右"
+		},
+		{
+			"Id": "Param10",
+			"GroupId": "",
+			"Name": "左下眼睑左"
+		},
+		{
+			"Id": "Param11",
+			"GroupId": "",
+			"Name": "左下眼睑中"
+		},
+		{
+			"Id": "Param12",
+			"GroupId": "",
+			"Name": "左下眼睑右"
+		},
+		{
+			"Id": "Param20",
+			"GroupId": "",
+			"Name": "右眉上下"
+		},
+		{
+			"Id": "Param27",
+			"GroupId": "",
+			"Name": "右眉角度"
+		},
+		{
+			"Id": "Param13",
+			"GroupId": "",
+			"Name": "右眉毛头"
+		},
+		{
+			"Id": "Param14",
+			"GroupId": "",
+			"Name": "右眉毛中"
+		},
+		{
+			"Id": "Param15",
+			"GroupId": "",
+			"Name": "右眉毛尾"
+		},
+		{
+			"Id": "Param28",
+			"GroupId": "",
+			"Name": "右眉特调"
+		},
+		{
+			"Id": "Param21",
+			"GroupId": "",
+			"Name": "左眉上下"
+		},
+		{
+			"Id": "Param29",
+			"GroupId": "",
+			"Name": "左眉角度"
+		},
+		{
+			"Id": "Param17",
+			"GroupId": "",
+			"Name": "左眉毛头"
+		},
+		{
+			"Id": "Param18",
+			"GroupId": "",
+			"Name": "左眉毛中"
+		},
+		{
+			"Id": "Param19",
+			"GroupId": "",
+			"Name": "左眉毛尾"
+		},
+		{
+			"Id": "Param24",
+			"GroupId": "",
+			"Name": "眉尾角度"
+		},
+		{
+			"Id": "Param30",
+			"GroupId": "",
+			"Name": "左眉特调"
+		},
+		{
+			"Id": "Param23",
+			"GroupId": "",
+			"Name": "脸色调整"
+		},
+		{
+			"Id": "Param16",
+			"GroupId": "",
+			"Name": "Threat眼球变化"
+		},
+		{
+			"Id": "Param25",
+			"GroupId": "",
+			"Name": "Threat嘴微调"
+		},
+		{
+			"Id": "Param22",
+			"GroupId": "",
+			"Name": "Crazy"
+		},
+		{
+			"Id": "Param26",
+			"GroupId": "",
+			"Name": "Angry"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "嘴 变形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴 开闭"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part37",
+			"Name": "人物大小0508 (1).psd(未找到对应图层)"
+		},
+		{
+			"Id": "Part",
+			"Name": "组 1"
+		},
+		{
+			"Id": "Part17",
+			"Name": "组 1"
+		},
+		{
+			"Id": "Part24",
+			"Name": "斯奈贝尔02眉毛.psd"
+		},
+		{
+			"Id": "Part2",
+			"Name": "Angry生气"
+		},
+		{
+			"Id": "Part5",
+			"Name": "Crazy疯狂"
+		},
+		{
+			"Id": "Part8",
+			"Name": "Threat威胁"
+		},
+		{
+			"Id": "Part10",
+			"Name": "Smile微笑"
+		},
+		{
+			"Id": "Part12",
+			"Name": "Idle待机 副本"
+		},
+		{
+			"Id": "Part27",
+			"Name": "Crazy疯狂"
+		},
+		{
+			"Id": "Part9",
+			"Name": "眼镜 副本 2"
+		},
+		{
+			"Id": "Part13",
+			"Name": "拆分"
+		},
+		{
+			"Id": "Part15",
+			"Name": "zui"
+		},
+		{
+			"Id": "Part4",
+			"Name": "Angry"
+		},
+		{
+			"Id": "Part3",
+			"Name": "咬牙"
+		},
+		{
+			"Id": "Part21",
+			"Name": "Crazy"
+		},
+		{
+			"Id": "Part16",
+			"Name": "smile"
+		},
+		{
+			"Id": "Part14",
+			"Name": "开口 副本 5"
+		},
+		{
+			"Id": "Part6",
+			"Name": "开口 副本 6"
+		},
+		{
+			"Id": "Part7",
+			"Name": "闭口 副本"
+		},
+		{
+			"Id": "Part11",
+			"Name": "开口 副本"
+		},
+		{
+			"Id": "Part22",
+			"Name": "Angry"
+		},
+		{
+			"Id": "Part23",
+			"Name": "Crazy"
+		},
+		{
+			"Id": "Part18",
+			"Name": "smile"
+		},
+		{
+			"Id": "Part19",
+			"Name": "idle"
+		}
+	]
+}

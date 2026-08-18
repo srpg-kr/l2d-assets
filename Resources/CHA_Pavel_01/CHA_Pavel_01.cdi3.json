@@ -1,0 +1,92 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左眼　开闭"
+		},
+		{
+			"Id": "ParamYJJ",
+			"GroupId": "",
+			"Name": "待机嘲讽"
+		},
+		{
+			"Id": "ParamMouthForm2",
+			"GroupId": "",
+			"Name": "愤怒惊讶"
+		},
+		{
+			"Id": "ParamYJJ2",
+			"GroupId": "",
+			"Name": "愤怒嘲讽"
+		},
+		{
+			"Id": "ParamMouthForm3",
+			"GroupId": "",
+			"Name": "待机惊讶"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴　张开和闭合"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part15",
+			"Name": "CHA_Pavel_01.psd(未找到对应图层)"
+		},
+		{
+			"Id": "Part9",
+			"Name": "CHA_Pavel_01.psd"
+		},
+		{
+			"Id": "Part10",
+			"Name": "CHA_Farkas_NPC_01.psd"
+		},
+		{
+			"Id": "Part5",
+			"Name": "参考"
+		},
+		{
+			"Id": "Part6",
+			"Name": "嘴"
+		},
+		{
+			"Id": "Part7",
+			"Name": "眼睛"
+		},
+		{
+			"Id": "Part",
+			"Name": "表情参考"
+		},
+		{
+			"Id": "Part2",
+			"Name": "左眼"
+		},
+		{
+			"Id": "Part3",
+			"Name": "右眼"
+		},
+		{
+			"Id": "Part4",
+			"Name": "嘴"
+		},
+		{
+			"Id": "Part8",
+			"Name": "眉毛"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamYJJ",
+			"ParamMouthForm2"
+		],
+		[
+			"ParamYJJ2",
+			"ParamMouthForm3"
+		]
+	]
+}

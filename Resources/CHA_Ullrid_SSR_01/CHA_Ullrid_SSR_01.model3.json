@@ -20,6 +20,10 @@
 				"File": "expressions/EMO_Ullrid_Confused_01.exp3.json"
 			},
 			{
+				"Name": "EMO_Ullrid_Despaired_01.exp3.json",
+				"File": "expressions/EMO_Ullrid_Despaired_01.exp3.json"
+			},
+			{
 				"Name": "EMO_Ullrid_Embarrassed_01.exp3.json",
 				"File": "expressions/EMO_Ullrid_Embarrassed_01.exp3.json"
 			},
@@ -34,6 +38,10 @@
 			{
 				"Name": "EMO_Ullrid_Shy_01.exp3.json",
 				"File": "expressions/EMO_Ullrid_Shy_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Ullrid_Surprised_01.exp3.json",
+				"File": "expressions/EMO_Ullrid_Surprised_01.exp3.json"
 			},
 			{
 				"Name": "EMO_Ullrid_Think_01.exp3.json",

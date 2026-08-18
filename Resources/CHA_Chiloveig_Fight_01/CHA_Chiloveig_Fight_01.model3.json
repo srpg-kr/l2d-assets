@@ -1,0 +1,87 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_Chiloveig_Fight_01.moc3",
+		"Textures": [
+			"CHA_Chiloveig_Fight_01.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_Chiloveig_Fight_01.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "EMO_Chiloveig_Blood_01",
+				"File": "expressions/EMO_Chiloveig_Blood_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Chiloveig_Challenge_01",
+				"File": "expressions/EMO_Chiloveig_Challenge_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Chiloveig_Curious_01",
+				"File": "expressions/EMO_Chiloveig_Curious_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Chiloveig_Determined_01",
+				"File": "expressions/EMO_Chiloveig_Determined_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Chiloveig_Idle_01",
+				"File": "expressions/EMO_Chiloveig_Idle_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Chiloveig_Laugh_01",
+				"File": "expressions/EMO_Chiloveig_Laugh_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Chiloveig_Pain_01",
+				"File": "expressions/EMO_Chiloveig_Pain_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Chiloveig_Proud_01",
+				"File": "expressions/EMO_Chiloveig_Proud_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Chiloveig_Smile_01",
+				"File": "expressions/EMO_Chiloveig_Smile_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Chiloveig_Surprised_01",
+				"File": "expressions/EMO_Chiloveig_Surprised_01.exp3.json"
+			}
+		],
+		"Motions": {
+			"": [
+				{
+					"File": "motions/Mouthopen_10s.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				},
+				{
+					"File": "motions/Mouthopen_2s.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				},
+				{
+					"File": "motions/Mouthopen_5s.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	],
+	"HitAreas": []
+}

@@ -1,0 +1,50 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Paramck7",
+			"GroupId": "",
+			"Name": "高兴"
+		},
+		{
+			"Id": "Paramck8",
+			"GroupId": "",
+			"Name": "生气"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左眼　开闭"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右眼   开闭"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "生气待机高兴"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴　张开和闭合"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part4",
+			"Name": "CHA_AK12_NPC_SP.psd"
+		},
+		{
+			"Id": "Part2",
+			"Name": "睫毛"
+		},
+		{
+			"Id": "Part3",
+			"Name": "待机眼睛"
+		}
+	]
+}

@@ -1,0 +1,75 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_Giselle_01.moc3",
+		"Textures": [
+			"CHA_Giselle_01.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_Giselle_01.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "EMO_Giselle_Angry_01.exp3.json",
+				"File": "expressions/EMO_Giselle_Angry_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Giselle_Idle_01.exp3.json",
+				"File": "expressions/EMO_Giselle_Idle_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Giselle_Laugh_01.exp3.json",
+				"File": "expressions/EMO_Giselle_Laugh_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Giselle_Sad_01.exp3.json",
+				"File": "expressions/EMO_Giselle_Sad_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Giselle_Serious_01.exp3.json",
+				"File": "expressions/EMO_Giselle_Serious_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Giselle_Smile_01.exp3.json",
+				"File": "expressions/EMO_Giselle_Smile_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Giselle_Surprised_01.exp3.json",
+				"File": "expressions/EMO_Giselle_Surprised_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Giselle_Think_01.exp3.json",
+				"File": "expressions/EMO_Giselle_Think_01.exp3.json"
+			}
+		],
+		"Motions": {
+			"": [
+				{
+					"File": "motions/Mouthopen_10s.motion3.json"
+				},
+				{
+					"File": "motions/Mouthopen_2s.motion3.json"
+				},
+				{
+					"File": "motions/Mouthopen_5s.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		}
+	],
+	"HitAreas": []
+}

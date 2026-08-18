@@ -8,40 +8,40 @@
 		"DisplayInfo": "CHA_Kalina_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Kalina_Helpless_01.exp3.json",
-				"File": "expresstions/EMO_Kalina_Helpless_01.exp3.json"
+				"Name": "EMO_Kalina_Helpless_01",
+				"File": "expressions/EMO_Kalina_Helpless_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Kalina_Idle_01.exp3.json",
-				"File": "expresstions/EMO_Kalina_Idle_01.exp3.json"
+				"Name": "EMO_Kalina_Idle_01",
+				"File": "expressions/EMO_Kalina_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Kalina_Indifferent_01.exp3.json",
-				"File": "expresstions/EMO_Kalina_Indifferent_01.exp3.json"
+				"Name": "EMO_Kalina_Indifferent_01",
+				"File": "expressions/EMO_Kalina_Indifferent_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Kalina_Sneer_01.exp3.json",
-				"File": "expresstions/EMO_Kalina_Sneer_01.exp3.json"
+				"Name": "EMO_Kalina_Sneer_01",
+				"File": "expressions/EMO_Kalina_Sneer_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Kalina_Solemn_01.exp3.json",
-				"File": "expresstions/EMO_Kalina_Solemn_01.exp3.json"
+				"Name": "EMO_Kalina_Solemn_01",
+				"File": "expressions/EMO_Kalina_Solemn_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Kalina_Surprised_01.exp3.json",
-				"File": "expresstions/EMO_Kalina_Surprised_01.exp3.json"
+				"Name": "EMO_Kalina_Surprised_01",
+				"File": "expressions/EMO_Kalina_Surprised_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Kalina_Tender_01.exp3.json",
-				"File": "expresstions/EMO_Kalina_Tender_01.exp3.json"
+				"Name": "EMO_Kalina_Tender_01",
+				"File": "expressions/EMO_Kalina_Tender_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Kalina_Think_01.exp3.json",
-				"File": "expresstions/EMO_Kalina_Think_01.exp3.json"
+				"Name": "EMO_Kalina_Think_01",
+				"File": "expressions/EMO_Kalina_Think_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Kalina_Worry_01.exp3.json",
-				"File": "expresstions/EMO_Kalina_Worry_01.exp3.json"
+				"Name": "EMO_Kalina_Worry_01",
+				"File": "expressions/EMO_Kalina_Worry_01.exp3.json"
 			}
 		],
 		"Motions": {
@@ -60,16 +60,6 @@
 					"File": "motions/Mouthopen_5s.motion3.json",
 					"FadeInTime": 0,
 					"FadeOutTime": 0
-				},
-				{
-					"File": "motions/OFF.motion3.json",
-					"FadeInTime": 0,
-					"FadeOutTime": 0
-				},
-				{
-					"File": "motions/ON.motion3.json",
-					"FadeInTime": 0,
-					"FadeOutTime": 0
 				}
 			]
 		}
@@ -77,17 +67,17 @@
 	"Groups": [
 		{
 			"Target": "Parameter",
-			"Name": "EyeBlink",
+			"Name": "LipSync",
 			"Ids": [
-				"ParamEyeLOpen",
-				"ParamEyeROpen"
+				"ParamMouthOpenY"
 			]
 		},
 		{
 			"Target": "Parameter",
-			"Name": "LipSync",
+			"Name": "EyeBlink",
 			"Ids": [
-				"ParamMouthOpenY"
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
 			]
 		}
 	],

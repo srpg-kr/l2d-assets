@@ -1,0 +1,26 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "眼开闭"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴　张开和闭合"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "CHA_Yellow_GuardFemale_01.psd"
+		},
+		{
+			"Id": "Part7",
+			"Name": "CHA_Yellow_GuardMale_01.psd"
+		}
+	]
+}

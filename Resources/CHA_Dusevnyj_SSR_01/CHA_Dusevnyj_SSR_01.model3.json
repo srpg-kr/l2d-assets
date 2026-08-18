@@ -8,39 +8,43 @@
 		"DisplayInfo": "CHA_Dusevnyj_SSR_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Dusevnyj_Angry_01.exp3.json",
+				"Name": "EMO_Dusevnyj_Angry_01",
 				"File": "expressions/EMO_Dusevnyj_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Dusevnyj_Idle_01.exp3.json",
+				"Name": "EMO_Dusevnyj_Idle_01",
 				"File": "expressions/EMO_Dusevnyj_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Dusevnyj_Moved_01.exp3.json",
+				"Name": "EMO_Dusevnyj_Injury_01",
+				"File": "expressions/EMO_Dusevnyj_Injury_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Dusevnyj_Moved_01",
 				"File": "expressions/EMO_Dusevnyj_Moved_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Dusevnyj_Nervous_01.exp3.json",
+				"Name": "EMO_Dusevnyj_Nervous_01",
 				"File": "expressions/EMO_Dusevnyj_Nervous_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Dusevnyj_Regretting_01.exp3.json",
+				"Name": "EMO_Dusevnyj_Regretting_01",
 				"File": "expressions/EMO_Dusevnyj_Regretting_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Dusevnyj_Sad_01.exp3.json",
+				"Name": "EMO_Dusevnyj_Sad_01",
 				"File": "expressions/EMO_Dusevnyj_Sad_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Dusevnyj_Serious_01.exp3.json",
+				"Name": "EMO_Dusevnyj_Serious_01",
 				"File": "expressions/EMO_Dusevnyj_Serious_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Dusevnyj_Smile_01.exp3.json",
+				"Name": "EMO_Dusevnyj_Smile_01",
 				"File": "expressions/EMO_Dusevnyj_Smile_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Dusevnyj_Surprised_01.exp3.json",
+				"Name": "EMO_Dusevnyj_Surprised_01",
 				"File": "expressions/EMO_Dusevnyj_Surprised_01.exp3.json"
 			}
 		],
@@ -67,17 +71,17 @@
 	"Groups": [
 		{
 			"Target": "Parameter",
-			"Name": "EyeBlink",
+			"Name": "LipSync",
 			"Ids": [
-				"ParamEyeLOpen",
-				"ParamEyeROpen"
+				"ParamMouthOpenY"
 			]
 		},
 		{
 			"Target": "Parameter",
-			"Name": "LipSync",
+			"Name": "EyeBlink",
 			"Ids": [
-				"ParamMouthOpenY"
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
 			]
 		}
 	],

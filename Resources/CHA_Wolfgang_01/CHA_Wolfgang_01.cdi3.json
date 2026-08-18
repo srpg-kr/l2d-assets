@@ -1,0 +1,154 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左眼 开闭"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右眼 开闭"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "",
+			"Name": "L上睫毛"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "",
+			"Name": "L下睫毛"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "",
+			"Name": "L眼线"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "",
+			"Name": "L眉Y"
+		},
+		{
+			"Id": "ParamBrowLY2",
+			"GroupId": "",
+			"Name": "L眉头"
+		},
+		{
+			"Id": "ParamBrowLY3",
+			"GroupId": "",
+			"Name": "L眉尾"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "",
+			"Name": "R上睫毛"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "",
+			"Name": "R下睫毛"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "",
+			"Name": "R眼线"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "",
+			"Name": "R眉Y"
+		},
+		{
+			"Id": "ParamBrowLY4",
+			"GroupId": "",
+			"Name": "R眉头"
+		},
+		{
+			"Id": "ParamBrowLY5",
+			"GroupId": "",
+			"Name": "R眉尾"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "惊讶眼珠"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "惊讶表情2"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "惊讶嘴"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴 开闭"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "组 1"
+		},
+		{
+			"Id": "Part2",
+			"Name": "Surprised惊讶02"
+		},
+		{
+			"Id": "Part4",
+			"Name": "Surprised惊讶"
+		},
+		{
+			"Id": "Part9",
+			"Name": "Idle待机"
+		},
+		{
+			"Id": "Part3",
+			"Name": "Surprised惊讶02开口"
+		},
+		{
+			"Id": "Part5",
+			"Name": "组 4"
+		},
+		{
+			"Id": "Part6",
+			"Name": "Surprised惊讶眼睛"
+		},
+		{
+			"Id": "Part11",
+			"Name": "Idle待机闭口"
+		},
+		{
+			"Id": "Part10",
+			"Name": "Idle待机开口"
+		},
+		{
+			"Id": "Part12",
+			"Name": "Idle待机眼睛"
+		},
+		{
+			"Id": "Part7",
+			"Name": "组 5"
+		},
+		{
+			"Id": "Part8",
+			"Name": "组 6"
+		},
+		{
+			"Id": "Part13",
+			"Name": "组 1"
+		},
+		{
+			"Id": "Part14",
+			"Name": "组 2"
+		}
+	]
+}

@@ -1,0 +1,163 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左眼 开闭"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右眼 开闭"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "",
+			"Name": "右上眼睑"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "",
+			"Name": "右下眼睑"
+		},
+		{
+			"Id": "Param10",
+			"GroupId": "",
+			"Name": "右下眼睑左"
+		},
+		{
+			"Id": "Param13",
+			"GroupId": "",
+			"Name": "右下眼睑内"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "左上眼睑内"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "左下眼睑"
+		},
+		{
+			"Id": "Param11",
+			"GroupId": "",
+			"Name": "左下眼睑左"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "",
+			"Name": "眼球缩放"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "",
+			"Name": "左眉 変形"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "",
+			"Name": "左眉毛变形2"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "",
+			"Name": "右眉 変形"
+		},
+		{
+			"Id": "Param9",
+			"GroupId": "",
+			"Name": "右眉变形2"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "",
+			"Name": "Angry"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "",
+			"Name": "Surprised"
+		},
+		{
+			"Id": "Param12",
+			"GroupId": "",
+			"Name": "Broken"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "嘴 变形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴 开闭"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "组 5"
+		},
+		{
+			"Id": "Part2",
+			"Name": "眼镜"
+		},
+		{
+			"Id": "Part3",
+			"Name": "Broken失神"
+		},
+		{
+			"Id": "Part7",
+			"Name": "Surprised惊讶"
+		},
+		{
+			"Id": "Part10",
+			"Name": "Angry生气"
+		},
+		{
+			"Id": "Part15",
+			"Name": "Idle待机"
+		},
+		{
+			"Id": "Part6",
+			"Name": "组 6"
+		},
+		{
+			"Id": "Part12",
+			"Name": "闭口"
+		},
+		{
+			"Id": "Part11",
+			"Name": "开口"
+		},
+		{
+			"Id": "Part14",
+			"Name": "左眼"
+		},
+		{
+			"Id": "Part17",
+			"Name": "闭口"
+		},
+		{
+			"Id": "Part16",
+			"Name": "开口"
+		},
+		{
+			"Id": "Part18",
+			"Name": "组 2"
+		},
+		{
+			"Id": "Part19",
+			"Name": "组 1"
+		},
+		{
+			"Id": "Part13",
+			"Name": "右眼"
+		}
+	]
+}

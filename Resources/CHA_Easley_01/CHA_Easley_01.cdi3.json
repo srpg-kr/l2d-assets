@@ -1,0 +1,76 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左眼 开闭"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右眼 开闭"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "左眼眶变形"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "右眼眶变形"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "",
+			"Name": "左眉 変形"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "",
+			"Name": "右眉 変形"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "嘴 变形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴 开闭"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "CHA_Israel_01",
+			"Name": "CHA_Israel_01"
+		},
+		{
+			"Id": "Part4",
+			"Name": "Idle待机"
+		},
+		{
+			"Id": "Part5",
+			"Name": "开口"
+		},
+		{
+			"Id": "Part7",
+			"Name": "组 7"
+		},
+		{
+			"Id": "Part8",
+			"Name": "组 6"
+		},
+		{
+			"Id": "Part6",
+			"Name": "闭口"
+		},
+		{
+			"Id": "Part9",
+			"Name": "思考口腔"
+		}
+	]
+}

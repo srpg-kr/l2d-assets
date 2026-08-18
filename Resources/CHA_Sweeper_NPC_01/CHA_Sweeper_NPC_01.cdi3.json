@@ -27,6 +27,11 @@
 			"Name": "L上眼睑角度"
 		},
 		{
+			"Id": "Param37",
+			"GroupId": "ParamGroup2",
+			"Name": "L上眼睑变形"
+		},
+		{
 			"Id": "Param25",
 			"GroupId": "ParamGroup2",
 			"Name": "L双眼皮线位移"
@@ -75,6 +80,11 @@
 			"Id": "Param12",
 			"GroupId": "ParamGroup2",
 			"Name": "R上眼睑角度"
+		},
+		{
+			"Id": "Param38",
+			"GroupId": "ParamGroup2",
+			"Name": "R上眼睑变形"
 		},
 		{
 			"Id": "Param21",
@@ -172,6 +182,11 @@
 			"Name": "左眉眉头变形"
 		},
 		{
+			"Id": "Param36",
+			"GroupId": "ParamGroup",
+			"Name": "眉头长短"
+		},
+		{
 			"Id": "Param15",
 			"GroupId": "ParamGroup",
 			"Name": "左眉眉尾变形"
@@ -195,6 +210,11 @@
 			"Id": "Param16",
 			"GroupId": "ParamGroup",
 			"Name": "右眉眉头变形"
+		},
+		{
+			"Id": "Param35",
+			"GroupId": "ParamGroup",
+			"Name": "眉头长短"
 		},
 		{
 			"Id": "Param17",
@@ -245,6 +265,11 @@
 			"Id": "Param20",
 			"GroupId": "ParamGroup4",
 			"Name": "哭泣"
+		},
+		{
+			"Id": "Param33",
+			"GroupId": "ParamGroup4",
+			"Name": "受伤"
 		}
 	],
 	"ParameterGroups": [
@@ -279,8 +304,16 @@
 			"Name": "[ 参考图 ]"
 		},
 		{
+			"Id": "Part",
+			"Name": "新增-Injury受伤"
+		},
+		{
 			"Id": "Part2",
 			"Name": "清道夫"
+		},
+		{
+			"Id": "Part6",
+			"Name": "开口 副本 20"
 		},
 		{
 			"Id": "Part3",

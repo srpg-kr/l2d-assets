@@ -1,0 +1,60 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Paramdaiji",
+			"GroupId": "",
+			"Name": "待机"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "斥责 逞强"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "眼开闭"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴张开"
+		},
+		{
+			"Id": "ParamEyeLOpen2",
+			"GroupId": "",
+			"Name": "斥责黑化"
+		},
+		{
+			"Id": "ParamEyeLOpen3",
+			"GroupId": "",
+			"Name": "逞强流汗"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part6",
+			"Name": "CHA_Lydia_01.psd"
+		},
+		{
+			"Id": "Part3",
+			"Name": "组 1"
+		},
+		{
+			"Id": "Part4",
+			"Name": "表情"
+		},
+		{
+			"Id": "Part5",
+			"Name": "眼睛"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"Paramdaiji",
+			"Param"
+		]
+	]
+}

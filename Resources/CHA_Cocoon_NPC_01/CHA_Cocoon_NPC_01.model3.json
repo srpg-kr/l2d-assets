@@ -18,6 +18,10 @@
 			{
 				"Name": "EMO_Cocoon_Think_01.exp3.json",
 				"File": "expressions/EMO_Cocoon_Think_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Cocoon_Serious_01.exp3.json",
+				"File": "expressions/EMO_Cocoon_Serious_01.exp3.json"
 			}
 		],
 		"Motions": {

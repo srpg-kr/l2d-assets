@@ -171,6 +171,10 @@
 	],
 	"Parts": [
 		{
+			"Id": "Part49",
+			"Name": "CHA_Lene_SSR.psd(未找到对应图层)"
+		},
+		{
 			"Id": "Part48",
 			"Name": "CHA_Lene_SSR.psd(未找到对应图层)"
 		},
@@ -180,6 +184,10 @@
 		},
 		{
 			"Id": "CHA_Lene_SSR_01",
+			"Name": "CHA_Lene_SSR_01"
+		},
+		{
+			"Id": "CHA_Lene_SSR_03",
 			"Name": "CHA_Lene_SSR_01"
 		},
 		{
@@ -237,6 +245,10 @@
 		{
 			"Id": "Part25",
 			"Name": "嘴巴"
+		},
+		{
+			"Id": "Part26",
+			"Name": "Cry哭泣"
 		},
 		{
 			"Id": "Part2",

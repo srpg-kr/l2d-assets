@@ -1,0 +1,47 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Paramdaiji",
+			"GroupId": "",
+			"Name": "待机"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "嫌弃 紧张"
+		},
+		{
+			"Id": "ParamEyeLOpen2",
+			"GroupId": "",
+			"Name": "紧张特效"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左眼　开闭"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴　张开和闭合"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part2",
+			"Name": "CHA_Ada_01.psd"
+		},
+		{
+			"Id": "Part",
+			"Name": "表情"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"Paramdaiji",
+			"Param"
+		]
+	]
+}

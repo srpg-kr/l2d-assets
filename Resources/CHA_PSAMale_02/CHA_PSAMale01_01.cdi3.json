@@ -1,0 +1,33 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴 开闭"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part3",
+			"Name": "CHA_PSAMale01_01.psd(未找到对应图层)"
+		},
+		{
+			"Id": "CHA_PSAMale01_01",
+			"Name": "CHA_PSAMale01_01"
+		},
+		{
+			"Id": "PartSketch0",
+			"Name": "[ 参考图 ]"
+		},
+		{
+			"Id": "CHA_PSAMale01_02",
+			"Name": "CHA_PSAMale01_01"
+		},
+		{
+			"Id": "Part",
+			"Name": "开口"
+		}
+	]
+}

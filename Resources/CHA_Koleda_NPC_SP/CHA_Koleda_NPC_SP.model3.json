@@ -1,0 +1,34 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_Koleda_NPC_SP.moc3",
+		"Textures": [
+			"CHA_Koleda_NPC_SP.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_Koleda_NPC_SP.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "EMO_Koleda_NPC_SP_Idle_01.exp3.json",
+				"File": "expressions/EMO_Koleda_NPC_SP_Idle_01.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		}
+	],
+	"HitAreas": []
+}

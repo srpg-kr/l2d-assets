@@ -8,11 +8,15 @@
 		"DisplayInfo": "CHA_Lonnie_NPC_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Lonnie_Angry_01",
+				"Name": "EMO_Lonnie_Angry_01.exp3.json",
 				"File": "expressions/EMO_Lonnie_Angry_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Lonnie_Idle_01",
+				"Name": "EMO_Lonnie_Crazy_01.exp3.json",
+				"File": "expressions/EMO_Lonnie_Crazy_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Lonnie_Idle_01.exp3.json",
 				"File": "expressions/EMO_Lonnie_Idle_01.exp3.json"
 			}
 		],

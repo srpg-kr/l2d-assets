@@ -7,11 +7,6 @@
 			"Name": "脸部阴影"
 		},
 		{
-			"Id": "Param4",
-			"GroupId": "",
-			"Name": "a"
-		},
-		{
 			"Id": "ParamEyeLOpen",
 			"GroupId": "",
 			"Name": "左眼　开闭"
@@ -52,52 +47,48 @@
 			"Name": "右眉　変形"
 		},
 		{
+			"Id": "ParamBrowRForm2",
+			"GroupId": "",
+			"Name": "眉変形"
+		},
+		{
 			"Id": "ParamMouthForm",
 			"GroupId": "",
 			"Name": "嘴部　变形"
 		},
 		{
+			"Id": "ParamMouthForm2",
+			"GroupId": "",
+			"Name": "嘴部　变形2"
+		},
+		{
 			"Id": "ParamMouthOpenY",
 			"GroupId": "",
 			"Name": "嘴巴　张开和闭合"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "",
+			"Name": "哭泣"
+		},
+		{
+			"Id": "Param9",
+			"GroupId": "",
+			"Name": "紧张"
 		}
 	],
 	"ParameterGroups": [],
 	"Parts": [
 		{
-			"Id": "Part9",
-			"Name": "texture_00.png"
+			"Id": "Part3",
+			"Name": "黑眼新增贴图.psd(未找到对应图层)"
 		},
 		{
-			"Id": "Part8",
-			"Name": "第一章补充.psd"
-		},
-		{
-			"Id": "Part7",
-			"Name": "黑眼.psd"
-		},
-		{
-			"Id": "Part6",
-			"Name": "黑眼.psd"
-		},
-		{
-			"Id": "Part5",
-			"Name": "黑眼表情.psd"
-		},
-		{
-			"Id": "Part4",
-			"Name": "黑眼.psd"
+			"Id": "Part10",
+			"Name": "黑眼新增贴图.psd"
 		},
 		{
 			"Id": "Part",
-			"Name": "黑眼"
-		},
-		{
-			"Id": "PartSketch0",
-			"Name": "[ 参考图 ]"
-		},
-		{
-			"Id": "Part3",
 			"Name": "黑眼"
 		},
 		{

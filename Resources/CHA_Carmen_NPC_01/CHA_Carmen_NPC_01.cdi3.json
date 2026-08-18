@@ -123,11 +123,5 @@
 			"Id": "Part5",
 			"Name": "闭嘴_待机"
 		}
-	],
-	"CombinedParameters": [
-		[
-			"Param",
-			"Param2"
-		]
 	]
 }

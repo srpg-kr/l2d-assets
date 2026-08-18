@@ -1,0 +1,22 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_OTs-14_NPC_SP.moc3",
+		"Textures": [
+			"CHA_OTs-14_NPC_SP.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_OTs-14_NPC_SP.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}
