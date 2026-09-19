@@ -1,0 +1,49 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_Anya_01.moc3",
+		"Textures": [
+			"CHA_Anya_01.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_Anya_01.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "EMO_Anya_Angry_01.exp3.json",
+				"File": "expressions/EMO_Anya_Angry_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Anya_Idle_01.exp3.json",
+				"File": "expressions/EMO_Anya_Idle_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Anya_Injury_01.exp3.json",
+				"File": "expressions/EMO_Anya_Injury_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Anya_Sad_01.exp3.json",
+				"File": "expressions/EMO_Anya_Sad_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Anya_Smile_01.exp3.json",
+				"File": "expressions/EMO_Anya_Smile_01.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		}
+	],
+	"HitAreas": []
+}

@@ -1,0 +1,33 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_Sergey_01.moc3",
+		"Textures": [
+			"CHA_Sergey_01.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_Sergey_01.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "EMO_Sergey_Idle_01",
+				"File": "expresstions/EMO_Sergey_Idle_01.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeROpen"
+			]
+		}
+	],
+	"HitAreas": []
+}

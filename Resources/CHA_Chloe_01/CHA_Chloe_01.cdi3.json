@@ -1,0 +1,33 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param23",
+			"GroupId": "ParamGroup3",
+			"Name": "惊恐"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup3",
+			"Name": "眼开闭"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup3",
+			"Name": "嘴　张开和闭合"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "嘴"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part5",
+			"Name": "CHA_Chloe_01.psd"
+		}
+	]
+}

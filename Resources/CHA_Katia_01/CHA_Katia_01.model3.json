@@ -1,0 +1,49 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_Katia_01.moc3",
+		"Textures": [
+			"CHA_Katia_01.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_Katia_01.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "EMO_Katia_Angry_01.exp3.json",
+				"File": "expresstions/EMO_Katia_Angry_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Katia_Idle_01.exp3.json",
+				"File": "expresstions/EMO_Katia_Idle_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Katia_Serious_01.exp3.json",
+				"File": "expresstions/EMO_Katia_Serious_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Katia_Smile_01.exp3.json",
+				"File": "expresstions/EMO_Katia_Smile_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Katia_Think_01.exp3.json",
+				"File": "expresstions/EMO_Katia_Think_01.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		}
+	],
+	"HitAreas": []
+}

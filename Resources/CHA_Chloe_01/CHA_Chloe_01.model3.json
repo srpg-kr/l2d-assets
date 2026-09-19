@@ -1,0 +1,37 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_Chloe_01.moc3",
+		"Textures": [
+			"CHA_Chloe_01.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_Chloe_01.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "EMO_Chloe_Idle_01.exp3.json",
+				"File": "expresstions/EMO_Chloe_Idle_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Chloe_Injury_01.exp3.json",
+				"File": "expresstions/EMO_Chloe_Injury_01.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		}
+	],
+	"HitAreas": []
+}

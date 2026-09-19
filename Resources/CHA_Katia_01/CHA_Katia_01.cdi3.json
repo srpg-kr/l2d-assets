@@ -1,0 +1,62 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param19",
+			"GroupId": "ParamGroup4",
+			"Name": "沉思"
+		},
+		{
+			"Id": "Param20",
+			"GroupId": "ParamGroup4",
+			"Name": "怒"
+		},
+		{
+			"Id": "Param22",
+			"GroupId": "ParamGroup4",
+			"Name": "喜"
+		},
+		{
+			"Id": "Param23",
+			"GroupId": "ParamGroup4",
+			"Name": "认真"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup3",
+			"Name": "右眼   开闭"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup3",
+			"Name": "喜思待认怒"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup3",
+			"Name": "嘴　张开和闭合"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "表情特效"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "嘴"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part3",
+			"Name": "CHA_Katia_01.psd"
+		},
+		{
+			"Id": "Part2",
+			"Name": "眼睛"
+		}
+	]
+}

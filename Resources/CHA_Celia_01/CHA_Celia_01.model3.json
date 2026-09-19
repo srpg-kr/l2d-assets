@@ -1,0 +1,93 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_Celia_01.moc3",
+		"Textures": [
+			"CHA_Celia_01.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_Celia_01.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "EMO_Celia_Angry_01",
+				"File": "expressions/EMO_Celia_Angry_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Celia_Cry_01",
+				"File": "expressions/EMO_Celia_Cry_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Celia_Embarrassed_01",
+				"File": "expressions/EMO_Celia_Embarrassed_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Celia_Happy_01",
+				"File": "expressions/EMO_Celia_Happy_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Celia_Idle_01",
+				"File": "expressions/EMO_Celia_Idle_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Celia_Injury_01",
+				"File": "expressions/EMO_Celia_Injury_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Celia_Laughing_01",
+				"File": "expressions/EMO_Celia_Laughing_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Celia_Pain_01",
+				"File": "expressions/EMO_Celia_Pain_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Celia_Panic_01",
+				"File": "expressions/EMO_Celia_Panic_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Celia_Sad_01",
+				"File": "expressions/EMO_Celia_Sad_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Celia_Serious_01",
+				"File": "expressions/EMO_Celia_Serious_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Celia_Shy_01",
+				"File": "expressions/EMO_Celia_Shy_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Celia_Smile_01",
+				"File": "expressions/EMO_Celia_Smile_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Celia_Surprised_01",
+				"File": "expressions/EMO_Celia_Surprised_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Celia_Think_01",
+				"File": "expressions/EMO_Celia_Think_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Celia_Worry_01",
+				"File": "expressions/EMO_Celia_Worry_01.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		}
+	],
+	"HitAreas": []
+}
