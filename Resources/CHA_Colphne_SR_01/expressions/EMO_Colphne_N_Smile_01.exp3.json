@@ -29,11 +29,6 @@
 			"Blend": "Add"
 		},
 		{
-			"Id": "ParamEyeBallX",
-			"Value": 0,
-			"Blend": "Add"
-		},
-		{
 			"Id": "Param3",
 			"Value": 0.58,
 			"Blend": "Add"
@@ -56,11 +51,6 @@
 		{
 			"Id": "ParamBrowLY",
 			"Value": 0.326,
-			"Blend": "Add"
-		},
-		{
-			"Id": "EyeSize",
-			"Value": 0,
 			"Blend": "Add"
 		},
 		{
@@ -134,11 +124,6 @@
 			"Blend": "Add"
 		},
 		{
-			"Id": "Param7",
-			"Value": 0,
-			"Blend": "Add"
-		},
-		{
 			"Id": "Param14",
 			"Value": 0,
 			"Blend": "Add"
@@ -194,7 +179,92 @@
 			"Blend": "Add"
 		},
 		{
+			"Id": "Param23",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param24",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeRSmile2",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param25",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Angry2",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param7",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param22",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "EyeHL2",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Angry3",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "EyeSize",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "EyeHL3",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "EyeHL4",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "EyeHL5",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
 			"Id": "ParamMouthOpenY",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param26",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param27",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param28",
 			"Value": 0,
 			"Blend": "Add"
 		}

@@ -8,6 +8,30 @@
 		"DisplayInfo": "CHA_Kalina_NPC_01.cdi3.json",
 		"Expressions": [
 			{
+				"Name": "EMO_Kalina_Amazing_01",
+				"File": "expressions/EMO_Kalina_Amazing_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Kalina_Blood_01",
+				"File": "expressions/EMO_Kalina_Blood_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Kalina_Cry_01",
+				"File": "expressions/EMO_Kalina_Cry_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Kalina_Cry_02_01",
+				"File": "expressions/EMO_Kalina_Cry_02_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Kalina_Determined_01",
+				"File": "expressions/EMO_Kalina_Determined_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Kalina_Drunk_01",
+				"File": "expressions/EMO_Kalina_Drunk_01.exp3.json"
+			},
+			{
 				"Name": "EMO_Kalina_Helpless_01",
 				"File": "expressions/EMO_Kalina_Helpless_01.exp3.json"
 			},
@@ -18,6 +42,10 @@
 			{
 				"Name": "EMO_Kalina_Indifferent_01",
 				"File": "expressions/EMO_Kalina_Indifferent_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Kalina_Shame_01",
+				"File": "expressions/EMO_Kalina_Shame_01.exp3.json"
 			},
 			{
 				"Name": "EMO_Kalina_Sneer_01",
@@ -67,17 +95,17 @@
 	"Groups": [
 		{
 			"Target": "Parameter",
-			"Name": "LipSync",
-			"Ids": [
-				"ParamMouthOpenY"
-			]
-		},
-		{
-			"Target": "Parameter",
 			"Name": "EyeBlink",
 			"Ids": [
 				"ParamEyeLOpen",
 				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
 			]
 		}
 	],

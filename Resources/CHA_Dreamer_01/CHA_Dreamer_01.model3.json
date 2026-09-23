@@ -8,8 +8,28 @@
 		"DisplayInfo": "CHA_Dreamer_01.cdi3.json",
 		"Expressions": [
 			{
+				"Name": "EMO_Dreamer_Angry_01.exp3.json",
+				"File": "expressions/EMO_Dreamer_Angry_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Dreamer_Awkward_01.exp3.json",
+				"File": "expressions/EMO_Dreamer_Awkward_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Dreamer_Despair_01.exp3.json",
+				"File": "expressions/EMO_Dreamer_Despair_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Dreamer_Excited_01.exp3.json",
+				"File": "expressions/EMO_Dreamer_Excited_01.exp3.json"
+			},
+			{
 				"Name": "EMO_Dreamer_Idle_01.exp3.json",
 				"File": "expressions/EMO_Dreamer_Idle_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Dreamer_Ridicule_01.exp3.json",
+				"File": "expressions/EMO_Dreamer_Ridicule_01.exp3.json"
 			},
 			{
 				"Name": "EMO_Dreamer_Serious_01.exp3.json",
@@ -18,6 +38,10 @@
 			{
 				"Name": "EMO_Dreamer_Surprised_01.exp3.json",
 				"File": "expressions/EMO_Dreamer_Surprised_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Dreamer_Worry_01.exp3.json",
+				"File": "expressions/EMO_Dreamer_Worry_01.exp3.json"
 			}
 		]
 	},

@@ -1,0 +1,54 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_Iris_01.moc3",
+		"Textures": [
+			"CHA_Iris_01.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_Iris_01.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "EMO_Iris_Angry_01",
+				"File": "expressions/EMO_Iris_Angry_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Iris_Idle_01",
+				"File": "expressions/EMO_Iris_Idle_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Iris_Idle_02",
+				"File": "expressions/EMO_Iris_Idle_02.exp3.json"
+			},
+			{
+				"Name": "EMO_Iris_Smile_01",
+				"File": "expressions/EMO_Iris_Smile_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Iris_Surprised_01",
+				"File": "expressions/EMO_Iris_Surprised_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Iris_Think_01",
+				"File": "expressions/EMO_Iris_Think_01.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		}
+	],
+	"HitAreas": []
+}

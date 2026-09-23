@@ -1,0 +1,244 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param6",
+			"GroupId": "ParamGroup2",
+			"Name": "左上眼眶"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "ParamGroup2",
+			"Name": "左上眼眶 尾"
+		},
+		{
+			"Id": "Param10",
+			"GroupId": "ParamGroup2",
+			"Name": "左下眼眶"
+		},
+		{
+			"Id": "Param11",
+			"GroupId": "ParamGroup2",
+			"Name": "下眼皮 2"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup2",
+			"Name": "左眼 开闭"
+		},
+		{
+			"Id": "ParamEyeROpen2",
+			"GroupId": "ParamGroup2",
+			"Name": "右眼 微笑"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup2",
+			"Name": "右眼 开闭"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "ParamGroup2",
+			"Name": "右上眼眶"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "ParamGroup2",
+			"Name": "下眼眶"
+		},
+		{
+			"Id": "Param16",
+			"GroupId": "ParamGroup3",
+			"Name": "左眉毛x"
+		},
+		{
+			"Id": "Param17",
+			"GroupId": "ParamGroup3",
+			"Name": "左眉毛y"
+		},
+		{
+			"Id": "Param18",
+			"GroupId": "ParamGroup3",
+			"Name": "左眉毛z"
+		},
+		{
+			"Id": "Param19",
+			"GroupId": "ParamGroup3",
+			"Name": "左眉毛 变形"
+		},
+		{
+			"Id": "Param21",
+			"GroupId": "ParamGroup3",
+			"Name": "左眉毛 变形2"
+		},
+		{
+			"Id": "Param12",
+			"GroupId": "ParamGroup3",
+			"Name": "右眉毛x"
+		},
+		{
+			"Id": "Param13",
+			"GroupId": "ParamGroup3",
+			"Name": "右眉毛y"
+		},
+		{
+			"Id": "Param14",
+			"GroupId": "ParamGroup3",
+			"Name": "右眉毛z"
+		},
+		{
+			"Id": "Param15",
+			"GroupId": "ParamGroup3",
+			"Name": "右眉毛 变形"
+		},
+		{
+			"Id": "Param20",
+			"GroupId": "ParamGroup3",
+			"Name": "右眉毛 变形2"
+		},
+		{
+			"Id": "ParamMouthForm2",
+			"GroupId": "",
+			"Name": "变形1"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "认真待机玩笑兴奋"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴 开闭"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "ParamGroup",
+			"Name": "Excited"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "ParamGroup",
+			"Name": "wink"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "眼睛"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "眉毛"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "特效"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "CHA_Architect_01",
+			"Name": "CHA_Architect_01"
+		},
+		{
+			"Id": "CK",
+			"Name": "CK"
+		},
+		{
+			"Id": "Part",
+			"Name": "Serious认真"
+		},
+		{
+			"Id": "Part2",
+			"Name": "Excited兴奋"
+		},
+		{
+			"Id": "Part3",
+			"Name": "wink玩笑"
+		},
+		{
+			"Id": "Part4",
+			"Name": "Idle待机"
+		},
+		{
+			"Id": "Serious_kaikou",
+			"Name": "Serious_kaikou"
+		},
+		{
+			"Id": "Serious_bikou",
+			"Name": "Serious_bikou"
+		},
+		{
+			"Id": "Serious_zuoyan",
+			"Name": "Serious_zuoyan"
+		},
+		{
+			"Id": "Serious_youyan",
+			"Name": "Serious_youyan"
+		},
+		{
+			"Id": "Excited_kaikou",
+			"Name": "Excited_kaikou"
+		},
+		{
+			"Id": "Excited_yaoya",
+			"Name": "Excited_yaoya"
+		},
+		{
+			"Id": "Excited_bikou",
+			"Name": "Excited_bikou"
+		},
+		{
+			"Id": "Excited_zuoyan",
+			"Name": "Excited_zuoyan"
+		},
+		{
+			"Id": "Excited_youyan",
+			"Name": "Excited_youyan"
+		},
+		{
+			"Id": "Excited_zuoyan2",
+			"Name": "Excited_zuoyan"
+		},
+		{
+			"Id": "Excited_youyan2",
+			"Name": "Excited_youyan"
+		},
+		{
+			"Id": "wink_kaikou",
+			"Name": "wink_kaikou"
+		},
+		{
+			"Id": "wink_bikou",
+			"Name": "wink_bikou"
+		},
+		{
+			"Id": "wink_zuoyan",
+			"Name": "wink_zuoyan"
+		},
+		{
+			"Id": "wink_youyan",
+			"Name": "wink_youyan"
+		},
+		{
+			"Id": "Idle_yaoya",
+			"Name": "Idle_yaoya"
+		},
+		{
+			"Id": "Idle_bikou",
+			"Name": "Idle_bikou"
+		},
+		{
+			"Id": "Part5",
+			"Name": "Idle__zuoyan"
+		},
+		{
+			"Id": "Idle__youyan",
+			"Name": "Idle__youyan"
+		}
+	]
+}

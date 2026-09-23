@@ -1,0 +1,74 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_H-35_01.moc3",
+		"Textures": [
+			"CHA_H-35_01.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_H-35_01.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "EMO_H-35_Amazing_01",
+				"File": "expressions/EMO_H-35_Amazing_01.exp3.json"
+			},
+			{
+				"Name": "EMO_H-35_Annoyed_01",
+				"File": "expressions/EMO_H-35_Annoyed_01.exp3.json"
+			},
+			{
+				"Name": "EMO_H-35_Awkward_01",
+				"File": "expressions/EMO_H-35_Awkward_01.exp3.json"
+			},
+			{
+				"Name": "EMO_H-35_Cry_01",
+				"File": "expressions/EMO_H-35_Cry_01.exp3.json"
+			},
+			{
+				"Name": "EMO_H-35_Depressed_01",
+				"File": "expressions/EMO_H-35_Depressed_01.exp3.json"
+			},
+			{
+				"Name": "EMO_H-35_Idle_01",
+				"File": "expressions/EMO_H-35_Idle_01.exp3.json"
+			},
+			{
+				"Name": "EMO_H-35_Idle_02",
+				"File": "expressions/EMO_H-35_Idle_02.exp3.json"
+			},
+			{
+				"Name": "EMO_H-35_Panic_01",
+				"File": "expressions/EMO_H-35_Panic_01.exp3.json"
+			},
+			{
+				"Name": "EMO_H-35_Proud_01",
+				"File": "expressions/EMO_H-35_Proud_01.exp3.json"
+			},
+			{
+				"Name": "EMO_H-35_Sad_01",
+				"File": "expressions/EMO_H-35_Sad_01.exp3.json"
+			},
+			{
+				"Name": "EMO_H-35_Serious_01",
+				"File": "expressions/EMO_H-35_Serious_01.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		}
+	],
+	"HitAreas": []
+}

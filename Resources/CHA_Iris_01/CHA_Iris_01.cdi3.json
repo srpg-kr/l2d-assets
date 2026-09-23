@@ -1,0 +1,94 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param25",
+			"GroupId": "ParamGroup4",
+			"Name": "不悦"
+		},
+		{
+			"Id": "Param21",
+			"GroupId": "ParamGroup4",
+			"Name": "思考"
+		},
+		{
+			"Id": "Param20",
+			"GroupId": "ParamGroup4",
+			"Name": "待机2"
+		},
+		{
+			"Id": "Param22",
+			"GroupId": "ParamGroup4",
+			"Name": "惊讶"
+		},
+		{
+			"Id": "Param26",
+			"GroupId": "ParamGroup4",
+			"Name": "微笑"
+		},
+		{
+			"Id": "Param27",
+			"GroupId": "ParamGroup4",
+			"Name": "待机"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup4",
+			"Name": "右眼   开闭"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup4",
+			"Name": "左眼　开闭"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup3",
+			"Name": "嘴"
+		},
+		{
+			"Id": "ParamMouthForm2",
+			"GroupId": "ParamGroup3",
+			"Name": "嘴变"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup3",
+			"Name": "嘴　张开和闭合"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "表情特效"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "嘴"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part6",
+			"Name": "CHA_Iris_01.psd(未找到对应图层)"
+		},
+		{
+			"Id": "Part4",
+			"Name": "CHA_Iris_01.psd"
+		},
+		{
+			"Id": "Part2",
+			"Name": "CHA_Iris_01.psd"
+		},
+		{
+			"Id": "Part3",
+			"Name": "参考"
+		},
+		{
+			"Id": "Part",
+			"Name": "参考"
+		}
+	]
+}

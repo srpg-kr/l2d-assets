@@ -49,11 +49,6 @@
 			"Blend": "Add"
 		},
 		{
-			"Id": "Param19",
-			"Value": 0,
-			"Blend": "Add"
-		},
-		{
 			"Id": "Param20",
 			"Value": 0,
 			"Blend": "Add"
@@ -70,6 +65,46 @@
 		},
 		{
 			"Id": "Param16",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param21",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param24",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param25",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param26",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param23",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param27",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouthForm2",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouthOpenY",
 			"Value": 0,
 			"Blend": "Add"
 		}

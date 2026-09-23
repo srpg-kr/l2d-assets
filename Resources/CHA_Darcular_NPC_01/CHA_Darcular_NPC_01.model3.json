@@ -8,28 +8,80 @@
 		"DisplayInfo": "CHA_Darcular_NPC_01.cdi3.json",
 		"Expressions": [
 			{
+				"Name": "EMO_Darcular_Angry_01.exp3.json",
+				"File": "expressions/EMO_Darcular_Angry_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Darcular_Awkward_01.exp3.json",
+				"File": "expressions/EMO_Darcular_Awkward_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Darcular_Awkward_02.exp3.json",
+				"File": "expressions/EMO_Darcular_Awkward_02.exp3.json"
+			},
+			{
+				"Name": "EMO_Darcular_Confused_01.exp3.json",
+				"File": "expressions/EMO_Darcular_Confused_01.exp3.json"
+			},
+			{
 				"Name": "EMO_Darcular_Cry_01.exp3.json",
-				"File": "expresstions/EMO_Darcular_Cry_01.exp3.json"
+				"File": "expressions/EMO_Darcular_Cry_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Darcular_Depressed_01.exp3.json",
+				"File": "expressions/EMO_Darcular_Depressed_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Darcular_Helpless_01.exp3.json",
+				"File": "expressions/EMO_Darcular_Helpless_01.exp3.json"
 			},
 			{
 				"Name": "EMO_Darcular_Idle_01.exp3.json",
-				"File": "expresstions/EMO_Darcular_Idle_01.exp3.json"
+				"File": "expressions/EMO_Darcular_Idle_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Darcular_Lost_01.exp3.json",
+				"File": "expressions/EMO_Darcular_Lost_01.exp3.json"
 			},
 			{
 				"Name": "EMO_Darcular_Nervous_01.exp3.json",
-				"File": "expresstions/EMO_Darcular_Nervous_01.exp3.json"
+				"File": "expressions/EMO_Darcular_Nervous_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Darcular_Panic_01.exp3.json",
+				"File": "expressions/EMO_Darcular_Panic_01.exp3.json"
 			},
 			{
 				"Name": "EMO_Darcular_Rage_01.exp3.json",
-				"File": "expresstions/EMO_Darcular_Rage_01.exp3.json"
+				"File": "expressions/EMO_Darcular_Rage_01.exp3.json"
 			},
 			{
 				"Name": "EMO_Darcular_Ridicule_01.exp3.json",
-				"File": "expresstions/EMO_Darcular_Ridicule_01.exp3.json"
+				"File": "expressions/EMO_Darcular_Ridicule_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Darcular_Serious_01.exp3.json",
+				"File": "expressions/EMO_Darcular_Serious_01.exp3.json"
 			},
 			{
 				"Name": "EMO_Darcular_Smile_01.exp3.json",
-				"File": "expresstions/EMO_Darcular_Smile_01.exp3.json"
+				"File": "expressions/EMO_Darcular_Smile_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Darcular_Surprised_01.exp3.json",
+				"File": "expressions/EMO_Darcular_Surprised_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Darcular_Tender_01.exp3.json",
+				"File": "expressions/EMO_Darcular_Tender_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Darcular_Worry_01.exp3.json",
+				"File": "expressions/EMO_Darcular_Worry_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Darcular_Idle_02.exp3.json",
+				"File": "expressions/EMO_Darcular_Idle_02.exp3.json"
 			}
 		],
 		"Motions": {
@@ -42,12 +94,6 @@
 				},
 				{
 					"File": "motions/Mouthopen_5s.motion3.json"
-				},
-				{
-					"File": "motions/OFF.motion3.json"
-				},
-				{
-					"File": "motions/ON.motion3.json"
 				}
 			]
 		}

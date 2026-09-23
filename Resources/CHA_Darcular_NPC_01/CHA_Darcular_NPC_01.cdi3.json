@@ -2,98 +2,537 @@
 	"Version": 3,
 	"Parameters": [
 		{
-			"Id": "Param3",
-			"GroupId": "",
-			"Name": "脸部阴影"
+			"Id": "Param13",
+			"GroupId": "ParamGroup",
+			"Name": "右眉毛上下"
 		},
 		{
-			"Id": "ParamEyeLOpen",
-			"GroupId": "",
-			"Name": "左眼　开闭"
+			"Id": "Param22",
+			"GroupId": "ParamGroup",
+			"Name": "右眉毛变形"
 		},
 		{
-			"Id": "ParamEyeLSmile",
-			"GroupId": "",
-			"Name": "左眼　微笑"
+			"Id": "Param38",
+			"GroupId": "ParamGroup",
+			"Name": "右眉毛变形辅助"
 		},
 		{
-			"Id": "Param",
-			"GroupId": "",
-			"Name": "左眼眼角"
+			"Id": "Param14",
+			"GroupId": "ParamGroup",
+			"Name": "右眉毛外"
+		},
+		{
+			"Id": "Param15",
+			"GroupId": "ParamGroup",
+			"Name": "右眉毛中"
+		},
+		{
+			"Id": "Param16",
+			"GroupId": "ParamGroup",
+			"Name": "右眉毛内"
+		},
+		{
+			"Id": "Param17",
+			"GroupId": "ParamGroup",
+			"Name": "左眉毛上下"
+		},
+		{
+			"Id": "Param23",
+			"GroupId": "ParamGroup",
+			"Name": "左眉毛变形"
+		},
+		{
+			"Id": "Param18",
+			"GroupId": "ParamGroup",
+			"Name": "左眉毛外"
+		},
+		{
+			"Id": "Param19",
+			"GroupId": "ParamGroup",
+			"Name": "左眉毛中"
+		},
+		{
+			"Id": "Param20",
+			"GroupId": "ParamGroup",
+			"Name": "左眉毛内"
 		},
 		{
 			"Id": "ParamEyeROpen",
-			"GroupId": "",
-			"Name": "右眼"
+			"GroupId": "ParamGroup2",
+			"Name": "右眼 开闭"
 		},
 		{
-			"Id": "ParamEyeRSmile",
-			"GroupId": "",
-			"Name": "右眼　微笑"
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup2",
+			"Name": "左眼 开闭"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "ParamGroup2",
+			"Name": "右上眼睑左"
 		},
 		{
 			"Id": "Param2",
-			"GroupId": "",
-			"Name": "右眼眼角"
+			"GroupId": "ParamGroup2",
+			"Name": "右上眼睑中"
 		},
 		{
-			"Id": "ParamBrowLForm",
-			"GroupId": "",
-			"Name": "左眉　変形"
+			"Id": "Param3",
+			"GroupId": "ParamGroup2",
+			"Name": "右上眼睑内"
 		},
 		{
-			"Id": "ParamBrowRForm",
-			"GroupId": "",
-			"Name": "右眉　変形"
+			"Id": "Param4",
+			"GroupId": "ParamGroup2",
+			"Name": "右下眼睑外"
 		},
 		{
-			"Id": "ParamBrowRForm2",
-			"GroupId": "",
-			"Name": "眉変形"
+			"Id": "Param5",
+			"GroupId": "ParamGroup2",
+			"Name": "右下眼睑中"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "ParamGroup2",
+			"Name": "右下眼睑内"
+		},
+		{
+			"Id": "Param40",
+			"GroupId": "ParamGroup2",
+			"Name": "右上眼睑 变形"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "ParamGroup2",
+			"Name": "左上眼睑外"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "ParamGroup2",
+			"Name": "左上眼角中"
+		},
+		{
+			"Id": "Param9",
+			"GroupId": "ParamGroup2",
+			"Name": "左上眼角内"
+		},
+		{
+			"Id": "Param10",
+			"GroupId": "ParamGroup2",
+			"Name": "左下眼睑外"
+		},
+		{
+			"Id": "Param11",
+			"GroupId": "ParamGroup2",
+			"Name": "左下眼睑中"
+		},
+		{
+			"Id": "Param12",
+			"GroupId": "ParamGroup2",
+			"Name": "左下眼睑内"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "ParamGroup2",
+			"Name": "右眼珠 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "ParamGroup2",
+			"Name": "左眼珠 X"
+		},
+		{
+			"Id": "Param24",
+			"GroupId": "ParamGroup2",
+			"Name": "右眼球大小"
+		},
+		{
+			"Id": "Param30",
+			"GroupId": "ParamGroup2",
+			"Name": "右眼球上下"
+		},
+		{
+			"Id": "Param26",
+			"GroupId": "ParamGroup2",
+			"Name": "右高光上下"
+		},
+		{
+			"Id": "Param25",
+			"GroupId": "ParamGroup2",
+			"Name": "左眼球大小"
+		},
+		{
+			"Id": "Param28",
+			"GroupId": "ParamGroup2",
+			"Name": "左眼球上下"
+		},
+		{
+			"Id": "Param29",
+			"GroupId": "ParamGroup2",
+			"Name": "左眼球高光上下"
 		},
 		{
 			"Id": "ParamMouthForm",
 			"GroupId": "",
-			"Name": "嘴部　变形"
+			"Name": "嘴 变形"
 		},
 		{
-			"Id": "ParamMouthForm2",
+			"Id": "Param33",
 			"GroupId": "",
-			"Name": "嘴部　变形2"
+			"Name": "嘴变形辅助"
 		},
 		{
 			"Id": "ParamMouthOpenY",
 			"GroupId": "",
-			"Name": "嘴巴　张开和闭合"
+			"Name": "嘴 开闭"
 		},
 		{
-			"Id": "Param8",
+			"Id": "Param21",
 			"GroupId": "",
-			"Name": "哭泣"
+			"Name": "Nervous"
 		},
 		{
-			"Id": "Param9",
+			"Id": "Param27",
 			"GroupId": "",
-			"Name": "紧张"
+			"Name": "Cry"
+		},
+		{
+			"Id": "Param31",
+			"GroupId": "",
+			"Name": "Angry"
+		},
+		{
+			"Id": "Param32",
+			"GroupId": "",
+			"Name": "Worry"
+		},
+		{
+			"Id": "Param35",
+			"GroupId": "",
+			"Name": "Panic"
+		},
+		{
+			"Id": "Param34",
+			"GroupId": "",
+			"Name": "Depressed"
+		},
+		{
+			"Id": "Param36",
+			"GroupId": "",
+			"Name": "Rage"
+		},
+		{
+			"Id": "Param37",
+			"GroupId": "",
+			"Name": "Ridicule"
+		},
+		{
+			"Id": "Param39",
+			"GroupId": "",
+			"Name": "Tender"
+		},
+		{
+			"Id": "Param41",
+			"GroupId": "",
+			"Name": "脸红"
 		}
 	],
-	"ParameterGroups": [],
-	"Parts": [
+	"ParameterGroups": [
 		{
-			"Id": "Part3",
-			"Name": "黑眼新增贴图.psd(未找到对应图层)"
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "眉"
 		},
 		{
-			"Id": "Part10",
-			"Name": "黑眼新增贴图.psd"
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "眼睛"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part15",
+			"Name": "脸红.png"
 		},
 		{
 			"Id": "Part",
-			"Name": "黑眼"
+			"Name": "Helpless无奈"
 		},
 		{
 			"Id": "Part2",
-			"Name": "头"
+			"Name": "Depressed颓唐"
+		},
+		{
+			"Id": "Part3",
+			"Name": "Awkward别扭"
+		},
+		{
+			"Id": "Part4",
+			"Name": "Panic动摇"
+		},
+		{
+			"Id": "Part5",
+			"Name": "Surprised惊讶"
+		},
+		{
+			"Id": "Part6",
+			"Name": "Confused困惑"
+		},
+		{
+			"Id": "Part7",
+			"Name": "Worry 担忧"
+		},
+		{
+			"Id": "Part8",
+			"Name": "Lost失落"
+		},
+		{
+			"Id": "Part9",
+			"Name": "Angry不悦"
+		},
+		{
+			"Id": "Part10",
+			"Name": "Serious认真"
+		},
+		{
+			"Id": "Part11",
+			"Name": "Tender温柔"
+		},
+		{
+			"Id": "Part12",
+			"Name": "Cry哭泣"
+		},
+		{
+			"Id": "Part13",
+			"Name": "Nervous紧张"
+		},
+		{
+			"Id": "Part14",
+			"Name": "Idle待机"
+		},
+		{
+			"Id": "PartSketch0",
+			"Name": "[ 参考图 ]"
+		},
+		{
+			"Id": "Helpless_kaikou",
+			"Name": "Helpless_kaikou"
+		},
+		{
+			"Id": "Helpless_bikou",
+			"Name": "Helpless_bikou"
+		},
+		{
+			"Id": "Helpless_zuoyan",
+			"Name": "Helpless_zuoyan"
+		},
+		{
+			"Id": "Helpless_youyan",
+			"Name": "Helpless_youyan"
+		},
+		{
+			"Id": "Depressed_kaikou",
+			"Name": "Depressed_kaikou"
+		},
+		{
+			"Id": "Depressed_bikou",
+			"Name": "Depressed_bikou"
+		},
+		{
+			"Id": "Depressed_zuoyan",
+			"Name": "Depressed_zuoyan"
+		},
+		{
+			"Id": "Depressed_youyan",
+			"Name": "Depressed_youyan"
+		},
+		{
+			"Id": "Awkward_kaikou",
+			"Name": "Awkward_kaikou"
+		},
+		{
+			"Id": "Awkward_bikou",
+			"Name": "Awkward_bikou"
+		},
+		{
+			"Id": "Awkward_zuoyan",
+			"Name": "Awkward_zuoyan"
+		},
+		{
+			"Id": "Awkward_youyan",
+			"Name": "Awkward_youyan"
+		},
+		{
+			"Id": "Panic_kaikou",
+			"Name": "Panic_kaikou"
+		},
+		{
+			"Id": "Panic_bikou",
+			"Name": "Panic_bikou"
+		},
+		{
+			"Id": "Panic_zuoyan",
+			"Name": "Panic_zuoyan"
+		},
+		{
+			"Id": "Panic_youuyan",
+			"Name": "Panic_youuyan"
+		},
+		{
+			"Id": "Surprised_kaikou",
+			"Name": "Surprised_kaikou"
+		},
+		{
+			"Id": "Surprised_bikou",
+			"Name": "Surprised_bikou"
+		},
+		{
+			"Id": "Surprised_zuoyan",
+			"Name": "Surprised_zuoyan"
+		},
+		{
+			"Id": "Surprised_youyan",
+			"Name": "Surprised_youyan"
+		},
+		{
+			"Id": "Confused_kaikou",
+			"Name": "Confused_kaikou"
+		},
+		{
+			"Id": "Confused_bikou",
+			"Name": "Confused_bikou"
+		},
+		{
+			"Id": "Confused_zuoyan",
+			"Name": "Confused_zuoyan"
+		},
+		{
+			"Id": "Confused_youyan",
+			"Name": "Confused_youyan"
+		},
+		{
+			"Id": "Worry_kaikou",
+			"Name": "Worry_kaikou"
+		},
+		{
+			"Id": "Worry_bikou",
+			"Name": "Worry_bikou"
+		},
+		{
+			"Id": "Worry_zuoyan",
+			"Name": "Worry_zuoyan"
+		},
+		{
+			"Id": "Worry_youyan",
+			"Name": "Worry_youyan"
+		},
+		{
+			"Id": "Lost_kaikou",
+			"Name": "Lost_kaikou"
+		},
+		{
+			"Id": "Lost_bikou",
+			"Name": "Lost_bikou"
+		},
+		{
+			"Id": "Angry_kaikou",
+			"Name": "Angry_kaikou"
+		},
+		{
+			"Id": "Angry_bikou",
+			"Name": "Angry_bikou"
+		},
+		{
+			"Id": "Angry_zuoyan",
+			"Name": "Angry_zuoyan"
+		},
+		{
+			"Id": "Angry_youyan",
+			"Name": "Angry_youyan"
+		},
+		{
+			"Id": "Serious_kaikou",
+			"Name": "Serious_kaikou"
+		},
+		{
+			"Id": "Serious_bikou",
+			"Name": "Serious_bikou"
+		},
+		{
+			"Id": "Serious_zuoyan",
+			"Name": "Serious_zuoyan"
+		},
+		{
+			"Id": "Serious_youyan",
+			"Name": "Serious_youyan"
+		},
+		{
+			"Id": "Tender_kaikou",
+			"Name": "Tender_kaikou"
+		},
+		{
+			"Id": "Tender_bikou",
+			"Name": "Tender_bikou"
+		},
+		{
+			"Id": "Tender_zuoyan",
+			"Name": "Tender_zuoyan"
+		},
+		{
+			"Id": "Tender_youyan",
+			"Name": "Tender_youyan"
+		},
+		{
+			"Id": "Cry_kaikou",
+			"Name": "Cry_kaikou"
+		},
+		{
+			"Id": "Cry_bizui",
+			"Name": "Cry_bizui"
+		},
+		{
+			"Id": "Cry_zuoyan",
+			"Name": "Cry_zuoyan"
+		},
+		{
+			"Id": "Cry_youyan",
+			"Name": "Cry_youyan"
+		},
+		{
+			"Id": "Nervous_lei",
+			"Name": "Nervous_lei"
+		},
+		{
+			"Id": "Nervous_kaikou",
+			"Name": "Nervous_kaikou"
+		},
+		{
+			"Id": "Nervous_bikou",
+			"Name": "Nervous_bikou"
+		},
+		{
+			"Id": "Nervous_zuoyan",
+			"Name": "Nervous_zuoyan"
+		},
+		{
+			"Id": "Nervous_youyan",
+			"Name": "Nervous_youyan"
+		},
+		{
+			"Id": "Idle_kaikou",
+			"Name": "Idle_kaikou"
+		},
+		{
+			"Id": "Idle_bikou",
+			"Name": "Idle_bikou"
+		},
+		{
+			"Id": "Idle_zuoyan",
+			"Name": "Idle_zuoyan"
+		},
+		{
+			"Id": "Idle_youyan",
+			"Name": "Idle_youyan"
 		}
 	]
 }

@@ -27,6 +27,31 @@
 			"Name": "左眼角收缩"
 		},
 		{
+			"Id": "Param18",
+			"GroupId": "",
+			"Name": "左眼眶"
+		},
+		{
+			"Id": "Param23",
+			"GroupId": "",
+			"Name": "左眼眶2"
+		},
+		{
+			"Id": "Param24",
+			"GroupId": "",
+			"Name": "左眼眶3"
+		},
+		{
+			"Id": "Param26",
+			"GroupId": "",
+			"Name": "左眼眶4"
+		},
+		{
+			"Id": "Param27",
+			"GroupId": "",
+			"Name": "左双眼皮线"
+		},
+		{
 			"Id": "ParamEyeROpen",
 			"GroupId": "",
 			"Name": "右眼"
@@ -35,6 +60,11 @@
 			"Id": "ParamEyeRSmile",
 			"GroupId": "",
 			"Name": "右眼　微笑"
+		},
+		{
+			"Id": "ParamEyeRSmile2",
+			"GroupId": "",
+			"Name": "右眼　微笑2"
 		},
 		{
 			"Id": "Param3",
@@ -52,6 +82,21 @@
 			"Name": "右眼角收缩"
 		},
 		{
+			"Id": "Param19",
+			"GroupId": "",
+			"Name": "右眼眶"
+		},
+		{
+			"Id": "Param25",
+			"GroupId": "",
+			"Name": "右眼眶2"
+		},
+		{
+			"Id": "Param28",
+			"GroupId": "",
+			"Name": "右下眼皮变形"
+		},
+		{
 			"Id": "ParamEyeBallX",
 			"GroupId": "",
 			"Name": "眼球 X"
@@ -62,14 +107,49 @@
 			"Name": "眼球 Y"
 		},
 		{
+			"Id": "EyeHL4",
+			"GroupId": "",
+			"Name": "兴奋"
+		},
+		{
+			"Id": "EyeHL5",
+			"GroupId": "",
+			"Name": "兴奋2"
+		},
+		{
 			"Id": "EyeHL",
 			"GroupId": "",
 			"Name": "高光"
 		},
 		{
+			"Id": "Angry2",
+			"GroupId": "",
+			"Name": "挣扎"
+		},
+		{
+			"Id": "EyeHL2",
+			"GroupId": "",
+			"Name": "挣扎2"
+		},
+		{
+			"Id": "Param22",
+			"GroupId": "",
+			"Name": "挣扎2"
+		},
+		{
+			"Id": "EyeHL3",
+			"GroupId": "",
+			"Name": "消沉"
+		},
+		{
 			"Id": "Angry",
 			"GroupId": "",
 			"Name": "生气"
+		},
+		{
+			"Id": "Angry3",
+			"GroupId": "",
+			"Name": "痛苦"
 		},
 		{
 			"Id": "EyeSize",
@@ -122,24 +202,9 @@
 			"Name": "左眉上下"
 		},
 		{
-			"Id": "ParamBrowRX",
-			"GroupId": "",
-			"Name": "右眉　左右"
-		},
-		{
-			"Id": "ParamBrowRY",
-			"GroupId": "",
-			"Name": "右眉　上下"
-		},
-		{
 			"Id": "ParamBrowLAngle",
 			"GroupId": "",
 			"Name": "左眉　角度"
-		},
-		{
-			"Id": "ParamBrowRAngle",
-			"GroupId": "",
-			"Name": "右眉　角度"
 		},
 		{
 			"Id": "ParamBrowLForm",
@@ -152,6 +217,21 @@
 			"Name": "左眉1"
 		},
 		{
+			"Id": "ParamBrowRX",
+			"GroupId": "",
+			"Name": "右眉　左右"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "",
+			"Name": "右眉　上下"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "",
+			"Name": "右眉　角度"
+		},
+		{
 			"Id": "ParamBrowRForm",
 			"GroupId": "",
 			"Name": "右眉　変形"
@@ -160,16 +240,6 @@
 			"Id": "Param20",
 			"GroupId": "",
 			"Name": "右眉1"
-		},
-		{
-			"Id": "Param18",
-			"GroupId": "",
-			"Name": "左眼眶"
-		},
-		{
-			"Id": "Param19",
-			"GroupId": "",
-			"Name": "右眼眶"
 		},
 		{
 			"Id": "Param10",
@@ -209,11 +279,10 @@
 			"Name": "Folder 1"
 		}
 	],
-	"Parts": [],
-	"CombinedParameters": [
-		[
-			"ParamEyeBallX",
-			"ParamEyeBallY"
-		]
+	"Parts": [
+		{
+			"Id": "PartSketch0",
+			"Name": "[ 参考图 ]"
+		}
 	]
 }

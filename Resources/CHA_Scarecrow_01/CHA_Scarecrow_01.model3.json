@@ -1,0 +1,33 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_Scarecrow_01.moc3",
+		"Textures": [
+			"CHA_Scarecrow_01.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_Scarecrow_01.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "EMO_Scarecrow_Idle_01.exp3.json",
+				"File": "expresstions/EMO_Scarecrow_Idle_01.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		}
+	],
+	"HitAreas": []
+}

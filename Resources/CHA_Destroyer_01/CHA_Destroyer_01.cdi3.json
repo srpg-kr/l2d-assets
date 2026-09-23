@@ -12,6 +12,31 @@
 			"Name": "左眼　开闭"
 		},
 		{
+			"Id": "Param21",
+			"GroupId": "ParamGroup4",
+			"Name": "害羞"
+		},
+		{
+			"Id": "Param24",
+			"GroupId": "ParamGroup4",
+			"Name": "别扭"
+		},
+		{
+			"Id": "Param26",
+			"GroupId": "ParamGroup4",
+			"Name": "哭"
+		},
+		{
+			"Id": "Param25",
+			"GroupId": "ParamGroup4",
+			"Name": "坏笑"
+		},
+		{
+			"Id": "Param23",
+			"GroupId": "ParamGroup4",
+			"Name": "兴奋"
+		},
+		{
 			"Id": "Param19",
 			"GroupId": "ParamGroup4",
 			"Name": "愤怒"
@@ -25,6 +50,11 @@
 			"Id": "Param22",
 			"GroupId": "ParamGroup4",
 			"Name": "微笑"
+		},
+		{
+			"Id": "Param27",
+			"GroupId": "ParamGroup4",
+			"Name": "下睫毛"
 		},
 		{
 			"Id": "ParamBrowLX",
@@ -72,6 +102,11 @@
 			"Name": "怒惊待笑"
 		},
 		{
+			"Id": "ParamMouthForm2",
+			"GroupId": "ParamGroup3",
+			"Name": "变"
+		},
+		{
 			"Id": "ParamMouthOpenY",
 			"GroupId": "ParamGroup3",
 			"Name": "嘴　张开和闭合"
@@ -96,12 +131,20 @@
 	],
 	"Parts": [
 		{
+			"Id": "Part4",
+			"Name": "CHA_Destroyer_01.psd(未找到对应图层)"
+		},
+		{
 			"Id": "Part2",
 			"Name": "CHA_Destroyer_01.psd"
 		},
 		{
 			"Id": "Part9",
 			"Name": "CHA_Sakura_SSR_01.psd"
+		},
+		{
+			"Id": "Part",
+			"Name": "加"
 		}
 	]
 }

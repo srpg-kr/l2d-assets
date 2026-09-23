@@ -12,12 +12,32 @@
 				"File": "expressions/EMO_Destroyer_Angry_01.exp3.json"
 			},
 			{
+				"Name": "EMO_Destroyer_Awkward_01",
+				"File": "expressions/EMO_Destroyer_Awkward_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Destroyer_Cry_01",
+				"File": "expressions/EMO_Destroyer_Cry_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Destroyer_Excited_01",
+				"File": "expressions/EMO_Destroyer_Excited_01.exp3.json"
+			},
+			{
 				"Name": "EMO_Destroyer_Idle_01",
 				"File": "expressions/EMO_Destroyer_Idle_01.exp3.json"
 			},
 			{
+				"Name": "EMO_Destroyer_Shy_01",
+				"File": "expressions/EMO_Destroyer_Shy_01.exp3.json"
+			},
+			{
 				"Name": "EMO_Destroyer_Smile_01",
 				"File": "expressions/EMO_Destroyer_Smile_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Destroyer_Smirk_01",
+				"File": "expressions/EMO_Destroyer_Smirk_01.exp3.json"
 			},
 			{
 				"Name": "EMO_Destroyer_Surprised_01",
@@ -28,17 +48,17 @@
 	"Groups": [
 		{
 			"Target": "Parameter",
-			"Name": "EyeBlink",
+			"Name": "LipSync",
 			"Ids": [
-				"ParamEyeLOpen",
-				"ParamEyeROpen"
+				"ParamMouthOpenY"
 			]
 		},
 		{
 			"Target": "Parameter",
-			"Name": "LipSync",
+			"Name": "EyeBlink",
 			"Ids": [
-				"ParamMouthOpenY"
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
 			]
 		}
 	],

@@ -8,52 +8,86 @@
 		"DisplayInfo": "CHA_Kalina_Suit_Daily_01.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "EMO_Kalina_Helpless_01.exp3.json",
+				"Name": "EMO_Kalina_Amazing_01",
+				"File": "expressions/EMO_Kalina_Amazing_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Kalina_Blood_01",
+				"File": "expressions/EMO_Kalina_Blood_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Kalina_Cry_01",
+				"File": "expressions/EMO_Kalina_Cry_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Kalina_Cry_02_01",
+				"File": "expressions/EMO_Kalina_Cry_02_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Kalina_Determined_01",
+				"File": "expressions/EMO_Kalina_Determined_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Kalina_Drunk_01",
+				"File": "expressions/EMO_Kalina_Drunk_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Kalina_Helpless_01",
 				"File": "expressions/EMO_Kalina_Helpless_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Kalina_Idle_01.exp3.json",
+				"Name": "EMO_Kalina_Idle_01",
 				"File": "expressions/EMO_Kalina_Idle_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Kalina_Indifferent_01.exp3.json",
+				"Name": "EMO_Kalina_Indifferent_01",
 				"File": "expressions/EMO_Kalina_Indifferent_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Kalina_Sneer_01.exp3.json",
+				"Name": "EMO_Kalina_Shame_01",
+				"File": "expressions/EMO_Kalina_Shame_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Kalina_Sneer_01",
 				"File": "expressions/EMO_Kalina_Sneer_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Kalina_Solemn_01.exp3.json",
+				"Name": "EMO_Kalina_Solemn_01",
 				"File": "expressions/EMO_Kalina_Solemn_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Kalina_Surprised_01.exp3.json",
+				"Name": "EMO_Kalina_Surprised_01",
 				"File": "expressions/EMO_Kalina_Surprised_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Kalina_Tender_01.exp3.json",
+				"Name": "EMO_Kalina_Tender_01",
 				"File": "expressions/EMO_Kalina_Tender_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Kalina_Think_01.exp3.json",
+				"Name": "EMO_Kalina_Think_01",
 				"File": "expressions/EMO_Kalina_Think_01.exp3.json"
 			},
 			{
-				"Name": "EMO_Kalina_Worry_01.exp3.json",
+				"Name": "EMO_Kalina_Worry_01",
 				"File": "expressions/EMO_Kalina_Worry_01.exp3.json"
 			}
 		],
 		"Motions": {
 			"": [
 				{
-					"File": "motions/Mouthopen_10s.motion3.json"
+					"File": "motions/Mouthopen_10s.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
 				},
 				{
-					"File": "motions/Mouthopen_2s.motion3.json"
+					"File": "motions/Mouthopen_2s.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
 				},
 				{
-					"File": "motions/Mouthopen_5s.motion3.json"
+					"File": "motions/Mouthopen_5s.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
 				}
 			]
 		}

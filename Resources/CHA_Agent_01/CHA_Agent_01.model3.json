@@ -8,12 +8,64 @@
 		"DisplayInfo": "CHA_Agent_01.cdi3.json",
 		"Expressions": [
 			{
+				"Name": "EMO_Agent_Angry_01.exp3",
+				"File": "expressions/EMO_Agent_Angry_01.exp3.exp3.json"
+			},
+			{
+				"Name": "EMO_Agent_Embarrassed_01.exp3",
+				"File": "expressions/EMO_Agent_Embarrassed_01.exp3.exp3.json"
+			},
+			{
+				"Name": "EMO_Agent_Happy_01.exp3",
+				"File": "expressions/EMO_Agent_Happy_01.exp3.exp3.json"
+			},
+			{
 				"Name": "EMO_Agent_Idle_01.exp3",
 				"File": "expressions/EMO_Agent_Idle_01.exp3.exp3.json"
 			},
 			{
+				"Name": "EMO_Agent_Injury_01.exp3",
+				"File": "expressions/EMO_Agent_Injury_01.exp3.exp3.json"
+			},
+			{
+				"Name": "EMO_Agent_Pain_01.exp3",
+				"File": "expressions/EMO_Agent_Pain_01.exp3.exp3.json"
+			},
+			{
+				"Name": "EMO_Agent_Ridicule_01.exp3",
+				"File": "expressions/EMO_Agent_Ridicule_01.exp3.exp3.json"
+			},
+			{
+				"Name": "EMO_Agent_Sad_01.exp3",
+				"File": "expressions/EMO_Agent_Sad_01.exp3.exp3.json"
+			},
+			{
+				"Name": "EMO_Agent_Serious_01.exp3",
+				"File": "expressions/EMO_Agent_Serious_01.exp3.exp3.json"
+			},
+			{
+				"Name": "EMO_Agent_Shy_01.exp3",
+				"File": "expressions/EMO_Agent_Shy_01.exp3.exp3.json"
+			},
+			{
 				"Name": "EMO_Agent_Smile_01.exp3",
 				"File": "expressions/EMO_Agent_Smile_01.exp3.exp3.json"
+			},
+			{
+				"Name": "EMO_Agent_Surprised_01.exp3",
+				"File": "expressions/EMO_Agent_Surprised_01.exp3.exp3.json"
+			},
+			{
+				"Name": "EMO_Agent_Tender_01.exp3",
+				"File": "expressions/EMO_Agent_Tender_01.exp3.exp3.json"
+			},
+			{
+				"Name": "EMO_Agent_Think_01.exp3",
+				"File": "expressions/EMO_Agent_Think_01.exp3.exp3.json"
+			},
+			{
+				"Name": "EMO_Agent_Worry_01.exp3",
+				"File": "expressions/EMO_Agent_Worry_01.exp3.exp3.json"
 			}
 		],
 		"Motions": {
@@ -39,17 +91,17 @@
 	"Groups": [
 		{
 			"Target": "Parameter",
-			"Name": "EyeBlink",
+			"Name": "LipSync",
 			"Ids": [
-				"ParamEyeLOpen",
-				"ParamEyeROpen"
+				"ParamMouthOpenY"
 			]
 		},
 		{
 			"Target": "Parameter",
-			"Name": "LipSync",
+			"Name": "EyeBlink",
 			"Ids": [
-				"ParamMouthOpenY"
+				"ParamEyeROpen",
+				"ParamEyeLOpen"
 			]
 		}
 	],

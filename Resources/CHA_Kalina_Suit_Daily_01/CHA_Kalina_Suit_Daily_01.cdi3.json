@@ -2,163 +2,459 @@
 	"Version": 3,
 	"Parameters": [
 		{
-			"Id": "Param9",
+			"Id": "Param",
 			"GroupId": "",
+			"Name": "位置"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "参考切"
+		},
+		{
+			"Id": "Param9",
+			"GroupId": "ParamGroup",
 			"Name": "高光转"
 		},
 		{
 			"Id": "Param13",
-			"GroupId": "",
+			"GroupId": "ParamGroup",
 			"Name": "担心泪光"
 		},
 		{
 			"Id": "Param14",
-			"GroupId": "",
+			"GroupId": "ParamGroup",
 			"Name": "冷笑阴影"
 		},
 		{
+			"Id": "Paramtx",
+			"GroupId": "ParamGroup",
+			"Name": "血"
+		},
+		{
+			"Id": "Paramtx2",
+			"GroupId": "ParamGroup",
+			"Name": "战斗"
+		},
+		{
+			"Id": "Param32",
+			"GroupId": "ParamGroup",
+			"Name": "惭愧"
+		},
+		{
+			"Id": "Param38",
+			"GroupId": "ParamGroup",
+			"Name": "醉酒"
+		},
+		{
+			"Id": "Param42",
+			"GroupId": "ParamGroup",
+			"Name": "哭泣"
+		},
+		{
+			"Id": "Param4566",
+			"GroupId": "ParamGroup",
+			"Name": "哭泣2"
+		},
+		{
+			"Id": "Param48",
+			"GroupId": "ParamGroup",
+			"Name": "惊讶"
+		},
+		{
 			"Id": "ParamEyeLOpen",
-			"GroupId": "",
-			"Name": "左眼　开闭"
+			"GroupId": "ParamGroup2",
+			"Name": "R眼　开闭"
 		},
 		{
 			"Id": "ParamEyeLSmile",
-			"GroupId": "",
-			"Name": "左眼　微笑"
+			"GroupId": "ParamGroup2",
+			"Name": "R眼　微笑"
 		},
 		{
 			"Id": "ParamEyeROpen",
-			"GroupId": "",
-			"Name": "右眼　开闭"
+			"GroupId": "ParamGroup2",
+			"Name": "L眼　开闭"
 		},
 		{
 			"Id": "ParamEyeRSmile",
-			"GroupId": "",
-			"Name": "右眼　微笑"
-		},
-		{
-			"Id": "Param10",
-			"GroupId": "",
-			"Name": "L眼眶 冷淡惊讶"
+			"GroupId": "ParamGroup2",
+			"Name": "L眼　微笑"
 		},
 		{
 			"Id": "Param6",
-			"GroupId": "",
+			"GroupId": "ParamGroup2",
+			"Name": "L眼眶 冷淡惊讶"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "ParamGroup2",
+			"Name": "L上眼皮"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "ParamGroup2",
+			"Name": "L下眼皮"
+		},
+		{
+			"Id": "Param15",
+			"GroupId": "ParamGroup2",
+			"Name": "L下眼皮+"
+		},
+		{
+			"Id": "Param21",
+			"GroupId": "ParamGroup2",
+			"Name": "L上睫毛Y"
+		},
+		{
+			"Id": "Param22",
+			"GroupId": "ParamGroup2",
+			"Name": "L眼头变形"
+		},
+		{
+			"Id": "Param23",
+			"GroupId": "ParamGroup2",
+			"Name": "L眼尾变形"
+		},
+		{
+			"Id": "Param27",
+			"GroupId": "ParamGroup2",
+			"Name": "L上睫毛内修"
+		},
+		{
+			"Id": "Param31",
+			"GroupId": "ParamGroup2",
+			"Name": "L双眼皮X"
+		},
+		{
+			"Id": "Param28",
+			"GroupId": "ParamGroup2",
+			"Name": "L双眼皮Y"
+		},
+		{
+			"Id": "Param29",
+			"GroupId": "ParamGroup2",
+			"Name": "L双眼皮Z"
+		},
+		{
+			"Id": "Param30",
+			"GroupId": "ParamGroup2",
+			"Name": "L双眼皮变形"
+		},
+		{
+			"Id": "Param41",
+			"GroupId": "ParamGroup2",
+			"Name": "眼头阴影"
+		},
+		{
+			"Id": "Param10",
+			"GroupId": "ParamGroup2",
 			"Name": "R眼眶 冷淡惊讶"
 		},
 		{
 			"Id": "Param11",
-			"GroupId": "",
-			"Name": "L上眼皮"
-		},
-		{
-			"Id": "Param12",
-			"GroupId": "",
-			"Name": "L下眼皮"
-		},
-		{
-			"Id": "Param7",
-			"GroupId": "",
+			"GroupId": "ParamGroup2",
 			"Name": "R上眼皮"
 		},
 		{
-			"Id": "Param8",
-			"GroupId": "",
+			"Id": "Param50",
+			"GroupId": "ParamGroup2",
+			"Name": "R上眼皮2"
+		},
+		{
+			"Id": "Param12",
+			"GroupId": "ParamGroup2",
 			"Name": "R下眼皮"
 		},
 		{
-			"Id": "Param15",
-			"GroupId": "",
-			"Name": "R下眼皮+"
+			"Id": "Param43",
+			"GroupId": "ParamGroup2",
+			"Name": "R下睫毛变形"
+		},
+		{
+			"Id": "Param24",
+			"GroupId": "ParamGroup2",
+			"Name": "R上睫毛Y"
+		},
+		{
+			"Id": "Param25",
+			"GroupId": "ParamGroup2",
+			"Name": "R眼头变形"
+		},
+		{
+			"Id": "Param44",
+			"GroupId": "ParamGroup2",
+			"Name": "R眼头变形2"
+		},
+		{
+			"Id": "Param26",
+			"GroupId": "ParamGroup2",
+			"Name": "R眼尾变形"
+		},
+		{
+			"Id": "Param33",
+			"GroupId": "ParamGroup2",
+			"Name": "R双眼皮X"
+		},
+		{
+			"Id": "Param34",
+			"GroupId": "ParamGroup2",
+			"Name": "R双眼皮Y"
+		},
+		{
+			"Id": "Param35",
+			"GroupId": "ParamGroup2",
+			"Name": "R双眼皮Z"
+		},
+		{
+			"Id": "Param36",
+			"GroupId": "ParamGroup2",
+			"Name": "R双眼皮变形"
+		},
+		{
+			"Id": "Param37",
+			"GroupId": "ParamGroup2",
+			"Name": "R双眼皮尾拉伸"
 		},
 		{
 			"Id": "ParamEyeBallX",
-			"GroupId": "",
+			"GroupId": "ParamGroup2",
 			"Name": "眼珠 X"
 		},
 		{
 			"Id": "ParamEyeBallY",
-			"GroupId": "",
+			"GroupId": "ParamGroup2",
 			"Name": "眼珠 Y"
 		},
 		{
+			"Id": "ParamEyeBallY2",
+			"GroupId": "ParamGroup2",
+			"Name": "眼珠 Y2"
+		},
+		{
+			"Id": "Param49",
+			"GroupId": "ParamGroup2",
+			"Name": "眼珠缩放"
+		},
+		{
+			"Id": "ParamBrowRY2",
+			"GroupId": "ParamGroup3",
+			"Name": "L眉X"
+		},
+		{
 			"Id": "ParamBrowRY",
-			"GroupId": "",
-			"Name": "右眉　上下"
+			"GroupId": "ParamGroup3",
+			"Name": "L眉Y"
+		},
+		{
+			"Id": "ParamBrowRY3",
+			"GroupId": "ParamGroup3",
+			"Name": "L眉Y2"
 		},
 		{
 			"Id": "ParamBrowRAngle",
-			"GroupId": "",
-			"Name": "右眉　角度"
+			"GroupId": "ParamGroup3",
+			"Name": "L眉　角度"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "ParamGroup3",
+			"Name": "L眉头变形"
+		},
+		{
+			"Id": "Param46",
+			"GroupId": "ParamGroup3",
+			"Name": "L眉头变形"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "ParamGroup3",
+			"Name": "L眉尾变形"
+		},
+		{
+			"Id": "Param51",
+			"GroupId": "ParamGroup3",
+			"Name": "L眉尾变形2"
+		},
+		{
+			"Id": "Param16",
+			"GroupId": "ParamGroup3",
+			"Name": "L眉尾长度"
+		},
+		{
+			"Id": "Param40",
+			"GroupId": "ParamGroup3",
+			"Name": "L眉头粗细"
+		},
+		{
+			"Id": "Param39",
+			"GroupId": "ParamGroup3",
+			"Name": "L眉尾粗细"
 		},
 		{
 			"Id": "ParamBrowRForm",
-			"GroupId": "",
-			"Name": "右眉　変形1"
+			"GroupId": "ParamGroup3",
+			"Name": "L眉　変形1"
 		},
 		{
 			"Id": "ParamBrowRForm2",
-			"GroupId": "",
-			"Name": "右眉　変形2"
-		},
-		{
-			"Id": "ParamBrowLY",
-			"GroupId": "",
-			"Name": "左眉上下"
-		},
-		{
-			"Id": "ParamBrowLAngle",
-			"GroupId": "",
-			"Name": "左眉　角度"
-		},
-		{
-			"Id": "ParamBrowLForm",
-			"GroupId": "",
-			"Name": "左眉　変形1"
-		},
-		{
-			"Id": "ParamBrowLForm2",
-			"GroupId": "",
-			"Name": "左眉　変形2"
+			"GroupId": "ParamGroup3",
+			"Name": "L眉　変形2"
 		},
 		{
 			"Id": "ParamBrowLAngle2",
-			"GroupId": "",
-			"Name": "左眉　左右"
+			"GroupId": "ParamGroup3",
+			"Name": "R眉　左右"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "ParamGroup3",
+			"Name": "R眉上下"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "ParamGroup3",
+			"Name": "R眉　角度"
+		},
+		{
+			"Id": "Param17",
+			"GroupId": "ParamGroup3",
+			"Name": "R眉头变形"
+		},
+		{
+			"Id": "Param52",
+			"GroupId": "ParamGroup3",
+			"Name": "R眉头变形2"
+		},
+		{
+			"Id": "Param18",
+			"GroupId": "ParamGroup3",
+			"Name": "R眉尾变形"
+		},
+		{
+			"Id": "Param19",
+			"GroupId": "ParamGroup3",
+			"Name": "R眉尾长度"
+		},
+		{
+			"Id": "Param47",
+			"GroupId": "ParamGroup3",
+			"Name": "R眉头粗细"
+		},
+		{
+			"Id": "Param20",
+			"GroupId": "ParamGroup3",
+			"Name": "R眉尾粗细"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "ParamGroup3",
+			"Name": "R眉　変形1"
+		},
+		{
+			"Id": "ParamBrowLForm2",
+			"GroupId": "ParamGroup3",
+			"Name": "R眉　変形2"
 		},
 		{
 			"Id": "ParamMouthForm",
-			"GroupId": "",
+			"GroupId": "ParamGroup4",
 			"Name": "嘴　变形1"
 		},
 		{
 			"Id": "Param5",
-			"GroupId": "",
+			"GroupId": "ParamGroup4",
 			"Name": "嘴 变形2"
 		},
 		{
+			"Id": "Param53",
+			"GroupId": "ParamGroup4",
+			"Name": "嘴 变形3"
+		},
+		{
 			"Id": "ParamMouthOpenY",
-			"GroupId": "",
+			"GroupId": "ParamGroup4",
 			"Name": "嘴　张开和闭合"
 		}
 	],
-	"ParameterGroups": [],
-	"Parts": [
+	"ParameterGroups": [
 		{
-			"Id": "Part10",
-			"Name": "格林娜 尺寸 拆分.psd(未找到对应图层)"
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "表情素材"
 		},
 		{
-			"Id": "Part",
-			"Name": "五官"
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "眼"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "眉"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "嘴"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part36",
+			"Name": "CHA_Kalina_NPC_01.psd"
+		},
+		{
+			"Id": "Part37",
+			"Name": "原"
 		},
 		{
 			"Id": "PartSketch0",
 			"Name": "[ 参考图 ]"
 		},
 		{
+			"Id": "Part6",
+			"Name": "Drunk醉酒 新增"
+		},
+		{
 			"Id": "Part9",
-			"Name": "图层组2"
+			"Name": "Cry哭泣 新"
+		},
+		{
+			"Id": "Part10",
+			"Name": "Amazing惊讶 新"
+		},
+		{
+			"Id": "Part11",
+			"Name": "Shame惭愧 新"
+		},
+		{
+			"Id": "Part",
+			"Name": "五官"
+		},
+		{
+			"Id": "Part7",
+			"Name": "Drunk_saihong"
+		},
+		{
+			"Id": "Cry_zuoyan2",
+			"Name": "Cry_zuoyan"
+		},
+		{
+			"Id": "Cry_youyan2",
+			"Name": "Cry_youyan"
+		},
+		{
+			"Id": "Amazing_saihong",
+			"Name": "Amazing_saihong"
+		},
+		{
+			"Id": "Shame_saihong",
+			"Name": "Shame_saihong"
+		},
+		{
+			"Id": "Part8",
+			"Name": "Drunk_youyan"
 		},
 		{
 			"Id": "Part2",
@@ -171,28 +467,14 @@
 		{
 			"Id": "Part4",
 			"Name": "右眼"
+		},
+		{
+			"Id": "Shame_zuoyan",
+			"Name": "Shame_zuoyan"
+		},
+		{
+			"Id": "Shame_youyan",
+			"Name": "Shame_youyan"
 		}
-	],
-	"CombinedParameters": [
-		[
-			"ParamBrowRY",
-			"ParamBrowRAngle"
-		],
-		[
-			"ParamBrowRForm",
-			"ParamBrowRForm2"
-		],
-		[
-			"ParamBrowLY",
-			"ParamBrowLAngle"
-		],
-		[
-			"ParamBrowLForm",
-			"ParamBrowLForm2"
-		],
-		[
-			"ParamMouthForm",
-			"Param5"
-		]
 	]
 }

@@ -12,6 +12,36 @@
 			"Name": "左眼　开闭"
 		},
 		{
+			"Id": "Param21",
+			"GroupId": "ParamGroup4",
+			"Name": "绝望"
+		},
+		{
+			"Id": "Param24",
+			"GroupId": "ParamGroup4",
+			"Name": "担忧"
+		},
+		{
+			"Id": "Param25",
+			"GroupId": "ParamGroup4",
+			"Name": "愤怒"
+		},
+		{
+			"Id": "Param26",
+			"GroupId": "ParamGroup4",
+			"Name": "别扭"
+		},
+		{
+			"Id": "Param23",
+			"GroupId": "ParamGroup4",
+			"Name": "兴奋"
+		},
+		{
+			"Id": "Param27",
+			"GroupId": "ParamGroup4",
+			"Name": "嘲讽"
+		},
+		{
 			"Id": "Param20",
 			"GroupId": "ParamGroup4",
 			"Name": "惊讶"
@@ -67,6 +97,11 @@
 			"Name": "待惊严"
 		},
 		{
+			"Id": "ParamMouthForm2",
+			"GroupId": "ParamGroup3",
+			"Name": "嘴变"
+		},
+		{
 			"Id": "ParamMouthOpenY",
 			"GroupId": "ParamGroup3",
 			"Name": "嘴　张开和闭合"
@@ -91,12 +126,24 @@
 	],
 	"Parts": [
 		{
+			"Id": "Part8",
+			"Name": "CHA_Dreamer_01.psd(未找到对应图层)"
+		},
+		{
 			"Id": "Part5",
 			"Name": "CHA_Dreamer_01.psd"
 		},
 		{
 			"Id": "Part2",
 			"Name": "CHA_Destroyer_01.psd"
+		},
+		{
+			"Id": "Part3",
+			"Name": "参考"
+		},
+		{
+			"Id": "Part",
+			"Name": "图层组1"
 		},
 		{
 			"Id": "Part4",
