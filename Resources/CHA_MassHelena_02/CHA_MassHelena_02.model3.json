@@ -1,0 +1,58 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_MassHelena_02.moc3",
+		"Textures": [
+			"CHA_MassHelena_02.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_MassHelena_02.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "EMO_O-201_Cute_01",
+				"File": "expressions/EMO_O-201_Cute_01.exp3.json"
+			},
+			{
+				"Name": "EMO_O-201_Embarrassed_01",
+				"File": "expressions/EMO_O-201_Embarrassed_01.exp3.json"
+			},
+			{
+				"Name": "EMO_O-201_Idle_01",
+				"File": "expressions/EMO_O-201_Idle_01.exp3.json"
+			},
+			{
+				"Name": "EMO_O-201_Pain_01",
+				"File": "expressions/EMO_O-201_Pain_01.exp3.json"
+			},
+			{
+				"Name": "EMO_O-201_Smile_01",
+				"File": "expressions/EMO_O-201_Smile_01.exp3.json"
+			},
+			{
+				"Name": "EMO_O-201_Surprised_01",
+				"File": "expressions/EMO_O-201_Surprised_01.exp3.json"
+			},
+			{
+				"Name": "EMO_O-201_Idle_02.exp3.json",
+				"File": "expressions/EMO_O-201_Idle_02.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		}
+	],
+	"HitAreas": []
+}

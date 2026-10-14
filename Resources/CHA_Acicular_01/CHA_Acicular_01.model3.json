@@ -1,0 +1,129 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_Acicular_01.moc3",
+		"Textures": [
+			"CHA_Acicular_01.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_Acicular_01.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "EMO_Acicular_Amazing_01",
+				"File": "expressions/EMO_Acicular_Amazing_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Acicular_Angry_01",
+				"File": "expressions/EMO_Acicular_Angry_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Acicular_Anxiously_01",
+				"File": "expressions/EMO_Acicular_Anxiously_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Acicular_Determined_01",
+				"File": "expressions/EMO_Acicular_Determined_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Acicular_Disdain_01",
+				"File": "expressions/EMO_Acicular_Disdain_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Acicular_Doting_01",
+				"File": "expressions/EMO_Acicular_Doting_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Acicular_Elegant_01",
+				"File": "expressions/EMO_Acicular_Elegant_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Acicular_Embarrassed_01",
+				"File": "expressions/EMO_Acicular_Embarrassed_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Acicular_Emotionally_01",
+				"File": "expressions/EMO_Acicular_Emotionally_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Acicular_Fake_01",
+				"File": "expressions/EMO_Acicular_Fake_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Acicular_Gloomy_01",
+				"File": "expressions/EMO_Acicular_Gloomy_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Acicular_Happy_01",
+				"File": "expressions/EMO_Acicular_Happy_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Acicular_Idle_01",
+				"File": "expressions/EMO_Acicular_Idle_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Acicular_Idle_02",
+				"File": "expressions/EMO_Acicular_Idle_02.exp3.json"
+			},
+			{
+				"Name": "EMO_Acicular_Injury_01",
+				"File": "expressions/EMO_Acicular_Injury_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Acicular_Sad_01",
+				"File": "expressions/EMO_Acicular_Sad_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Acicular_Serious_01",
+				"File": "expressions/EMO_Acicular_Serious_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Acicular_Surprised_01",
+				"File": "expressions/EMO_Acicular_Surprised_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Acicular_Think_01",
+				"File": "expressions/EMO_Acicular_Think_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Acicular_Worry_01",
+				"File": "expressions/EMO_Acicular_Worry_01.exp3.json"
+			}
+		],
+		"Motions": {
+			"": [
+				{
+					"File": "motions/Mouthopen_10s.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				},
+				{
+					"File": "motions/Mouthopen_2s.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				},
+				{
+					"File": "motions/Mouthopen_5s.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		}
+	],
+	"HitAreas": []
+}

@@ -1,0 +1,31 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_Tracy_01.moc3",
+		"Textures": [
+			"CHA_Tracy_01.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_Tracy_01.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "EMO_Researcher_Idle_02.exp3.json",
+				"File": "expressions/EMO_Researcher_Idle_02.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	],
+	"HitAreas": []
+}

@@ -1,0 +1,42 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "CHA_Zelenskyy_01.moc3",
+		"Textures": [
+			"CHA_Zelenskyy_01.2048/texture_00.png"
+		],
+		"DisplayInfo": "CHA_Zelenskyy_01.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "EMO_Zelenskyy_Idle_01",
+				"File": "expressions/EMO_Zelenskyy_Idle_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Zelenskyy_Serious_01",
+				"File": "expressions/EMO_Zelenskyy_Serious_01.exp3.json"
+			},
+			{
+				"Name": "EMO_Zelenskyy_Think_01",
+				"File": "expressions/EMO_Zelenskyy_Think_01.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		}
+	],
+	"HitAreas": []
+}

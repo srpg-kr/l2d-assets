@@ -1,0 +1,87 @@
+{
+	"Type": "Live2D Expression",
+	"FadeInTime": 0.15,
+	"FadeOutTime": 0.15,
+	"Parameters": [
+		{
+			"Id": "ParamEyeLOpen",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"Value": 2,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param24",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouthForm2",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param61",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param42",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param53",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param56",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param55",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param54",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param57",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param58",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param59",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param60",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"Value": 0,
+			"Blend": "Add"
+		}
+	]
+}
